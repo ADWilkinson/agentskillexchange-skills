@@ -502,6 +502,7 @@ CLI helpers, dev environment setup, productivity utilities, and developer workfl
 | [Carry Coding-Agent Memory Across Tools with Engrim](../../skills/carry-coding-agent-memory-across-tools-engrim/) | 282 | — |
 | [Operate multiple coding agents from one Emacs workflow with AI Code Interface](../../skills/operate-multiple-coding-agents-from-one-emacs-workflow-with-ai-code-interface/) | 274 | — |
 | [Orchestrate coding-agent goals and context with Jumbo Context](../../skills/orchestrate-coding-agent-goals-and-context-with-jumbo-context/) | 265 | 647/wk |
+| [Run supervised local coding automation with Alphacode](../../skills/run-supervised-local-coding-automation-with-alphacode/) | 265 | — |
 | [Run agent tool calls through pctx Code Mode and unified MCP](../../skills/run-agent-tool-calls-through-pctx-code-mode-and-unified-mcp/) | 264 | 285/wk |
 | [Orchestrate Windows coding-agent fleets with Wmux](../../skills/orchestrate-windows-coding-agent-fleets-with-wmux/) | 252 | — |
 | [Give teams shared coding-agent memory with Stash](../../skills/give-teams-shared-coding-agent-memory-with-stash/) | 246 | — |

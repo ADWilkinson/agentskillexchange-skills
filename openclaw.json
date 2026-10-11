@@ -2,8 +2,19 @@
   "schema": "openclaw-skills/1.0",
   "source": "https://agentskillexchange.com",
   "generated": "2026-10-11",
-  "total": 3121,
+  "total": 3122,
   "skills": [
+    {
+      "slug": "run-supervised-local-coding-automation-with-alphacode",
+      "name": "Run supervised local coding automation with Alphacode",
+      "title": "Run supervised local coding automation with Alphacode",
+      "description": "Use Alphacode to run terminal-first coding agent tasks that can edit code, execute tests, automate Firefox, control desktop apps, and report verification evidence.",
+      "category": "Developer Tools",
+      "framework": "Multi-Framework",
+      "verification": "listed",
+      "source_url": "https://github.com/dragonked2/alphacode",
+      "github_repo": "dragonked2/alphacode"
+    },
     {
       "slug": "deploy-private-local-agent-stack-with-self-hosted-ai-stack",
       "name": "Deploy a private local agent stack with Self-Hosted AI Stack",

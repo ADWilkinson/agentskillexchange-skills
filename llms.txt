@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-11
-# Total: 3121 skills
+# Total: 3122 skills
+
+## Run supervised local coding automation with Alphacode
+slug: run-supervised-local-coding-automation-with-alphacode
+category: Developer Tools
+framework: Multi-Framework
+verification: Published
+description: Use Alphacode to run terminal-first coding agent tasks that can edit code, execute tests, automate Firefox, control desktop apps, and report verification evidence.
+url: https://agentskillexchange.com/skills/run-supervised-local-coding-automation-with-alphacode/
 
 ## Deploy a private local agent stack with Self-Hosted AI Stack
 slug: deploy-private-local-agent-stack-with-self-hosted-ai-stack

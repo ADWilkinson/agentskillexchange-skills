@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3121 published skills** across **17 categories** · 2,602 security reviewed · Updated 2026-10-11 01:26 UTC
+> **3122 published skills** across **17 categories** · 2,602 security reviewed · Updated 2026-10-11 07:27 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -8,7 +8,7 @@
 
 ## Skills by Category
 
-### 🛠️ Developer Tools (520 skills)
+### 🛠️ Developer Tools (521 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=downloads)
 
@@ -476,6 +476,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [Carry Coding-Agent Memory Across Tools with Engrim](skills/carry-coding-agent-memory-across-tools-engrim/) | Use Engrim to give Codex CLI, Claude Code, Cursor, OpenCode, GitHub Copilot CLI, and Google Antigravity a shared… | Security Reviewed | 282 | — |
 | [Operate multiple coding agents from one Emacs workflow with AI Code Interface](skills/operate-multiple-coding-agents-from-one-emacs-workflow-with-ai-code-interface/) | Give Emacs users one workflow layer for Codex, Claude Code, Gemini CLI, Cursor CLI, opencode, and other coding-agent… | Security Reviewed | 274 | — |
 | [Orchestrate coding-agent goals and context with Jumbo Context](skills/orchestrate-coding-agent-goals-and-context-with-jumbo-context/) | Use Jumbo Context when coding agents need local goal state, project memory, session continuity, and context packets… | Security Reviewed | 265 | 647/wk |
+| [Run supervised local coding automation with Alphacode](skills/run-supervised-local-coding-automation-with-alphacode/) | Use Alphacode to run terminal-first coding agent tasks that can edit code, execute tests, automate Firefox, control… | Published | 265 | — |
 | [Run agent tool calls through pctx Code Mode and unified MCP](skills/run-agent-tool-calls-through-pctx-code-mode-and-unified-mcp/) | Put pctx between agents and tools so MCP servers and custom tools can run through a code-oriented execution layer… | Security Reviewed | 264 | 285/wk |
 | [Orchestrate Windows coding-agent fleets with Wmux](skills/orchestrate-windows-coding-agent-fleets-with-wmux/) | Use Wmux to fan out Claude Code, Codex, Gemini, and other agent CLIs across native Windows panes, isolated… | Security Reviewed | 252 | — |
 | [Give teams shared coding-agent memory with Stash](skills/give-teams-shared-coding-agent-memory-with-stash/) | Connect coding agents to a shared Stash knowledge base so sessions, files, pages, and team context can be searched,… | Security Reviewed | 246 | — |
