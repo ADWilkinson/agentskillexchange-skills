@@ -35,7 +35,7 @@ Skills backed by the most-downloaded npm packages, deduplicated by upstream tool
 | 27 | [Drizzle ORM TypeScript SQL Database Toolkit](skills/drizzle-orm-typescript-sql-database-toolkit/) | 7M/wk | drizzle-orm | Developer Tools |
 | 28 | [Octokit JavaScript GitHub SDK for REST GraphQL and App Automation](skills/octokit-javascript-github-sdk-rest-graphql-app-automation/) | 7M/wk | octokit | Library & API Reference |
 | 29 | [Datadog APM Anomaly Detector](skills/datadog-apm-anomaly-detector/) | 6.6M/wk | datadog | Monitoring & Alerts |
-| 30 | [Twilio MCP Server](skills/twilio-mcp-server/) | 6.4M/wk | twilio | Integrations & Connectors |
+| 30 | [Twilio MCP Server](skills/twilio-mcp-server/) | 6.5M/wk | twilio | Integrations & Connectors |
 | 31 | [API Client Generator Skill](skills/api-client-generator-skill/) | 5.7M/wk | openapi-generator | Developer Tools |
 | 32 | [SQLite Analyst](skills/sqlite-analyst/) | 5.5M/wk | sqlite | Developer Tools |
 | 33 | [PostHog Product Analytics and Feature Flags SDK](skills/posthog-product-analytics-and-feature-flags-sdk/) | 4.8M/wk | posthog-js | Monitoring & Alerts |
