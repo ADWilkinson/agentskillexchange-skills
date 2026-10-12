@@ -2,8 +2,30 @@
   "schema": "codex-skills/1.0",
   "source": "https://agentskillexchange.com",
   "generated": "2026-10-12",
-  "total": 3122,
+  "total": 3124,
   "skills": [
+    {
+      "slug": "run-aeo-and-geo-marketing-workflows-with-gtm-engineer-skills",
+      "name": "Run AEO and GEO marketing workflows with GTM Engineer Skills",
+      "title": "Run AEO and GEO marketing workflows with GTM Engineer Skills",
+      "description": "Install GTM Engineer Skills so Codex or Claude Code can research a brand, plan SEO/GEO content, audit AEO readiness, and produce reviewable marketing artifacts.",
+      "category": "Content Writing & SEO",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/onvoyage-ai/gtm-engineer-skills",
+      "github_repo": "onvoyage-ai/gtm-engineer-skills"
+    },
+    {
+      "slug": "audit-and-fix-website-qa-issues-with-squirrelscan",
+      "name": "Audit and fix website QA issues with Squirrelscan",
+      "title": "Audit and fix website QA issues with Squirrelscan",
+      "description": "Run Squirrelscan from a coding agent to audit SEO, performance, security, accessibility, and agent-experience issues, then feed exact fixes into an agent repair loop.",
+      "category": "Security & Verification",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/squirrelscan/squirrelscan",
+      "github_repo": "squirrelscan/squirrelscan"
+    },
     {
       "slug": "run-supervised-local-coding-automation-with-alphacode",
       "name": "Run supervised local coding automation with Alphacode",

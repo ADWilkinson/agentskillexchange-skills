@@ -241,6 +241,7 @@ Auth setup, vulnerability scanning, compliance checks, and security automation.
 | [Review contract risk and redlines with Claude Legal Skill](../../skills/review-contract-risk-and-redlines-with-claude-legal-skill/) | 355 | — |
 | [Block agent egress, MCP prompt injection, and secret exfiltration before agents touch the open internet with Pipelock](../../skills/block-agent-egress-mcp-prompt-injection-and-secret-exfiltration-before-agents-touch-the-open-internet-with-pipelock/) | 333 | — |
 | [SLSA Verifier Build Provenance Checker](../../skills/slsa-verifier-build-provenance-checker/) | 318 | — |
+| [Audit and fix website QA issues with Squirrelscan](../../skills/audit-and-fix-website-qa-issues-with-squirrelscan/) | 272 | 6.4k/wk |
 | [Scan agent repos for repo-poisoning, unsafe AI config files, and MCP attack surfaces with MEDUSA](../../skills/scan-agent-repos-for-repo-poisoning-unsafe-ai-config-files-and-mcp-attack-surfaces-with-medusa/) | 256 | — |
 | [Scan repositories for AI supply-chain and agent-security risks with Medusa Security](../../skills/scan-repositories-for-ai-supply-chain-and-agent-security-risks-with-medusa-security/) | 256 | — |
 | [Gate agent code changes with OpenQodex review](../../skills/gate-agent-code-changes-with-openqodex-review/) | 247 | 1.3k/wk |

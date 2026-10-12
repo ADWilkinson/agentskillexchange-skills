@@ -78,6 +78,7 @@ Blog posts, SEO optimization, content strategy, and writing assistance.
 | [Content Readability Analyzer](../../skills/content-readability-analyzer-agent/) | 1.4k | — |
 | [Content Readability Optimizer](../../skills/content-readability-optimizer/) | 1.4k | — |
 | [textstat Python Readability Statistics Calculator](../../skills/textstat-python-readability-statistics-calculator/) | 1.4k | — |
+| [Run AEO and GEO marketing workflows with GTM Engineer Skills](../../skills/run-aeo-and-geo-marketing-workflows-with-gtm-engineer-skills/) | 1.3k | — |
 | [Repair AI-shaped drafts with Sepia’s venue-specific writing workflows](../../skills/repair-ai-shaped-drafts-with-sepia-venue-specific-writing-workflows/) | 1.2k | — |
 | [schema-dts TypeScript Types for Schema.org Structured Data](../../skills/schema-dts-typescript-types-schemaorg-structured-data/) | 1.2k | 1.5M/wk |
 | [Clean Chinese AI-sounding writing with Shuorenhua](../../skills/clean-chinese-ai-sounding-writing-with-shuorenhua/) | 1.1k | — |

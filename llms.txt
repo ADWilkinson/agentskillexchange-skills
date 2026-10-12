@@ -1,7 +1,23 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-12
-# Total: 3122 skills
+# Total: 3124 skills
+
+## Run AEO and GEO marketing workflows with GTM Engineer Skills
+slug: run-aeo-and-geo-marketing-workflows-with-gtm-engineer-skills
+category: Content Writing & SEO
+framework: Multi-Framework
+verification: Security Reviewed
+description: Install GTM Engineer Skills so Codex or Claude Code can research a brand, plan SEO/GEO content, audit AEO readiness, and produce reviewable marketing artifacts.
+url: https://agentskillexchange.com/skills/run-aeo-and-geo-marketing-workflows-with-gtm-engineer-skills/
+
+## Audit and fix website QA issues with Squirrelscan
+slug: audit-and-fix-website-qa-issues-with-squirrelscan
+category: Security & Verification
+framework: Multi-Framework
+verification: Security Reviewed
+description: Run Squirrelscan from a coding agent to audit SEO, performance, security, accessibility, and agent-experience issues, then feed exact fixes into an agent repair loop.
+url: https://agentskillexchange.com/skills/audit-and-fix-website-qa-issues-with-squirrelscan/
 
 ## Run supervised local coding automation with Alphacode
 slug: run-supervised-local-coding-automation-with-alphacode
