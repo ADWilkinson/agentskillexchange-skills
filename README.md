@@ -51,7 +51,7 @@ npm exec --package=skills@1.5.7 -- skills add agentskillexchange/skills --skill 
 
 ## Skill of the Day
 
-**[Install Superpowers methodology for coding agents](skills/install-superpowers-methodology-for-coding-agents/)** — Use Superpowers to give coding agents a structured software-development method with discovery, spec review, planning, TDD, subagents, and review loops.
+**[Use RAGFlow as a retrieval and context layer for agent workflows](skills/use-ragflow-as-a-retrieval-and-context-layer-for-agent-workflows/)** — Build a supervised RAG context layer with RAGFlow so agents can index documents, retrieve grounded context, and answer with traceable source support.
 
 _Rotates daily across downloaded, starred, recent, verified, and industry-curated skills._
 
@@ -129,8 +129,8 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 | [Run IDE-wired terminal coding-agent workflows with Oh My Pi](skills/run-ide-wired-terminal-coding-agent-workflows-with-oh-my-pi/) | Use Oh My Pi when an operator wants a local terminal coding agent with IDE-grade context, built-in file... | 31.8k | Developer Tools |
 | [Run a Docling API server for agent document conversion](skills/run-a-docling-api-server-for-agent-document-conversion/) | Deploy Docling API so agents can convert PDFs, Office files, images, HTML, CSV, and other documents into Markdown... | 1.7k | Data Extraction & Transformation |
 | [Schedule Node Agent Jobs with node-cron](skills/schedule-node-agent-jobs-with-node-cron/) | Use node-cron to add recurring background jobs to Node.js agent services with overlap prevention, distributed coordination, background task... | 3.3k | Templates & Workflows |
-| [Compile agent-ready documentation bundles with docmd](skills/compile-agent-ready-documentation-bundles-with-docmd/) | Use docmd when a project needs one Markdown documentation source to produce a site, search index, llms.txt, MCP... | 2.5k | Library & API Reference |
 | [Build TypeScript spreadsheet import and export workflows with hucre](skills/build-typescript-spreadsheet-import-and-export-workflows-with-hucre/) | Use hucre when a coding agent needs to add zero-dependency XLSX, CSV, ODS, JSON, NDJSON, or XML spreadsheet... | 2.2k | Data Extraction & Transformation |
+| [Compile agent-ready documentation bundles with docmd](skills/compile-agent-ready-documentation-bundles-with-docmd/) | Use docmd when a project needs one Markdown documentation source to produce a site, search index, llms.txt, MCP... | 2.5k | Library & API Reference |
 | [Run agentic quality engineering checks with Agentic QE](skills/run-agentic-quality-engineering-checks-with-agentic-qe/) | Configure Agentic QE in a repository so a coding agent can generate tests, inspect coverage gaps, investigate flaky... | 495 | Code Quality & Review |
 | [Visualize OpenTelemetry agent traces with Agent Prism](skills/visualize-opentelemetry-agent-traces-with-agent-prism/) | Add Agent Prism's React trace viewer to inspect LLM calls, tool executions, retries, and agent workflows from OpenTelemetry... | 393 | Monitoring & Alerts |
 
