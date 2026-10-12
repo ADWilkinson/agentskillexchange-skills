@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-12
-# Total: 3129 skills
+# Total: 3130 skills
+
+## Gauntlet
+slug: gauntlet
+category: Code Quality & Review
+framework: Multi-Framework
+verification: Published
+description: Evidence-driven adversarial review and root-cause repair of code, designs, APIs, infrastructure, tests, and agent workflows. Use for deep reviews, red-team reviews, edge-case audits, production-readiness…
+url: https://agentskillexchange.com/skills/gauntlet/
 
 ## Publish with Shipvela
 slug: shipvela-publish

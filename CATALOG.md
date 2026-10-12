@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3129 published skills** across **17 categories** · 2,605 security reviewed · Updated 2026-10-12 13:26 UTC
+> **3130 published skills** across **17 categories** · 2,605 security reviewed · Updated 2026-10-12 19:27 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -1311,7 +1311,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Data
 | [Weights & Biases Run Monitor](skills/wandb-run-monitor/) | Uses the W&B Python SDK and Public API to stream live training metrics, system stats, and gradients from active… | Security Reviewed | — | — |
 
 
-### ✅ Code Quality & Review (206 skills)
+### ✅ Code Quality & Review (207 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Code%20Quality%20%26%20Review) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Code%20Quality%20%26%20Review&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Code%20Quality%20%26%20Review&sort=downloads)
 
@@ -1514,6 +1514,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Code
 | [Codecov Coverage Report Analyzer](skills/codecov-coverage-report-analyzer/) | Integrates with the Codecov API v2 and codecov-cli to upload coverage reports, analyze coverage deltas, and enforce… | Security Reviewed | — | — |
 | [Codecov Coverage Tracker](skills/codecov-coverage-tracker-skill/) | Monitors test coverage trends using the Codecov API v2 /repos/{owner}/{repo}/commits endpoint. Compares branch… | Security Reviewed | — | — |
 | [Codecov Coverage Tracker Agent](skills/codecov-coverage-tracker-agent/) | Tracks and enforces code coverage using Codecov API, lcov, and Istanbul/nyc. Generates coverage reports, detects… | Security Reviewed | — | — |
+| [Gauntlet](skills/gauntlet/) | Evidence-driven adversarial review and root-cause repair of code, designs, APIs, infrastructure, tests, and agent… | Published | — | — |
 | [Git Bisect Automation Agent](skills/git-bisect-automation-agent/) | Automates git bisect workflows to find regression-introducing commits using custom test scripts and the git bisect… | Security Reviewed | — | — |
 | [Multi-Axis Code Review and Quality Gates](skills/multi-axis-code-review-and-quality-gates/) | Run a structured pre-merge review across correctness, readability, architecture, security, and performance instead… | Security Reviewed | — | — |
 | [Multi-Lens Review](skills/multi-lens-review/) | Review a PR or diff through three independent focused lenses (correctness, security, test coverage), then… | Published | — | — |

@@ -1,8 +1,19 @@
 {
   "version": "2.0",
-  "total": 3129,
+  "total": 3130,
   "generated": "2026-10-12",
   "skills": [
+    {
+      "slug": "gauntlet",
+      "name": "Gauntlet",
+      "title": "Gauntlet",
+      "description": "Evidence-driven adversarial review and root-cause repair of code, designs, APIs, infrastructure, tests, and agent workflows. Use for deep reviews, red-team reviews, edge-case audits, production-readiness…",
+      "category": "Code Quality & Review",
+      "framework": "Multi-Framework",
+      "verification": "listed",
+      "source_url": "https://github.com/aakashH242/gauntlet",
+      "github_repo": "aakashh242/gauntlet"
+    },
     {
       "slug": "shipvela-publish",
       "name": "Publish with Shipvela",

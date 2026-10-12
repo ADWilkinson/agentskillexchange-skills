@@ -237,6 +237,7 @@ Linting rules, review checklists, code standards enforcement, and quality gates.
 | [Codecov Coverage Report Analyzer](../../skills/codecov-coverage-report-analyzer/) | — | — |
 | [Codecov Coverage Tracker](../../skills/codecov-coverage-tracker-skill/) | — | — |
 | [Codecov Coverage Tracker Agent](../../skills/codecov-coverage-tracker-agent/) | — | — |
+| [Gauntlet](../../skills/gauntlet/) | — | — |
 | [Git Bisect Automation Agent](../../skills/git-bisect-automation-agent/) | — | — |
 | [Multi-Axis Code Review and Quality Gates](../../skills/multi-axis-code-review-and-quality-gates/) | — | — |
 | [Multi-Lens Review](../../skills/multi-lens-review/) | — | — |
