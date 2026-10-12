@@ -2,8 +2,63 @@
   "schema": "openclaw-skills/1.0",
   "source": "https://agentskillexchange.com",
   "generated": "2026-10-12",
-  "total": 3124,
+  "total": 3129,
   "skills": [
+    {
+      "slug": "shipvela-publish",
+      "name": "Publish with Shipvela",
+      "title": "Publish with Shipvela",
+      "description": "Publish a website through an owner-approved Shipvela MCP connection, track deployment status and logs, and return a verified live HTTPS URL. Use when the…",
+      "category": "CI/CD Integrations",
+      "framework": "Codex",
+      "verification": "listed",
+      "source_url": "https://github.com/stefanautomateed/shipvela-codex/tree/main/skills/shipvela-publish",
+      "github_repo": "stefanautomateed/shipvela-codex"
+    },
+    {
+      "slug": "maqami-travel-booking",
+      "name": "Search and Book Hotels and Flights with MAQAMI Travel",
+      "title": "Search and Book Hotels and Flights with MAQAMI Travel",
+      "description": "Use MAQAMI Travel when an agent should search hotels (3M+) and flights for specific dates, compare rates, read hotel details and reviews, then send…",
+      "category": "Integrations & Connectors",
+      "framework": "MCP",
+      "verification": "listed",
+      "source_url": "https://github.com/negm17111995/mcp-server/tree/main/skills/maqami-travel-booking",
+      "github_repo": "negm17111995/mcp-server"
+    },
+    {
+      "slug": "darkmoon-pentest-mcp",
+      "name": "Darkmoon Pentest MCP",
+      "title": "Darkmoon Pentest MCP",
+      "description": "Start and follow authorized autonomous AI penetration tests from Claude Code, Cursor or Codex through the darkmoon MCP server: run_pentest launches a run, get_run_status…",
+      "category": "Security & Verification",
+      "framework": "MCP",
+      "verification": "listed",
+      "source_url": "https://github.com/ASCIT31/darkmoon-mcp-server",
+      "github_repo": "ascit31/darkmoon-mcp-server"
+    },
+    {
+      "slug": "aident-loadout",
+      "name": "Aident Loadout",
+      "title": "Aident Loadout",
+      "description": "Give Claude Code, Codex, Cursor, ChatGPT and other MCP clients 1,000+ apps and 400+ expert-built Skills through one reusable Aident Loadout setup, with credentials…",
+      "category": "Integrations & Connectors",
+      "framework": "MCP",
+      "verification": "listed",
+      "source_url": "https://github.com/Aident-AI/aident-skill",
+      "github_repo": "aident-ai/aident-skill"
+    },
+    {
+      "slug": "run-owned-terminal-coding-agent-workflows-with-zero",
+      "name": "Run owned terminal coding-agent workflows with Zero",
+      "title": "Run owned terminal coding-agent workflows with Zero",
+      "description": "Use Zero to run local, scriptable coding-agent sessions with operator-controlled models, permissions, tools, skills, MCP servers, and durable transcripts.",
+      "category": "Developer Tools",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/Twigpine/zero",
+      "github_repo": "Twigpine/zero"
+    },
     {
       "slug": "run-aeo-and-geo-marketing-workflows-with-gtm-engineer-skills",
       "name": "Run AEO and GEO marketing workflows with GTM Engineer Skills",

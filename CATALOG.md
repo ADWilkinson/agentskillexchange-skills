@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3124 published skills** across **17 categories** · 2,605 security reviewed · Updated 2026-10-12 07:27 UTC
+> **3129 published skills** across **17 categories** · 2,605 security reviewed · Updated 2026-10-12 13:26 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -8,7 +8,7 @@
 
 ## Skills by Category
 
-### 🛠️ Developer Tools (521 skills)
+### 🛠️ Developer Tools (522 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=downloads)
 
@@ -127,7 +127,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [Budibase Open Source Low-Code Operations App Platform](skills/budibase-open-source-low-code-operations-app-platform/) | Budibase is an open-source low-code platform for internal apps, forms, portals, and approvals. It gives agents a… | Security Reviewed | 27.8k | 41/wk |
 | [Hyperfine Command-Line Benchmarking Tool](skills/hyperfine-command-line-benchmarking-tool/) | Benchmark command-line programs with statistical rigor using Hyperfine. Performs warmup runs, detects outliers,… | Security Reviewed | 27.8k | — |
 | [Jujutsu Git-Compatible Version Control System](skills/jujutsu-jj-git-compatible-vcs/) | Jujutsu (jj) is a powerful Git-compatible version control system that reimagines VCS workflows with automatic… | Security Reviewed | 27.5k | — |
-| [ESLint Code Review](skills/eslint-code-review/) | ESLint Code Review is built around ESLint static analysis for JavaScript and TypeScript. The underlying ecosystem is… | Security Reviewed | 27.3k | 162.2M/wk |
+| [ESLint Code Review](skills/eslint-code-review/) | ESLint Code Review is built around ESLint static analysis for JavaScript and TypeScript. The underlying ecosystem is… | Security Reviewed | 27.3k | 161.6M/wk |
 | [ESLint Rule Generator Agent](skills/eslint-rule-generator-agent/) | Generates custom ESLint rules from natural language descriptions using the ESLint RuleTester API and AST selectors.… | Security Reviewed | 27.2k | 120.2M/wk |
 | [Run open-source terminal coding workflows with Qwen Code](skills/run-open-source-terminal-coding-workflows-with-qwen-code/) | Use Qwen Code as a repeatable terminal coding agent: install the CLI, authenticate a provider, run interactive or… | Security Reviewed | 26.6k | 54.7k/wk |
 | [smolagents Code-First AI Agent Library](skills/smolagents-code-first-ai-agent-library/) | smolagents is HuggingFace's barebones Python library for building AI agents that think in code rather than JSON.… | Security Reviewed | 26.4k | — |
@@ -307,7 +307,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [Build Java agent transport gateways with Atmosphere](skills/build-java-agent-transport-gateways-with-atmosphere/) | Use Atmosphere to build JVM agent gateways that stream over WebSocket, SSE, gRPC, WebTransport, MCP, A2A, and AG-UI… | Published | 3.8k | — |
 | [Build agent-maintainable reactive UI with ArrowJS](skills/build-agent-maintainable-reactive-ui-with-arrowjs/) | Use ArrowJS when a coding agent needs to add or maintain small reactive web interfaces using DOM-native JavaScript,… | Security Reviewed | 3.8k | 38.7k/wk |
 | [Manage Cross-Agent Skill Libraries with Skills Manager](skills/manage-cross-agent-skill-libraries-with-skills-manager/) | Use Skills Manager when an operator needs one auditable library for installing, inspecting, tagging, syncing,… | Security Reviewed | 3.7k | — |
-| [AWS S3 MCP Server](skills/aws-s3-mcp-server/) | AWS S3 MCP Server is built around Amazon Web Services cloud APIs. The underlying ecosystem is represented by… | Published | 3.6k | 49.9M/wk |
+| [AWS S3 MCP Server](skills/aws-s3-mcp-server/) | AWS S3 MCP Server is built around Amazon Web Services cloud APIs. The underlying ecosystem is represented by… | Published | 3.6k | 50M/wk |
 | [AWS Lambda MCP Server](skills/aws-lambda-mcp-server/) | AWS Lambda MCP Server is built around Amazon Web Services cloud APIs. The underlying ecosystem is represented by… | Published | 3.6k | 12M/wk |
 | [Cloud Cost Analysis](skills/cloud-cost-analysis/) | Cloud Cost Analysis is built around Amazon Web Services cloud APIs. The underlying ecosystem is represented by… | Security Reviewed | 3.6k | — |
 | [Topgrade Universal System Package Updater](skills/topgrade-universal-system-package-updater/) | Topgrade is a CLI tool written in Rust that detects all package managers and updatable sources on your system and… | Security Reviewed | 3.6k | — |
@@ -358,6 +358,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [Run coding agents in isolated observable VibeKit sandboxes](skills/run-coding-agents-in-isolated-observable-vibekit-sandboxes/) | Launch coding agents such as Claude Code, Gemini, or Codex in clean sandboxed sessions with redaction and run… | Security Reviewed | 1.8k | — |
 | [Run provider-agnostic terminal coding sessions with FuXi](skills/run-provider-agnostic-terminal-coding-sessions-with-fuxi/) | Use FuXi when an operator wants a terminal coding agent to edit code, run commands, drive tools, and verify changes… | Security Reviewed | 1.8k | — |
 | [Run and lifecycle-manage MCP servers in isolated environments with ToolHive before local MCP sprawl turns brittle](skills/run-and-lifecycle-manage-mcp-servers-in-isolated-environments-with-toolhive-before-local-mcp-sprawl-turns-brittle/) | Use ToolHive to install, isolate, update, and govern MCP servers so agents connect to a predictable local or… | Security Reviewed | 1.7k | — |
+| [Run owned terminal coding-agent workflows with Zero](skills/run-owned-terminal-coding-agent-workflows-with-zero/) | Use Zero to run local, scriptable coding-agent sessions with operator-controlled models, permissions, tools, skills,… | Security Reviewed | 1.7k | 967/wk |
 | [Give coding agents persistent memory with Memanto](skills/give-coding-agents-persistent-memory-with-memanto/) | Use Memanto to add local or cloud-backed persistent memory to Claude Code, Cursor, Codex, and other coding agents… | Security Reviewed | 1.7k | 394/wk |
 | [Run queued background coding sessions across GitHub, Slack, Linear, and webhooks with background-agents](skills/run-queued-background-coding-sessions-across-github-slack-linear-and-webhooks-with-background-agents/) | Dispatch long-running coding work to background agents, check progress later, and pull reviewed outputs back into… | Security Reviewed | 1.6k | — |
 | [Audit and maintain cross-agent skill libraries with Chops](skills/audit-and-maintain-cross-agent-skill-libraries-with-chops/) | Use Chops to discover, search, edit, and organize local or remote agent skills across Claude Code, Cursor, Codex,… | Security Reviewed | 1.6k | — |
@@ -374,7 +375,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [Terraform MCP Server for Infrastructure as Code](skills/terraform-mcp-server-infrastructure-as-code/) | The official HashiCorp Terraform MCP server integrates with the Terraform Registry and HCP Terraform, enabling AI… | Security Reviewed | 1.3k | — |
 | [WASM Component Model Linker](skills/wasm-component-model-linker/) | Compiles and links WebAssembly components using the WASI Preview 2 Component Model, wasm-tools CLI for component… | Published | 1.3k | — |
 | [Coordinate peer CLI agents with agmsg](skills/coordinate-peer-cli-agents-with-agmsg/) | Let Claude Code, Codex, Gemini CLI, Copilot CLI, and other terminal agents exchange messages through a shared local… | Security Reviewed | 1.3k | 4k/wk |
-| [Claude Code MCP Bridge](skills/claude-code-mcp-bridge/) | Run Claude Code as a one-shot MCP tool so other agents and editors can delegate coding tasks to it. An… | Security Reviewed | 1.3k | 198/wk |
+| [Claude Code MCP Bridge](skills/claude-code-mcp-bridge/) | Run Claude Code as a one-shot MCP tool so other agents and editors can delegate coding tasks to it. An… | Security Reviewed | 1.3k | 210/wk |
 | [Route Codex and Claude Code through an opencodex provider proxy](skills/route-codex-and-claude-code-through-an-opencodex-provider-proxy/) | Run a local proxy that lets Codex and Claude Code use configured LLM providers, routed models, and account pools… | Security Reviewed | 1.3k | 24k/wk |
 | [Run React Native implementation and troubleshooting workflows with Callstack Agent Skills](skills/run-react-native-implementation-and-troubleshooting-workflows-with-callstack-agent-skills/) | Give coding agents React Native-specific build, upgrade, GitHub Actions, and troubleshooting guidance instead of… | Security Reviewed | 1.3k | — |
 | [Manage parallel coding agent sessions and worktrees with CCManager](skills/manage-parallel-coding-agent-sessions-and-worktrees-with-ccmanager/) | Run Claude Code, Codex CLI, Gemini CLI, Cursor Agent, Copilot CLI, Cline CLI, OpenCode, Kimi CLI, and related coding… | Security Reviewed | 1.2k | 2.5k/wk |
@@ -458,7 +459,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [Monitor local agent sessions and costs with ClawMetry](skills/monitor-local-agent-sessions-and-costs-with-clawmetry/) | Use ClawMetry when an operator needs a local dashboard for agent sessions, token spend, tool calls, alerts, and… | Security Reviewed | 401 | — |
 | [Build embeddable Rust coding agents with Cersei](skills/build-embeddable-rust-coding-agents-with-cersei/) | Compose coding-agent primitives in Rust, including tool execution, LLM streaming, sub-agent orchestration, memory,… | Security Reviewed | 400 | — |
 | [Audit and deploy cross-agent extensions with HarnessKit](skills/audit-and-deploy-cross-agent-extensions-with-harnesskit/) | Use HarnessKit to inventory, audit, enable, disable, and deploy skills, MCP servers, plugins, hooks, CLIs, configs,… | Security Reviewed | 396 | — |
-| [E2B Code Execution MCP](skills/e2b-code-execution-mcp/) | Add sandboxed code execution to any MCP-compatible AI client. E2B gives agents access to secure, internet-connected… | Security Reviewed | 393 | 248/wk |
+| [E2B Code Execution MCP](skills/e2b-code-execution-mcp/) | Add sandboxed code execution to any MCP-compatible AI client. E2B gives agents access to secure, internet-connected… | Security Reviewed | 393 | 257/wk |
 | [Give Windows coding agents Linux-style shell commands with Fauxnix](skills/give-windows-coding-agents-linux-style-shell-commands-with-fauxnix/) | Install Fauxnix so agents on Windows can issue familiar Linux-style shell commands that are translated… | Security Reviewed | 393 | 74/wk |
 | [Coordinate Terminal Coding Agents With hcom](skills/coordinate-terminal-coding-agents-with-hcom/) | Use hcom to launch, message, watch, fork, and coordinate multiple terminal coding agents across Claude Code, Codex,… | Security Reviewed | 393 | — |
 | [Reduce coding-agent token waste with Chisle](skills/reduce-coding-agent-token-waste-with-chisle/) | Use Chisle to add concise coding rules, YAGNI-first defaults, and supported tool-output compression across multiple… | Published | 388 | 288/wk |
@@ -809,7 +810,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Temp
 | [Turn Notion specs into implementation plans and tasks with notion-spec-to-implementation](skills/turn-notion-specs-into-implementation-plans-and-tasks-with-notion-spec-to-implementation/) | Read a Notion spec, extract requirements and ambiguities, then create a linked implementation plan, task breakdown,… | Published | — | — |
 
 
-### 🔒 Security & Verification (255 skills)
+### 🔒 Security & Verification (256 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Security%20%26%20Verification) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Security%20%26%20Verification&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Security%20%26%20Verification&sort=downloads)
 
@@ -1022,7 +1023,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Secu
 | [Gate agent code changes with OpenQodex review](skills/gate-agent-code-changes-with-openqodex-review/) | Run diff-aware scanner and AI review gates before pushing Claude Code or Codex changes, with pinned scanners,… | Security Reviewed | 247 | 1.3k/wk |
 | [Put approval gates and audit-ready policy checks between agents and external actions with DashClaw](skills/put-approval-gates-and-audit-ready-policy-checks-between-agents-and-external-actions-with-dashclaw/) | Use DashClaw to intercept agent actions before they hit external systems, require approval or policy evaluation, and… | Security Reviewed | 241 | 1.6k/wk |
 | [Enforce policy-gated and auditable agent execution with LACP](skills/enforce-policy-gated-and-auditable-agent-execution-with-lacp/) | Run Claude, Codex, and related coding-agent tasks through policy gates, evidence loops, and auditable execution… | Security Reviewed | 211 | — |
-| [Sentry for AI](skills/sentry-for-ai/) | Observability and debugging support for AI-assisted application workflows. | Security Reviewed | 190 | 109/wk |
+| [Sentry for AI](skills/sentry-for-ai/) | Observability and debugging support for AI-assisted application workflows. | Security Reviewed | 190 | 103/wk |
 | [Lint and autofix agent config files before broken prompts, hooks, or MCP settings derail runs with agnix](skills/lint-and-autofix-agent-config-files-before-broken-prompts-hooks-or-mcp-settings-derail-runs-with-agnix/) | Validate and optionally autofix SKILL.md, CLAUDE.md, AGENTS.md, hooks, and MCP config files before bad agent… | Security Reviewed | 179 | 6k/wk |
 | [A/B test agent skills and MCP changes with Caliper](skills/ab-test-agent-skills-mcp-changes-with-caliper/) | Use Caliper to run real agent tasks with and without a skill, MCP server, or rule change so reliability and token… | Security Reviewed | 175 | — |
 | [Gitxray GitHub Repository Security X-Ray](skills/gitxray-github-repository-security-xray/) | A multifaceted OSINT and forensics tool for GitHub repositories that detects fake stargazers, tampered commits,… | Published | 174 | — |
@@ -1054,6 +1055,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Secu
 | [Emit policy receipts for hard-rule agent skills with Pluribus](skills/emit-policy-receipts-for-hard-rule-agent-skills-with-pluribus/) | Uses the Pluribus skill-policy receipt recipe to make hard agent-skill rules auditable before and after writes. Best… | Published | — | 1.3k/wk |
 | [Audit and normalize SPDX license headers before releasing or open-sourcing a repository](skills/audit-and-normalize-spdx-license-headers-before-releasing-or-open-sourcing-a-repository/) | Use REUSE when an agent needs file-level licensing clarity instead of guessing from a single top-level LICENSE file.… | Security Reviewed | — | — |
 | [CloudTrail Anomaly Detection Agent](skills/cloudtrail-anomaly-detection-agent/) | Analyzes AWS CloudTrail event logs via the Lookup Events API to detect anomalous IAM activity. Uses statistical… | Security Reviewed | — | — |
+| [Darkmoon Pentest MCP](skills/darkmoon-pentest-mcp/) | Start and follow authorized autonomous AI penetration tests from Claude Code, Cursor or Codex through the darkmoon… | Published | — | — |
 | [DocuSign Contract Auto-Sender with Conditional Logic](skills/docusign-contract-auto-sender/) | Uses the DocuSign eSignature REST API SDK to programmatically create envelope definitions with conditional routing… | Published | — | — |
 | [GPG Encryption and Key Management Agent](skills/gpg-encryption-key-management-agent/) | Manages GPG key lifecycle and file encryption operations using GnuPG CLI and GPGME library. Handles keyserver… | Security Reviewed | — | — |
 | [NPM Audit Deep Scanner](skills/npm-audit-deep-scanner/) | Extends npm audit with deep transitive dependency analysis using the npm Registry API. Generates fix PRs via GitHub… | Security Reviewed | — | — |
@@ -1523,7 +1525,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Code
 | [Simplify recently changed code and open low-risk refactor pull requests](skills/simplify-recently-changed-code-and-open-low-risk-refactor-pull-requests/) | This entry turns GitHub Next's Code Simplifier workflow into a narrow cleanup agent. The agent inspects code changed… | Security Reviewed | — | — |
 
 
-### 🔧 CI/CD Integrations (192 skills)
+### 🔧 CI/CD Integrations (193 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=CI%2FCD%20Integrations) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=CI%2FCD%20Integrations&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=CI%2FCD%20Integrations&sort=downloads)
 
@@ -1720,10 +1722,11 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=CI%2
 | [Investigate failing GitHub Actions runs with CI Doctor](skills/investigate-failing-github-actions-runs-with-ci-doctor-2/) | Use GitHub Next's CI Doctor workflow to watch GitHub Actions runs, pull failure logs, trace recurring patterns, and… | Security Reviewed | — | — |
 | [Investigate failing GitHub Actions runs with CI Doctor](skills/investigate-failing-github-actions-runs-with-ci-doctor/) | Use GitHub Next's CI Doctor workflow to watch GitHub Actions runs, pull failure logs, trace recurring patterns, and… | Security Reviewed | — | — |
 | [npm Audit Dependency Report Generator](skills/npm-audit-dependency-report-generator/) | Generates comprehensive vulnerability reports from npm audit JSON output and the OSV (Open Source Vulnerabilities)… | Security Reviewed | — | — |
+| [Publish with Shipvela](skills/shipvela-publish/) | Publish a website through an owner-approved Shipvela MCP connection, track deployment status and logs, and return a… | Published | — | — |
 | [Update repository docs automatically after code changes and open review PRs](skills/update-repository-docs-automatically-after-code-changes-and-open-review-prs/) | Use GitHub Next's update-docs workflow when code changes should trigger documentation maintenance instead of waiting… | Security Reviewed | — | — |
 
 
-### 🔗 Integrations & Connectors (179 skills)
+### 🔗 Integrations & Connectors (181 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Integrations%20%26%20Connectors) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Integrations%20%26%20Connectors&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Integrations%20%26%20Connectors&sort=downloads)
 
@@ -1791,7 +1794,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Inte
 | [Render interactive MCP tool UIs with mcp-ui](skills/render-interactive-mcp-tool-uis-with-mcp-ui/) | Build an MCP Apps resource, attach it to a tool through _meta.ui.resourceUri, and verify the host renders the… | Security Reviewed | 4.9k | 1.6M/wk |
 | [Atlassian MCP Server for Jira and Confluence](skills/atlassian-mcp-server-jira-confluence/) | mcp-atlassian is a Model Context Protocol server that connects AI assistants to Atlassian Jira and Confluence. It… | Security Reviewed | 4.8k | — |
 | [Add temporal context memory to agent workflows with Zep](skills/add-temporal-context-memory-to-agent-workflows-with-zep/) | Use Zep as an external context layer for agents that need to store events, assemble temporal graph context, and… | Security Reviewed | 4.6k | 463k/wk |
-| [Stripe MCP Server](skills/stripe-mcp-server/) | Stripe MCP Server is built around Stripe payments platform. The underlying ecosystem is represented by… | Security Reviewed | 4.4k | 23.7M/wk |
+| [Stripe MCP Server](skills/stripe-mcp-server/) | Stripe MCP Server is built around Stripe payments platform. The underlying ecosystem is represented by… | Security Reviewed | 4.4k | 23.9M/wk |
 | [Stripe Connect Account Provisioner](skills/stripe-connect-account-provisioner/) | Automates Stripe Connect onboarding by provisioning connected accounts via the Stripe API. Handles account creation,… | Security Reviewed | 4.4k | 9.3M/wk |
 | [Stripe Connect Integration](skills/stripe-connect-integration/) | Manages Stripe Connect accounts and payment flows using the Stripe Node.js SDK (stripe@14.x). Handles onboarding via… | Security Reviewed | 4.4k | 9.3M/wk |
 | [Stripe Connect Marketplace Sync](skills/stripe-connect-marketplace-sync/) | Synchronize marketplace transactions using the Stripe Connect API with automatic payout splitting, transfer… | Security Reviewed | 4.4k | 9.3M/wk |
@@ -1810,7 +1813,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Inte
 | [Ingestr Cross-Database Data Copier](skills/ingestr-cross-database-data-copier/) | Copy data between any databases with a single CLI command using Ingestr. Supports 50+ sources and destinations… | Published | 3.4k | — |
 | [Svix Enterprise Webhook Delivery Service](skills/svix-enterprise-webhook-delivery-service/) | Svix is an open-source enterprise-grade webhook delivery service written in Rust. It handles webhook sending,… | Security Reviewed | 3.2k | — |
 | [Connect agents to governed data and code graphs with GraphJin](skills/connect-agents-to-governed-data-and-code-graphs-with-graphjin/) | Expose databases, files, code indexes, workflows, and policy-aware GraphQL through GraphJin's MCP and agent… | Security Reviewed | 3.1k | 866/wk |
-| [SendGrid MCP Server](skills/sendgrid-mcp-server/) | SendGrid MCP Server is built around SendGrid email delivery platform. The underlying ecosystem is represented by… | Security Reviewed | 3.1k | 61k/wk |
+| [SendGrid MCP Server](skills/sendgrid-mcp-server/) | SendGrid MCP Server is built around SendGrid email delivery platform. The underlying ecosystem is represented by… | Security Reviewed | 3.1k | 59.9k/wk |
 | [SendGrid Transactional Email Builder](skills/sendgrid-transactional-email-builder/) | Constructs and sends transactional emails using the SendGrid v3 Mail Send API. Builds dynamic templates with… | Security Reviewed | 3k | 3.6M/wk |
 | [SendGrid Transactional Email Router](skills/sendgrid-transactional-email-router/) | Manages transactional email delivery via SendGrid v3 Mail Send API with dynamic template rendering. Handles bounce… | Security Reviewed | 3k | 3.6M/wk |
 | [n8n-nodes-mcp Community Node for Model Context Protocol Workflows](skills/n8n-nodes-mcp-community-node-model-context-protocol-workflows/) | n8n-nodes-mcp is a real n8n community node that lets self-hosted n8n instances connect to Model Context Protocol… | Security Reviewed | 3k | 45.9k/wk |
@@ -1894,6 +1897,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Inte
 | [Normalize international phone numbers into E.164 before CRM imports or messaging workflows](skills/normalize-international-phone-numbers-into-e164-before-crm-imports-or-messaging-workflows/) | Use libphonenumber-js when an agent needs to clean messy phone-number input, validate it against country rules, and… | Published | — | 15.6M/wk |
 | [USDCtoFiat Cash-Out](skills/usdctofiat-cashout/) | Add non-custodial Base USDC-to-fiat cash-out with @usdctofiat/offramp cashout({ mode: "fast" \| "best" }). Use when… | Published | — | 650/wk |
 | [DealMachine Sales Intelligence](skills/dealmachine-sales-intelligence/) | Searches and enriches US property, owner, people, and company data through the DealMachine CLI and hosted MCP server… | Published | — | 272/wk |
+| [Aident Loadout](skills/aident-loadout/) | Give Claude Code, Codex, Cursor, ChatGPT and other MCP clients 1,000+ apps and 400+ expert-built Skills through one… | Published | — | — |
 | [AssemblyAI Real-Time Call Intelligence](skills/assemblyai-realtime-call-intelligence/) | Streams audio from Twilio Media Streams over WebSocket to AssemblyAI real-time transcription, extracting… | Security Reviewed | — | — |
 | [Automation Integration Preflight](skills/automation-integration-preflight/) | Assess a public HTTP(S) page before building browser automation, extraction, or an integration. Use this skill to… | Published | — | — |
 | [BeachFinder Swim Spot Finder](skills/beachfinder-swim-spot-finder/) | Finds and compares 184,900 swimming spots worldwide (beaches, lakes, bathing places) with live water temperature,… | Published | — | — |
@@ -1905,6 +1909,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Inte
 | [Linear Issue Triage & Sprint Planner](skills/linear-issue-triage-sprint-planner-2/) | Queries the Linear GraphQL API to list open issues by team, priority, and cycle, then applies configurable triage… | Security Reviewed | — | — |
 | [Plaid Financial Data Connector](skills/plaid-financial-data-connector/) | Connects to bank accounts via Plaid Link SDK and retrieves transaction data using the Plaid Transactions API.… | Security Reviewed | — | — |
 | [RouterBase API Integration](skills/routerbase-api-integration/) | Integrate agent applications with RouterBase as an OpenAI-compatible API gateway, including SDK base URL… | Published | — | — |
+| [Search and Book Hotels and Flights with MAQAMI Travel](skills/maqami-travel-booking/) | Use MAQAMI Travel when an agent should search hotels (3M+) and flights for specific dates, compare rates, read hotel… | Published | — | — |
 | [Verify a Nano (XNO) Payment](skills/verify-nano-payment/) | Verify that a Nano (XNO) payment has settled: confirm a send/receive block, read its amount and pay-to account from… | Published | — | — |
 | [Zapier Multi-Step Lead Enrichment Workflow](skills/zapier-lead-enrichment-workflow/) | Builds a Zapier automation using the Zapier NLA API to trigger on new HubSpot form submissions and enrich contact… | Security Reviewed | — | — |
 | [Zapier Webhook Integration Builder](skills/zapier-webhook-integration-builder/) | Creates and manages Zapier integrations using the Zapier Platform CLI and REST Hooks API. Builds custom triggers,… | Security Reviewed | — | — |
@@ -2213,7 +2218,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Moni
 | [Lint and validate Prometheus alerting rules before noisy or broken alerts reach production with Pint](skills/lint-and-validate-prometheus-alerting-rules-before-noisy-or-broken-alerts-reach-production-with-pint/) | Check Prometheus alerting and recording rules in CI or ad hoc runs so invalid, misleading, or dangerous rules are… | Published | 1k | — |
 | [LangSmith SDK for LLM Tracing and Evaluation](skills/langsmith-sdk-for-llm-tracing-and-evaluation/) | LangSmith provides tracing, evaluation, and debugging workflows for LLM applications. This skill is useful when an… | Security Reviewed | 843 | 5.4M/wk |
 | [Monitor Claude Code sessions and tool activity with Claude Code Agent Monitor](skills/monitor-claude-code-sessions-and-tool-activity-with-claude-code-agent-monitor/) | Install Claude Code hooks that stream session, tool, subagent, and workflow events into a local dashboard for live… | Security Reviewed | 815 | — |
-| [Datadog MCP Server](skills/datadog-mcp-server/) | Datadog MCP Server is built around Datadog observability platform. The underlying ecosystem is represented by… | Security Reviewed | 811 | 10.2M/wk |
+| [Datadog MCP Server](skills/datadog-mcp-server/) | Datadog MCP Server is built around Datadog observability platform. The underlying ecosystem is represented by… | Security Reviewed | 811 | 10.3M/wk |
 | [Datadog Anomaly Alert Router](skills/datadog-anomaly-alert-router/) | Routes Datadog anomaly detection alerts to appropriate response channels using the Datadog Events API v2 and… | Security Reviewed | 791 | 6.6M/wk |
 | [Datadog Anomaly Detection Agent](skills/datadog-anomaly-detection-agent-2/) | Monitors Datadog metric streams using the Datadog API v2 and applies ML-based anomaly detection to alert on… | Security Reviewed | 791 | 6.6M/wk |
 | [Datadog Anomaly Detector](skills/datadog-anomaly-detector/) | Leverages the Datadog API v2 metrics and events endpoints to detect anomalous patterns. Uses the Datadog Monitors… | Security Reviewed | 791 | 6.6M/wk |
@@ -2228,7 +2233,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Moni
 | [Datadog Monitor Sync](skills/datadog-monitor-sync/) | Synchronizes Datadog monitor definitions between environments using the Datadog API v2 monitors endpoint. Supports… | Security Reviewed | 791 | 6.6M/wk |
 | [Datadog Monitors Skill](skills/datadog-monitors-skill/) | Manages Datadog monitors and dashboards via the Datadog API v2. Lists triggered monitors, mutes/unmutes alert… | Security Reviewed | 791 | 6.6M/wk |
 | [Datadog SLO Monitor](skills/datadog-slo-monitor/) | Monitors Datadog Service Level Objectives and burn rate alerts via the Datadog API v2. Generates SLO compliance… | Security Reviewed | 791 | 6.6M/wk |
-| [Sentry MCP Server](skills/sentry-mcp-server/) | Sentry's official MCP server connects your error monitoring stack to any MCP client. Search issues, analyze stack… | Published | 712 | 97.3k/wk |
+| [Sentry MCP Server](skills/sentry-mcp-server/) | Sentry's official MCP server connects your error monitoring stack to any MCP client. Search issues, analyze stack… | Published | 712 | 96.3k/wk |
 | [Gate agent regressions from production traces with Tracely](skills/gate-agent-regressions-from-production-traces-with-tracely/) | Turn failing AI-agent production traces into hermetic regression cases and CI gates with Tracely. | Security Reviewed | 643 | — |
 | [Sentry MCP Server for Error Tracking and Performance](skills/sentry-mcp-server-error-tracking-performance/) | The official Sentry MCP server gives AI agents access to Sentry error tracking, issue management, and performance… | Security Reviewed | 615 | 49.6k/wk |
 | [Track coding-agent quota burn and remaining headroom across providers with onWatch](skills/track-coding-agent-quota-burn-and-remaining-headroom-across-providers-with-onwatch/) | Monitor quota, spend, resets, and alerts across multiple coding-agent providers from one local dashboard before a… | Security Reviewed | 580 | — |
@@ -2704,7 +2709,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Brow
 | [Puppeteer Web Scraping Pipeline](skills/puppeteer-web-scraping-pipeline/) | Builds web scraping pipelines with Puppeteer using page.evaluate, page.waitForSelector, and browser.newPage. Handles… | Security Reviewed | 94.1k | 40.2M/wk |
 | [Puppeteer Stealth Scraper](skills/puppeteer-stealth-scraper-agent/) | Anti-detection web scraping using puppeteer-extra-plugin-stealth with residential proxy rotation. Implements Canvas… | Security Reviewed | 94.1k | 36.4M/wk |
 | [Puppeteer Browser Automation Library for Chrome and Firefox](skills/puppeteer-browser-automation-library-for-chrome-and-firefox/) | Uses Puppeteer to control Chrome and Firefox through the DevTools Protocol or WebDriver BiDi for screenshots, PDF… | Security Reviewed | 94k | 40.2M/wk |
-| [Agent Browser Operator](skills/agent-browser-operator/) | Interactive browser skill for logged-in flows, dynamic pages, and session-aware site operations. | Security Reviewed | 90k | 111.8M/wk |
+| [Agent Browser Operator](skills/agent-browser-operator/) | Interactive browser skill for logged-in flows, dynamic pages, and session-aware site operations. | Security Reviewed | 90k | 112.4M/wk |
 | [Browser Use Web Agent Automation](skills/browser-use-web-agent-automation/) | browser-use is an open-source Python framework for letting AI agents interact with websites through a real browser.… | Published | 87.7k | — |
 | [Browser Use Agentic Browser Control](skills/browser-use-agentic-browser-control/) | Browser Use is an open source browser automation framework for AI agents that turns websites into controllable… | Published | 87.3k | — |
 | [Playwright Accessibility Audit Runner](skills/playwright-accessibility-audit-runner/) | Runs automated WCAG 2.1 AA/AAA accessibility audits using Playwright with axe-core integration. Generates detailed… | Security Reviewed | 86.4k | 47.9M/wk |

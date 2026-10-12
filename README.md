@@ -4,7 +4,7 @@
 
 ### Curated and trusted AI agent skills
 
-[![Published](https://img.shields.io/badge/published-3%2C124-6366f1?style=for-the-badge)](CATALOG.md)
+[![Published](https://img.shields.io/badge/published-3%2C129-6366f1?style=for-the-badge)](CATALOG.md)
 [![Industry%20Collections](https://img.shields.io/badge/industry--collections-15-14b8a6?style=for-the-badge)](industries/README.md)
 [![Categories](https://img.shields.io/badge/categories-17-0ea5e9?style=for-the-badge)](categories/README.md)
 [![Security%20Reviewed](https://img.shields.io/badge/security--reviewed-2%2C605-10b981?style=for-the-badge)](verification/)
@@ -12,7 +12,7 @@
 
 **[Catalog](CATALOG.md) · [Live Browse](https://agentskillexchange.com/browse-skills/) · [Categories](categories/README.md) · [Industry Collections](industries/README.md) · [Top Starred](TOP-STARS.md) · [Top Downloaded](TOP-DOWNLOADS.md) · [Submit a Skill](#submit-a-skill)**
 
-*3,124 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
+*3,129 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
 
 *Star this repo to keep the agent skill catalog handy and follow new additions.*
 
@@ -87,16 +87,16 @@ See the full overlay index in [industries/README.md](industries/README.md).
 
 | Skill | What it helps with | Stars | Category |
 |---|---|---:|---|
+| [Publish with Shipvela](skills/shipvela-publish/) | Publish a website through an owner-approved Shipvela MCP connection, track deployment status and logs, and return a verified... | - | CI/CD Integrations |
+| [Search and Book Hotels and Flights with MAQAMI Travel](skills/maqami-travel-booking/) | Use MAQAMI Travel when an agent should search hotels (3M+) and flights for specific dates, compare rates, read... | - | Integrations & Connectors |
+| [Darkmoon Pentest MCP](skills/darkmoon-pentest-mcp/) | Start and follow authorized autonomous AI penetration tests from Claude Code, Cursor or Codex through the darkmoon MCP... | - | Security & Verification |
+| [Aident Loadout](skills/aident-loadout/) | Give Claude Code, Codex, Cursor, ChatGPT and other MCP clients 1,000+ apps and 400+ expert-built Skills through one... | - | Integrations & Connectors |
+| [Run owned terminal coding-agent workflows with Zero](skills/run-owned-terminal-coding-agent-workflows-with-zero/) | Use Zero to run local, scriptable coding-agent sessions with operator-controlled models, permissions, tools, skills, MCP servers, and durable... | 1.7k | Developer Tools |
 | [Run AEO and GEO marketing workflows with GTM Engineer Skills](skills/run-aeo-and-geo-marketing-workflows-with-gtm-engineer-skills/) | Install GTM Engineer Skills so Codex or Claude Code can research a brand, plan SEO/GEO content, audit AEO... | 1.3k | Content Writing & SEO |
 | [Audit and fix website QA issues with Squirrelscan](skills/audit-and-fix-website-qa-issues-with-squirrelscan/) | Run Squirrelscan from a coding agent to audit SEO, performance, security, accessibility, and agent-experience issues, then feed exact... | 272 | Security & Verification |
 | [Run supervised local coding automation with Alphacode](skills/run-supervised-local-coding-automation-with-alphacode/) | Use Alphacode to run terminal-first coding agent tasks that can edit code, execute tests, automate Firefox, control desktop... | 265 | Developer Tools |
 | [Deploy a private local agent stack with Self-Hosted AI Stack](skills/deploy-private-local-agent-stack-with-self-hosted-ai-stack/) | Stand up a local-first Docker Compose backend for agent work: LLM routing, chat, document parsing, embeddings, speech, and... | 163 | Developer Tools |
 | [Control coding-agent terminals remotely with 9Remote](skills/control-coding-agent-terminals-remotely-with-9remote/) | Run and supervise Claude Code, Codex, Gemini CLI, and other terminal agents from a browser, desktop app, tablet... | 161 | Developer Tools |
-| [Monitor Claude Code sessions with ccstatusline](skills/monitor-claude-code-sessions-with-ccstatusline/) | Configure Claude Code's status line with live model, token, cost, git, sandbox, cache, CI, and session health signals... | 13.2k | Developer Tools |
-| [Run agentic quality engineering checks with Agentic QE](skills/run-agentic-quality-engineering-checks-with-agentic-qe/) | Configure Agentic QE in a repository so a coding agent can generate tests, inspect coverage gaps, investigate flaky... | 495 | Code Quality & Review |
-| [Run code-generated short-film workflows with Lemo-Opuscar](skills/direct-code-generated-short-films-with-lemo-opuscar-styles/) | Use a Claude Code plugin to turn a story brief into a short film project built from reusable... | 1.5k | Image & Creative Automation |
-| [Run Amazon marketplace research workflows through Sorftime MCP skills](skills/run-amazon-marketplace-research-workflows-through-sorftime-mcp-skills/) | Use a set of Amazon marketplace research skills to analyze ASINs, categories, keywords, reviews, listings, traffic, and advertising... | 954 | Research & Scraping |
-| [Run multi-provider terminal coding sessions with Snow CLI](skills/run-multi-provider-terminal-coding-sessions-with-snow-cli/) | Use Snow CLI as a terminal coding agent that can route repository work through OpenAI, Gemini, Claude, DeepSeek... | 1.1k | Developer Tools |
 
 ---
 
@@ -104,16 +104,16 @@ See the full overlay index in [industries/README.md](industries/README.md).
 
 | Contributor | Skill | What it helps with | Category |
 |---|---|---|---|
+| [stefanautomateed](https://github.com/stefanautomateed) | [Publish with Shipvela](skills/shipvela-publish/) | Publish a website through an owner-approved Shipvela MCP connection, track deployment status and logs, and return a verified... | CI/CD Integrations |
+| [negm17111995](https://github.com/negm17111995) | [Search and Book Hotels and Flights with MAQAMI Travel](skills/maqami-travel-booking/) | Use MAQAMI Travel when an agent should search hotels (3M+) and flights for specific dates, compare rates, read... | Integrations & Connectors |
+| [ljhskyso](https://github.com/ljhskyso) | [Aident Loadout](skills/aident-loadout/) | Give Claude Code, Codex, Cursor, ChatGPT and other MCP clients 1,000+ apps and 400+ expert-built Skills through one... | Integrations & Connectors |
+| [MBK-fr](https://github.com/MBK-fr) | [Darkmoon Pentest MCP](skills/darkmoon-pentest-mcp/) | Start and follow authorized autonomous AI penetration tests from Claude Code, Cursor or Codex through the darkmoon MCP... | Security & Verification |
 | [dskuldeep](https://github.com/dskuldeep) | [Work an SEO and AI-Visibility Backlog with LogNorm](skills/lognorm-seo-geo-backlog/) | Use LogNorm when Claude Code, Codex or Cursor should work a site's SEO and AI-visibility (GEO) backlog through... | Content Writing & SEO |
 | [xiehuan123](https://github.com/xiehuan123) | [Browser Extension Launch](skills/browser-extension-launch/) | Turns a plain-language idea into a tested Chrome Manifest V3 extension, release bundle, store materials, and a resumable... | Templates & Workflows |
 | [OssaBellator](https://github.com/OssaBellator) | [MCP Workflow Audit](skills/mcp-workflow-audit/) | Audit Claude Code, MCP, and AI-agent workflows for permissions, consequential actions, idempotency, failure recovery, verification, and operator handoff | Developer Tools |
 | [Pangolin-spg](https://github.com/Pangolin-spg) | [Pangolinfo AI SERP](skills/pangolinfo-ai-serp/) | Retrieve structured Google SERP and AI Overviews, run AI Mode follow-up queries, and optionally capture screenshots through Pangolinfo... | Research & Scraping |
 | [Pangolin-spg](https://github.com/Pangolin-spg) | [Pangolinfo Amazon Scraper](skills/pangolinfo-amazon-scraper/) | Retrieve structured Amazon product, keyword search, category, seller and bestseller data with Pangolinfo APIs for e-commerce research and... | Research & Scraping |
 | [uglyrobot](https://github.com/uglyrobot) | [DocsBot Administration](skills/docsbot-administration/) | Administer DocsBot bots, knowledge sources, teams, and reporting through named MCP tools with browser OAuth and live role... | Integrations & Connectors |
-| [jacobwell](https://github.com/jacobwell) | [Eye.Art Polyphemus Image Creation](skills/eye-art-polyphemus/) | Use Eye.Art Polyphemus as a no-key hosted MCP for conversational image creation, reference-preserving edits, artist-guided art, site-matched visuals... | Image & Creative Automation |
-| [makoncline](https://github.com/makoncline) | [Read Ledger](skills/read-ledger/) | Track research source and text-range coverage across contexts using JSONL snapshots, SHA-256 hashes, Unicode code-point offsets, and bounded... | Research & Scraping |
-| [SheriffMD](https://github.com/SheriffMD) | [WebAsk Results Digest](skills/webask-results-digest/) | Summarize WebAsk survey distributions, filtered reports and free-text answers with get_quiz_summary, get_quiz_report and get_quiz_report_inputs. Use for survey findings... | Data Extraction & Transformation |
-| [OlyaTi](https://github.com/OlyaTi) | [Mnemoverse Memory MCP](skills/mnemoverse-memory-mcp/) | Give Claude Code, Cursor, VS Code and ChatGPT agents hosted persistent memory over MCP that learns from outcomes... | Integrations & Connectors |
 
 ---
 
@@ -129,10 +129,10 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 | [Reverse-engineer apps and binaries with REA](skills/reverse-engineer-apps-and-binaries-with-rea/) | Connect coding agents to REA's MCP tools so they can inspect apps, binaries, websites, APKs, and runtime behavior... | 17.1k | Security & Verification |
 | [Run a Docling API server for agent document conversion](skills/run-a-docling-api-server-for-agent-document-conversion/) | Deploy Docling API so agents can convert PDFs, Office files, images, HTML, CSV, and other documents into Markdown... | 1.7k | Data Extraction & Transformation |
 | [Schedule Node Agent Jobs with node-cron](skills/schedule-node-agent-jobs-with-node-cron/) | Use node-cron to add recurring background jobs to Node.js agent services with overlap prevention, distributed coordination, background task... | 3.3k | Templates & Workflows |
-| [Build TypeScript spreadsheet import and export workflows with hucre](skills/build-typescript-spreadsheet-import-and-export-workflows-with-hucre/) | Use hucre when a coding agent needs to add zero-dependency XLSX, CSV, ODS, JSON, NDJSON, or XML spreadsheet... | 2.2k | Data Extraction & Transformation |
 | [Compile agent-ready documentation bundles with docmd](skills/compile-agent-ready-documentation-bundles-with-docmd/) | Use docmd when a project needs one Markdown documentation source to produce a site, search index, llms.txt, MCP... | 2.5k | Library & API Reference |
 | [Run agentic quality engineering checks with Agentic QE](skills/run-agentic-quality-engineering-checks-with-agentic-qe/) | Configure Agentic QE in a repository so a coding agent can generate tests, inspect coverage gaps, investigate flaky... | 495 | Code Quality & Review |
 | [Audit and fix website QA issues with Squirrelscan](skills/audit-and-fix-website-qa-issues-with-squirrelscan/) | Run Squirrelscan from a coding agent to audit SEO, performance, security, accessibility, and agent-experience issues, then feed exact... | 272 | Security & Verification |
+| [Build TypeScript spreadsheet import and export workflows with hucre](skills/build-typescript-spreadsheet-import-and-export-workflows-with-hucre/) | Use hucre when a coding agent needs to add zero-dependency XLSX, CSV, ODS, JSON, NDJSON, or XML spreadsheet... | 2.2k | Data Extraction & Transformation |
 
 ---
 
@@ -140,13 +140,13 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 
 | | Category | Skills | What's inside |
 |---|---|---:|---|
-| 🛠️ | [**Developer Tools**](categories/developer-tools/) | 521 | CLI tools, scaffolders, dev environment setup |
+| 🛠️ | [**Developer Tools**](categories/developer-tools/) | 522 | CLI tools, scaffolders, dev environment setup |
 | 📄 | [**Templates & Workflows**](categories/templates-workflows/) | 264 | Scaffolders, boilerplate generators, workflow templates |
-| 🔒 | [**Security & Verification**](categories/security-verification/) | 255 | Vulnerability scanning, auth setup, compliance |
+| 🔒 | [**Security & Verification**](categories/security-verification/) | 256 | Vulnerability scanning, auth setup, compliance |
 | 🔄 | [**Data Extraction & Transformation**](categories/data-extraction-transformation/) | 229 | ETL pipelines, parsing, format conversion |
 | ✅ | [**Code Quality & Review**](categories/code-quality-review/) | 206 | Linting, code review, test generators, coverage |
-| 🔧 | [**CI/CD Integrations**](categories/ci-cd-integrations/) | 192 | Pipeline configs, deployment automation, build tooling |
-| 🔗 | [**Integrations & Connectors**](categories/integrations-connectors/) | 179 | Third-party API bridges, webhooks, service connectors |
+| 🔧 | [**CI/CD Integrations**](categories/ci-cd-integrations/) | 193 | Pipeline configs, deployment automation, build tooling |
+| 🔗 | [**Integrations & Connectors**](categories/integrations-connectors/) | 181 | Third-party API bridges, webhooks, service connectors |
 | 📋 | [**Runbooks & Diagnostics**](categories/runbooks-diagnostics/) | 178 | Incident response, troubleshooting, system diagnostics |
 | 📊 | [**Monitoring & Alerts**](categories/monitoring-alerts/) | 162 | Metrics, alerting rules, observability |
 | 🔍 | [**Research & Scraping**](categories/research-scraping/) | 138 | Web research, content discovery, data collection |
@@ -219,7 +219,7 @@ Every skill is backed by a real tool, repo, or package. New skills require real 
 
 | Tier | Count | Meaning |
 |------|------:|---|
-| 📋 **Published** | 3,124 | In the catalog — every skill is backed by a real tool, repo, or package |
+| 📋 **Published** | 3,129 | In the catalog — every skill is backed by a real tool, repo, or package |
 | 🛡️ **Security Reviewed** | 2,605 | Scanned for malicious patterns, prompt injection, and unsafe instructions |
 
 More: [verification/](verification/)

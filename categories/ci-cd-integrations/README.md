@@ -231,6 +231,7 @@ Pipeline configs, deployment automation, build tooling, and continuous integrati
 | [Investigate failing GitHub Actions runs with CI Doctor](../../skills/investigate-failing-github-actions-runs-with-ci-doctor-2/) | — | — |
 | [Investigate failing GitHub Actions runs with CI Doctor](../../skills/investigate-failing-github-actions-runs-with-ci-doctor/) | — | — |
 | [npm Audit Dependency Report Generator](../../skills/npm-audit-dependency-report-generator/) | — | — |
+| [Publish with Shipvela](../../skills/shipvela-publish/) | — | — |
 | [Update repository docs automatically after code changes and open review PRs](../../skills/update-repository-docs-automatically-after-code-changes-and-open-review-prs/) | — | — |
 
 ---

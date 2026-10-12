@@ -1,7 +1,47 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-12
-# Total: 3124 skills
+# Total: 3129 skills
+
+## Publish with Shipvela
+slug: shipvela-publish
+category: CI/CD Integrations
+framework: Codex
+verification: Published
+description: Publish a website through an owner-approved Shipvela MCP connection, track deployment status and logs, and return a verified live HTTPS URL. Use when the…
+url: https://agentskillexchange.com/skills/shipvela-publish/
+
+## Search and Book Hotels and Flights with MAQAMI Travel
+slug: maqami-travel-booking
+category: Integrations & Connectors
+framework: MCP
+verification: Published
+description: Use MAQAMI Travel when an agent should search hotels (3M+) and flights for specific dates, compare rates, read hotel details and reviews, then send…
+url: https://agentskillexchange.com/skills/maqami-travel-booking/
+
+## Darkmoon Pentest MCP
+slug: darkmoon-pentest-mcp
+category: Security & Verification
+framework: MCP
+verification: Published
+description: Start and follow authorized autonomous AI penetration tests from Claude Code, Cursor or Codex through the darkmoon MCP server: run_pentest launches a run, get_run_status…
+url: https://agentskillexchange.com/skills/darkmoon-pentest-mcp/
+
+## Aident Loadout
+slug: aident-loadout
+category: Integrations & Connectors
+framework: MCP
+verification: Published
+description: Give Claude Code, Codex, Cursor, ChatGPT and other MCP clients 1,000+ apps and 400+ expert-built Skills through one reusable Aident Loadout setup, with credentials…
+url: https://agentskillexchange.com/skills/aident-loadout/
+
+## Run owned terminal coding-agent workflows with Zero
+slug: run-owned-terminal-coding-agent-workflows-with-zero
+category: Developer Tools
+framework: Multi-Framework
+verification: Security Reviewed
+description: Use Zero to run local, scriptable coding-agent sessions with operator-controlled models, permissions, tools, skills, MCP servers, and durable transcripts.
+url: https://agentskillexchange.com/skills/run-owned-terminal-coding-agent-workflows-with-zero/
 
 ## Run AEO and GEO marketing workflows with GTM Engineer Skills
 slug: run-aeo-and-geo-marketing-workflows-with-gtm-engineer-skills

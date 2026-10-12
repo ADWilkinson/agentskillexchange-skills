@@ -102,7 +102,7 @@ Third-party API bridges, webhook handlers, service connectors, and platform inte
 | [Render interactive MCP tool UIs with mcp-ui](../../skills/render-interactive-mcp-tool-uis-with-mcp-ui/) | 4.9k | 1.6M/wk |
 | [Atlassian MCP Server for Jira and Confluence](../../skills/atlassian-mcp-server-jira-confluence/) | 4.8k | — |
 | [Add temporal context memory to agent workflows with Zep](../../skills/add-temporal-context-memory-to-agent-workflows-with-zep/) | 4.6k | 463k/wk |
-| [Stripe MCP Server](../../skills/stripe-mcp-server/) | 4.4k | 23.7M/wk |
+| [Stripe MCP Server](../../skills/stripe-mcp-server/) | 4.4k | 23.9M/wk |
 | [Stripe Connect Account Provisioner](../../skills/stripe-connect-account-provisioner/) | 4.4k | 9.3M/wk |
 | [Stripe Connect Integration](../../skills/stripe-connect-integration/) | 4.4k | 9.3M/wk |
 | [Stripe Connect Marketplace Sync](../../skills/stripe-connect-marketplace-sync/) | 4.4k | 9.3M/wk |
@@ -121,7 +121,7 @@ Third-party API bridges, webhook handlers, service connectors, and platform inte
 | [Ingestr Cross-Database Data Copier](../../skills/ingestr-cross-database-data-copier/) | 3.4k | — |
 | [Svix Enterprise Webhook Delivery Service](../../skills/svix-enterprise-webhook-delivery-service/) | 3.2k | — |
 | [Connect agents to governed data and code graphs with GraphJin](../../skills/connect-agents-to-governed-data-and-code-graphs-with-graphjin/) | 3.1k | 866/wk |
-| [SendGrid MCP Server](../../skills/sendgrid-mcp-server/) | 3.1k | 61k/wk |
+| [SendGrid MCP Server](../../skills/sendgrid-mcp-server/) | 3.1k | 59.9k/wk |
 | [SendGrid Transactional Email Builder](../../skills/sendgrid-transactional-email-builder/) | 3k | 3.6M/wk |
 | [SendGrid Transactional Email Router](../../skills/sendgrid-transactional-email-router/) | 3k | 3.6M/wk |
 | [n8n-nodes-mcp Community Node for Model Context Protocol Workflows](../../skills/n8n-nodes-mcp-community-node-model-context-protocol-workflows/) | 3k | 45.9k/wk |
@@ -205,6 +205,7 @@ Third-party API bridges, webhook handlers, service connectors, and platform inte
 | [Normalize international phone numbers into E.164 before CRM imports or messaging workflows](../../skills/normalize-international-phone-numbers-into-e164-before-crm-imports-or-messaging-workflows/) | — | 15.6M/wk |
 | [USDCtoFiat Cash-Out](../../skills/usdctofiat-cashout/) | — | 650/wk |
 | [DealMachine Sales Intelligence](../../skills/dealmachine-sales-intelligence/) | — | 272/wk |
+| [Aident Loadout](../../skills/aident-loadout/) | — | — |
 | [AssemblyAI Real-Time Call Intelligence](../../skills/assemblyai-realtime-call-intelligence/) | — | — |
 | [Automation Integration Preflight](../../skills/automation-integration-preflight/) | — | — |
 | [BeachFinder Swim Spot Finder](../../skills/beachfinder-swim-spot-finder/) | — | — |
@@ -216,6 +217,7 @@ Third-party API bridges, webhook handlers, service connectors, and platform inte
 | [Linear Issue Triage & Sprint Planner](../../skills/linear-issue-triage-sprint-planner-2/) | — | — |
 | [Plaid Financial Data Connector](../../skills/plaid-financial-data-connector/) | — | — |
 | [RouterBase API Integration](../../skills/routerbase-api-integration/) | — | — |
+| [Search and Book Hotels and Flights with MAQAMI Travel](../../skills/maqami-travel-booking/) | — | — |
 | [Verify a Nano (XNO) Payment](../../skills/verify-nano-payment/) | — | — |
 | [Zapier Multi-Step Lead Enrichment Workflow](../../skills/zapier-lead-enrichment-workflow/) | — | — |
 | [Zapier Webhook Integration Builder](../../skills/zapier-webhook-integration-builder/) | — | — |
