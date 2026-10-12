@@ -1,18 +1,13 @@
 ---
 name: "Gauntlet"
 slug: "gauntlet"
+description: "Evidence-driven adversarial review and root-cause repair of code, designs, APIs, infrastructure, tests, and agent workflows. Use for deep reviews, red-team reviews, edge-case audits, production-readiness checks, or requests to find and fix defects iteratively. Supports sub-agents or a tracked solo workflow. Not for ordinary implementation or cosmetic edits unless explicitly invoked."
+verification: "listed"
+source: "https://github.com/aakashH242/gauntlet"
 category: "Code Quality & Review"
 framework: "Multi-Framework"
-verification: listed
-source: "https://github.com/aakashH242/gauntlet"
-description: "Evidence-driven adversarial review and root-cause repair of code, designs, APIs, infrastructure, tests, and agent workflows. Use for deep reviews, red-team reviews, edge-case audits, production-readiness checks, or requests to find and fix defects iteratively. Supports sub-agents or a tracked solo workflow. Not for ordinary implementation or cosmetic edits unless explicitly invoked."
-compatibility: "Works with or without sub-agents, shell access, or network access. Optional local tracker requires Python 3.10+ with sqlite3; no third-party packages. Tool availability and permissions come from the host."
-license: MIT
 tool_ecosystem:
-  github_repo: "aakashH242/gauntlet"
-metadata:
-  version: "1.0.0"
-  specification-checked: "2026-10-07"
+  github_repo: "aakashh242/gauntlet"
 ---
 
 # Gauntlet
