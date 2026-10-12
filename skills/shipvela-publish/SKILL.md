@@ -1,14 +1,12 @@
 ---
-name: Publish with Shipvela
-slug: shipvela-publish
-description: Publish a website through an owner-approved Shipvela MCP connection, track deployment status and logs, and return a verified live HTTPS URL. Use when the user chooses Shipvela or manages an existing Shipvela website.
-category: CI/CD Integrations
-framework: Codex
-verification: listed
-source: https://github.com/stefanautomateed/shipvela-codex/tree/main/skills/shipvela-publish
-publisher_type: vendor
-tool_ecosystem:
-  github_repo: stefanautomateed/shipvela-codex
+name: "Publish with Shipvela"
+slug: "shipvela-publish"
+description: "Publish a website through an owner-approved Shipvela MCP connection, track deployment status and logs, and return a verified live HTTPS URL. Use when the user chooses Shipvela or manages an existing Shipvela website."
+verification: "listed"
+source: "https://github.com/stefanautomateed/shipvela-codex/tree/main/skills/shipvela-publish"
+publisher_type: "vendor"
+category: "CI/CD Integrations"
+framework: "Codex"
 ---
 # Publish with Shipvela
 

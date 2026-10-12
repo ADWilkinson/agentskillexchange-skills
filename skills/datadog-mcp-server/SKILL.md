@@ -12,7 +12,7 @@ tool_ecosystem:
   github_repo: "datadog/dd-trace-js"
   github_stars: 811
   npm_package: "dd-trace"
-  npm_weekly_downloads: 10187367
+  npm_weekly_downloads: 10314415
 ---
 
 # Datadog MCP Server

@@ -2,13 +2,13 @@
 name: "Aident Loadout"
 slug: "aident-loadout"
 description: "Give Claude Code, Codex, Cursor, ChatGPT and other MCP clients 1,000+ apps and 400+ expert-built Skills through one reusable Aident Loadout setup, with credentials kept in Aident Vault and every action recorded in Audit."
-verification: listed
+verification: "listed"
 source: "https://github.com/Aident-AI/aident-skill"
 author: "Aident-AI"
 category: "Integrations & Connectors"
 framework: "MCP"
 tool_ecosystem:
-  github_repo: "Aident-AI/aident-skill"
+  github_repo: "aident-ai/aident-skill"
 ---
 
 # Aident Loadout
