@@ -2,11 +2,12 @@
 name: "Jet Browser"
 slug: "jet-browser"
 description: "Install, verify, integrate, or troubleshoot the Jet Browser WPE WebKit runtime for isolated agent browser sessions with ordered JSONL automation, native input, screenshots, and reproducible container checks."
+verification: "listed"
+source: "https://github.com/masakaai/jet-browser"
 category: "Browser Automation"
 framework: "Codex"
-verification: listed
-source: "https://github.com/masakaai/jet-browser"
-license: Apache-2.0
+tool_ecosystem:
+  github_repo: "masakaai/jet-browser"
 ---
 
 # Jet Browser
@@ -15,23 +16,9 @@ Jet Browser is an open-source, local or self-hosted WPE WebKit runtime for AI-ag
 
 ## Installation
 
-### OpenAI Codex Plugin
+No source-backed install or usage instructions could be extracted automatically. Review the upstream project before running this skill in a sensitive workflow.
 
-```bash
-codex plugin marketplace add masakaai/jet-browser --ref main
-codex plugin add jet-browser@masaka
-```
-
-### Direct repository checkout
-
-```bash
-git clone https://github.com/masakaai/jet-browser.git
-cd jet-browser
-npm ci
-npm run standalone
-```
-
-The standalone check requires Docker and Node.js 24 or newer. Treat its JSON result as the acceptance gate: local-page loading, JavaScript marker verification, native text input, screenshot capture, network isolation, and clean teardown must all pass. For source changes, also run `npm test` and `cargo test --all-targets`.
+- Source: https://github.com/masakaai/jet-browser
 
 ## Integration guidance
 

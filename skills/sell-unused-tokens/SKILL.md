@@ -1,15 +1,16 @@
 ---
 name: "Sell unused tokens"
 slug: "sell-unused-tokens"
-description: "List unused LLM provider capacity for USDC through tokensto.cash's local CLI with hidden credential prompts, an explicit daily budget and a listing-only session. Cash-out remains a separate manual action."
+description: "List leftover LLM API capacity on tokensto.cash (OpenRouter, OpenAI, Anthropic, Venice, Capminal, and 20+ others) and cash out USDC. Use when the user wants to sell unused provider credits for cash."
+github_stars: 0
+verification: "listed"
+source: "https://github.com/galleonlabs/sell-unused-tokens"
+author: "galleonlabs"
 category: "Developer Tools"
 framework: "Claude Code"
-verification: "listed"
-source: "https://tokensto.cash/skills/sell-unused-tokens"
-license: MIT
-metadata:
-  author: Galleon Labs
-  version: "2.0.1"
+tool_ecosystem:
+  github_repo: "galleonlabs/sell-unused-tokens"
+  github_stars: 0
 ---
 
 # Sell unused tokens
@@ -82,17 +83,9 @@ Read `references/troubleshooting.md` for probe, listing, pairing, or status fail
 
 ## Installation
 
-Install the complete published skill, including its local CLI and references:
+Install or set up from the source-backed instructions:
 
-```bash
-npm exec --package=skills@1.5.23 -- skills add https://tokensto.cash -g -y
-```
+Install with npm exec --package=skills@1.5.23 -- skills add galleonlabs/sell-unused-tokens -g -y from the pinned upstream installer.
 
-This catalog also includes the complete four-file bundle. To install this copy:
+- Source: https://github.com/galleonlabs/sell-unused-tokens
 
-```bash
-git clone https://github.com/agentskillexchange/skills.git
-cp -R skills/skills/sell-unused-tokens ~/.agent-skills/sell-unused-tokens
-```
-
-The installer is a third-party tool. Review the installed source before pairing. Use the absolute path of the installed script; keep provider keys and pairing codes out of command arguments and chat.

@@ -1,14 +1,12 @@
 ---
 name: "USDCtoFiat Cash-Out"
 slug: "usdctofiat-cashout"
-description: "Cash out Base USDC with @usdctofiat/offramp 9.0.0 using an explicit Fast or Best mode and a real viem WalletClient. Discover current rail support; Cash App new creation is disabled."
-category: "Integrations & Connectors"
-framework: "Claude Code"
+description: "Add non-custodial Base USDC-to-fiat cash-out with @usdctofiat/offramp cashout({ mode: \"fast\" | \"best\" }). Use when an agent must sell USDC from a real viem WalletClient into Venmo, Cash App, Revolut, PayPal, Zelle, Monzo, or Chime without an exchange account."
 verification: "listed"
 source: "https://github.com/ADWilkinson/usdctofiat-skills/tree/main/skills/cashout"
-license: MIT
-metadata:
-  author: Galleon Labs
+author: "ADWilkinson"
+category: "Integrations & Connectors"
+framework: "Multi-Framework"
 ---
 
 # USDCtoFiat Cash-Out
@@ -117,16 +115,9 @@ export async function watchCashout(depositId: string) {
 
 ## Installation
 
-```bash
-npm install @usdctofiat/offramp@9.0.0
-```
+No source-backed install or usage instructions could be extracted automatically. Review the upstream project before running this skill in a sensitive workflow.
 
-```ts
-import { OFFRAMP_DEVELOPER_RESOURCES, getOfframpDeveloperResources } from "@usdctofiat/offramp";
-
-OFFRAMP_DEVELOPER_RESOURCES.delegation.required; // false
-OFFRAMP_DEVELOPER_RESOURCES.delegation.feeRateBps; // 10
-```
+- Source: https://github.com/ADWilkinson/usdctofiat-skills/tree/main/skills/cashout
 
 ## Errors
 
