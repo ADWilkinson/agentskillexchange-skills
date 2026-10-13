@@ -4,7 +4,7 @@
 
 ### Curated and trusted AI agent skills
 
-[![Published](https://img.shields.io/badge/published-3%2C131-6366f1?style=for-the-badge)](CATALOG.md)
+[![Published](https://img.shields.io/badge/published-3%2C132-6366f1?style=for-the-badge)](CATALOG.md)
 [![Industry%20Collections](https://img.shields.io/badge/industry--collections-15-14b8a6?style=for-the-badge)](industries/README.md)
 [![Categories](https://img.shields.io/badge/categories-17-0ea5e9?style=for-the-badge)](categories/README.md)
 [![Security%20Reviewed](https://img.shields.io/badge/security--reviewed-2%2C606-10b981?style=for-the-badge)](verification/)
@@ -12,7 +12,7 @@
 
 **[Catalog](CATALOG.md) · [Live Browse](https://agentskillexchange.com/browse-skills/) · [Categories](categories/README.md) · [Industry Collections](industries/README.md) · [Top Starred](TOP-STARS.md) · [Top Downloaded](TOP-DOWNLOADS.md) · [Submit a Skill](#submit-a-skill)**
 
-*3,131 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
+*3,132 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
 
 *Star this repo to keep the agent skill catalog handy and follow new additions.*
 
@@ -87,6 +87,7 @@ See the full overlay index in [industries/README.md](industries/README.md).
 
 | Skill | What it helps with | Stars | Category |
 |---|---|---:|---|
+| [Jet Browser](skills/jet-browser/) | Install, verify, integrate, or troubleshoot the Jet Browser WPE WebKit runtime for isolated agent browser sessions with ordered... | - | Browser Automation |
 | [Install reusable agent workflows with AIWG](skills/install-reusable-agent-workflows-with-aiwg/) | Use AIWG to install and verify reusable project context, specialist workflows, skills, rules, and MCP utilities across Claude... | 223 | Templates & Workflows |
 | [Gauntlet](skills/gauntlet/) | Evidence-driven adversarial review and root-cause repair of code, designs, APIs, infrastructure, tests, and agent workflows. Use for deep... | - | Code Quality & Review |
 | [Publish with Shipvela](skills/shipvela-publish/) | Publish a website through an owner-approved Shipvela MCP connection, track deployment status and logs, and return a verified... | - | CI/CD Integrations |
@@ -96,7 +97,6 @@ See the full overlay index in [industries/README.md](industries/README.md).
 | [Run owned terminal coding-agent workflows with Zero](skills/run-owned-terminal-coding-agent-workflows-with-zero/) | Use Zero to run local, scriptable coding-agent sessions with operator-controlled models, permissions, tools, skills, MCP servers, and durable... | 1.7k | Developer Tools |
 | [Run AEO and GEO marketing workflows with GTM Engineer Skills](skills/run-aeo-and-geo-marketing-workflows-with-gtm-engineer-skills/) | Install GTM Engineer Skills so Codex or Claude Code can research a brand, plan SEO/GEO content, audit AEO... | 1.3k | Content Writing & SEO |
 | [Audit and fix website QA issues with Squirrelscan](skills/audit-and-fix-website-qa-issues-with-squirrelscan/) | Run Squirrelscan from a coding agent to audit SEO, performance, security, accessibility, and agent-experience issues, then feed exact... | 272 | Security & Verification |
-| [Run supervised local coding automation with Alphacode](skills/run-supervised-local-coding-automation-with-alphacode/) | Use Alphacode to run terminal-first coding agent tasks that can edit code, execute tests, automate Firefox, control desktop... | 265 | Developer Tools |
 
 ---
 
@@ -104,6 +104,9 @@ See the full overlay index in [industries/README.md](industries/README.md).
 
 | Contributor | Skill | What it helps with | Category |
 |---|---|---|---|
+| [IRONICBo](https://github.com/IRONICBo) | [Jet Browser](skills/jet-browser/) | Install, verify, integrate, or troubleshoot the Jet Browser WPE WebKit runtime for isolated agent browser sessions with ordered... | Browser Automation |
+| [ADWilkinson](https://github.com/ADWilkinson) | [Sell unused tokens](skills/sell-unused-tokens/) | List leftover LLM API capacity on tokensto.cash (OpenRouter, OpenAI, Anthropic, Venice, Capminal, and 20+ others) and cash out... | Developer Tools |
+| [ADWilkinson](https://github.com/ADWilkinson) | [USDCtoFiat Cash-Out](skills/usdctofiat-cashout/) | Add non-custodial Base USDC-to-fiat cash-out with @usdctofiat/offramp cashout({ mode: "fast" \| "best" }). Use when an agent must... | Integrations & Connectors |
 | [ADWilkinson](https://github.com/ADWilkinson) | [HyperGrok Trading Desk](skills/hypergrok-trading-desk/) | Turn Claude Code, Cursor, or Grok Bot into a 7-role Hyperliquid trading desk. Sixteen SKILL.md skills plus seven... | Integrations & Connectors |
 | [aakashH242](https://github.com/aakashH242) | [Gauntlet](skills/gauntlet/) | Evidence-driven adversarial review and root-cause repair of code, designs, APIs, infrastructure, tests, and agent workflows. Use for deep... | Code Quality & Review |
 | [stefanautomateed](https://github.com/stefanautomateed) | [Publish with Shipvela](skills/shipvela-publish/) | Publish a website through an owner-approved Shipvela MCP connection, track deployment status and logs, and return a verified... | CI/CD Integrations |
@@ -111,9 +114,6 @@ See the full overlay index in [industries/README.md](industries/README.md).
 | [ljhskyso](https://github.com/ljhskyso) | [Aident Loadout](skills/aident-loadout/) | Give Claude Code, Codex, Cursor, ChatGPT and other MCP clients 1,000+ apps and 400+ expert-built Skills through one... | Integrations & Connectors |
 | [MBK-fr](https://github.com/MBK-fr) | [Darkmoon Pentest MCP](skills/darkmoon-pentest-mcp/) | Start and follow authorized autonomous AI penetration tests from Claude Code, Cursor or Codex through the darkmoon MCP... | Security & Verification |
 | [dskuldeep](https://github.com/dskuldeep) | [Work an SEO and AI-Visibility Backlog with LogNorm](skills/lognorm-seo-geo-backlog/) | Use LogNorm when Claude Code, Codex or Cursor should work a site's SEO and AI-visibility (GEO) backlog through... | Content Writing & SEO |
-| [xiehuan123](https://github.com/xiehuan123) | [Browser Extension Launch](skills/browser-extension-launch/) | Turns a plain-language idea into a tested Chrome Manifest V3 extension, release bundle, store materials, and a resumable... | Templates & Workflows |
-| [OssaBellator](https://github.com/OssaBellator) | [MCP Workflow Audit](skills/mcp-workflow-audit/) | Audit Claude Code, MCP, and AI-agent workflows for permissions, consequential actions, idempotency, failure recovery, verification, and operator handoff | Developer Tools |
-| [Pangolin-spg](https://github.com/Pangolin-spg) | [Pangolinfo AI SERP](skills/pangolinfo-ai-serp/) | Retrieve structured Google SERP and AI Overviews, run AI Mode follow-up queries, and optionally capture screenshots through Pangolinfo... | Research & Scraping |
 
 ---
 
@@ -130,9 +130,9 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 | [Run a Docling API server for agent document conversion](skills/run-a-docling-api-server-for-agent-document-conversion/) | Deploy Docling API so agents can convert PDFs, Office files, images, HTML, CSV, and other documents into Markdown... | 1.7k | Data Extraction & Transformation |
 | [Schedule Node Agent Jobs with node-cron](skills/schedule-node-agent-jobs-with-node-cron/) | Use node-cron to add recurring background jobs to Node.js agent services with overlap prevention, distributed coordination, background task... | 3.3k | Templates & Workflows |
 | [Run agentic quality engineering checks with Agentic QE](skills/run-agentic-quality-engineering-checks-with-agentic-qe/) | Configure Agentic QE in a repository so a coding agent can generate tests, inspect coverage gaps, investigate flaky... | 495 | Code Quality & Review |
-| [Audit and fix website QA issues with Squirrelscan](skills/audit-and-fix-website-qa-issues-with-squirrelscan/) | Run Squirrelscan from a coding agent to audit SEO, performance, security, accessibility, and agent-experience issues, then feed exact... | 272 | Security & Verification |
 | [Build TypeScript spreadsheet import and export workflows with hucre](skills/build-typescript-spreadsheet-import-and-export-workflows-with-hucre/) | Use hucre when a coding agent needs to add zero-dependency XLSX, CSV, ODS, JSON, NDJSON, or XML spreadsheet... | 2.2k | Data Extraction & Transformation |
 | [Compile agent-ready documentation bundles with docmd](skills/compile-agent-ready-documentation-bundles-with-docmd/) | Use docmd when a project needs one Markdown documentation source to produce a site, search index, llms.txt, MCP... | 2.5k | Library & API Reference |
+| [Audit and fix website QA issues with Squirrelscan](skills/audit-and-fix-website-qa-issues-with-squirrelscan/) | Run Squirrelscan from a coding agent to audit SEO, performance, security, accessibility, and agent-experience issues, then feed exact... | 272 | Security & Verification |
 
 ---
 
@@ -152,7 +152,7 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 | 🔍 | [**Research & Scraping**](categories/research-scraping/) | 138 | Web research, content discovery, data collection |
 | 📚 | [**Library & API Reference**](categories/library-api-reference/) | 130 | SDK docs, API parsers, symbol resolvers |
 | 📅 | [**Calendar, Email & Productivity**](categories/calendar-email-productivity/) | 128 | Email automation, calendar management, task coordination |
-| 🌐 | [**Browser Automation**](categories/browser-automation/) | 126 | Web scraping, UI testing, headless browser control |
+| 🌐 | [**Browser Automation**](categories/browser-automation/) | 127 | Web scraping, UI testing, headless browser control |
 | 🎨 | [**Image & Creative Automation**](categories/image-creative-automation/) | 116 | Image generation, asset processing, design automation |
 | 🎙️ | [**Media & Transcription**](categories/media-transcription/) | 109 | Audio/video processing, speech-to-text |
 | ✍️ | [**Content Writing & SEO**](categories/content-writing-seo/) | 96 | SEO content, blog automation, editorial workflows |
@@ -219,7 +219,7 @@ Every skill is backed by a real tool, repo, or package. New skills require real 
 
 | Tier | Count | Meaning |
 |------|------:|---|
-| 📋 **Published** | 3,131 | In the catalog — every skill is backed by a real tool, repo, or package |
+| 📋 **Published** | 3,132 | In the catalog — every skill is backed by a real tool, repo, or package |
 | 🛡️ **Security Reviewed** | 2,606 | Scanned for malicious patterns, prompt injection, and unsafe instructions |
 
 More: [verification/](verification/)

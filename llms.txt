@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-13
-# Total: 3131 skills
+# Total: 3132 skills
+
+## Jet Browser
+slug: jet-browser
+category: Browser Automation
+framework: Codex
+verification: Published
+description: Install, verify, integrate, or troubleshoot the Jet Browser WPE WebKit runtime for isolated agent browser sessions with ordered JSONL automation, native input, screenshots, and…
+url: https://agentskillexchange.com/skills/jet-browser/
 
 ## Install reusable agent workflows with AIWG
 slug: install-reusable-agent-workflows-with-aiwg

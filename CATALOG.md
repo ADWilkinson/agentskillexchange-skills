@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3131 published skills** across **17 categories** · 2,606 security reviewed · Updated 2026-10-13 01:27 UTC
+> **3132 published skills** across **17 categories** · 2,606 security reviewed · Updated 2026-10-13 07:27 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -2693,7 +2693,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Cale
 | [Todoist Sync API Task Orchestrator](skills/todoist-sync-api-task-orchestrator/) | Orchestrates complex task workflows using the Todoist Sync API v9 with incremental sync via sync_token. Uses… | Security Reviewed | — | — |
 
 
-### 🌐 Browser Automation (126 skills)
+### 🌐 Browser Automation (127 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Browser%20Automation) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Browser%20Automation&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Browser%20Automation&sort=downloads)
 
@@ -2824,6 +2824,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Brow
 | [playwright-extra Plugin Framework for Playwright](skills/playwright-extra-plugin-framework-for-playwright/) | An ASE skill built around playwright-extra, the plugin framework that augments Playwright with reusable plugins such… | Published | — | 623.1k/wk |
 | [Extract data and complete workflows in your real logged-in browser](skills/extract-data-and-complete-workflows-in-your-real-logged-in-browser/) | Use bb-browser when an agent needs to inspect pages, pull data, or complete form-driven tasks inside the user's… | Published | — | 2.9k/wk |
 | [Drive Chrome with stable accessibility refs for repeatable browser automation](skills/drive-chrome-with-stable-accessibility-refs-for-repeatable-browser-automation/) | Use PinchTab when an agent needs repeatable browser automation with stable element references, persistent profiles,… | Security Reviewed | — | 1.1k/wk |
+| [Jet Browser](skills/jet-browser/) | Install, verify, integrate, or troubleshoot the Jet Browser WPE WebKit runtime for isolated agent browser sessions… | Published | — | — |
 | [Verify local web apps with Playwright scripts and managed dev servers](skills/verify-local-web-apps-with-playwright-scripts-and-managed-dev-servers/) | Use Anthropic's webapp-testing skill to spin up one or more local servers, wait for them to become reachable, and… | Security Reviewed | — | — |
 
 
