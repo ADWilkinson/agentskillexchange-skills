@@ -2,13 +2,10 @@
 name: "AIHOT News"
 slug: "aihot-news"
 description: "Retrieve Chinese AI news, recent topic search, event timelines and briefs from AIHOT's anonymous read-only Agent API. Use for current AI developments with original-source links."
+verification: "listed"
+source: "https://github.com/KKKKhazix/khazix-skills/tree/main/aihot"
 category: "Research & Scraping"
 framework: "Multi-Framework"
-verification: listed
-source: "https://github.com/KKKKhazix/khazix-skills/tree/main/aihot"
-license: MIT
-tool_ecosystem:
-  github_repo: "KKKKhazix/khazix-skills"
 ---
 
 # AIHOT News
