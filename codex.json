@@ -2,8 +2,19 @@
   "schema": "codex-skills/1.0",
   "source": "https://agentskillexchange.com",
   "generated": "2026-10-13",
-  "total": 3132,
+  "total": 3133,
   "skills": [
+    {
+      "slug": "aihot-news",
+      "name": "AIHOT News",
+      "title": "AIHOT News",
+      "description": "Retrieve Chinese AI news, recent topic search, event timelines and briefs from AIHOT's anonymous read-only Agent API. Use for current AI developments with original-source…",
+      "category": "Research & Scraping",
+      "framework": "Multi-Framework",
+      "verification": "listed",
+      "source_url": "https://github.com/KKKKhazix/khazix-skills/tree/main/aihot",
+      "github_repo": "KKKKhazix/khazix-skills"
+    },
     {
       "slug": "jet-browser",
       "name": "Jet Browser",

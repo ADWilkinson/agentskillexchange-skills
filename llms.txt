@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-13
-# Total: 3132 skills
+# Total: 3133 skills
+
+## AIHOT News
+slug: aihot-news
+category: Research & Scraping
+framework: Multi-Framework
+verification: Published
+description: Retrieve Chinese AI news, recent topic search, event timelines and briefs from AIHOT's anonymous read-only Agent API. Use for current AI developments with original-source…
+url: https://agentskillexchange.com/skills/aihot-news/
 
 ## Jet Browser
 slug: jet-browser
