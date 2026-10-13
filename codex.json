@@ -1,9 +1,20 @@
 {
   "schema": "codex-skills/1.0",
   "source": "https://agentskillexchange.com",
-  "generated": "2026-10-12",
-  "total": 3130,
+  "generated": "2026-10-13",
+  "total": 3131,
   "skills": [
+    {
+      "slug": "install-reusable-agent-workflows-with-aiwg",
+      "name": "Install reusable agent workflows with AIWG",
+      "title": "Install reusable agent workflows with AIWG",
+      "description": "Use AIWG to install and verify reusable project context, specialist workflows, skills, rules, and MCP utilities across Claude Code, Codex, Copilot, Cursor, and other…",
+      "category": "Templates & Workflows",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/jmagly/aiwg",
+      "github_repo": "jmagly/aiwg"
+    },
     {
       "slug": "gauntlet",
       "name": "Gauntlet",

@@ -4,7 +4,7 @@
 
 ### Curated and trusted AI agent skills
 
-[![Published](https://img.shields.io/badge/published-3%2C130-6366f1?style=for-the-badge)](CATALOG.md)
+[![Published](https://img.shields.io/badge/published-3%2C131-6366f1?style=for-the-badge)](CATALOG.md)
 [![Industry%20Collections](https://img.shields.io/badge/industry--collections-15-14b8a6?style=for-the-badge)](industries/README.md)
 [![Categories](https://img.shields.io/badge/categories-17-0ea5e9?style=for-the-badge)](categories/README.md)
 [![Security%20Reviewed](https://img.shields.io/badge/security--reviewed-2%2C606-10b981?style=for-the-badge)](verification/)
@@ -12,7 +12,7 @@
 
 **[Catalog](CATALOG.md) · [Live Browse](https://agentskillexchange.com/browse-skills/) · [Categories](categories/README.md) · [Industry Collections](industries/README.md) · [Top Starred](TOP-STARS.md) · [Top Downloaded](TOP-DOWNLOADS.md) · [Submit a Skill](#submit-a-skill)**
 
-*3,130 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
+*3,131 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
 
 *Star this repo to keep the agent skill catalog handy and follow new additions.*
 
@@ -51,7 +51,7 @@ npm exec --package=skills@1.5.7 -- skills add agentskillexchange/skills --skill 
 
 ## Skill of the Day
 
-**[Use RAGFlow as a retrieval and context layer for agent workflows](skills/use-ragflow-as-a-retrieval-and-context-layer-for-agent-workflows/)** — Build a supervised RAG context layer with RAGFlow so agents can index documents, retrieve grounded context, and answer with traceable source support.
+**[Run owned terminal coding-agent workflows with Zero](skills/run-owned-terminal-coding-agent-workflows-with-zero/)** — Use Zero to run local, scriptable coding-agent sessions with operator-controlled models, permissions, tools, skills, MCP servers, and durable transcripts.
 
 _Rotates daily across downloaded, starred, recent, verified, and industry-curated skills._
 
@@ -87,6 +87,7 @@ See the full overlay index in [industries/README.md](industries/README.md).
 
 | Skill | What it helps with | Stars | Category |
 |---|---|---:|---|
+| [Install reusable agent workflows with AIWG](skills/install-reusable-agent-workflows-with-aiwg/) | Use AIWG to install and verify reusable project context, specialist workflows, skills, rules, and MCP utilities across Claude... | 223 | Templates & Workflows |
 | [Gauntlet](skills/gauntlet/) | Evidence-driven adversarial review and root-cause repair of code, designs, APIs, infrastructure, tests, and agent workflows. Use for deep... | - | Code Quality & Review |
 | [Publish with Shipvela](skills/shipvela-publish/) | Publish a website through an owner-approved Shipvela MCP connection, track deployment status and logs, and return a verified... | - | CI/CD Integrations |
 | [Search and Book Hotels and Flights with MAQAMI Travel](skills/maqami-travel-booking/) | Use MAQAMI Travel when an agent should search hotels (3M+) and flights for specific dates, compare rates, read... | - | Integrations & Connectors |
@@ -96,7 +97,6 @@ See the full overlay index in [industries/README.md](industries/README.md).
 | [Run AEO and GEO marketing workflows with GTM Engineer Skills](skills/run-aeo-and-geo-marketing-workflows-with-gtm-engineer-skills/) | Install GTM Engineer Skills so Codex or Claude Code can research a brand, plan SEO/GEO content, audit AEO... | 1.3k | Content Writing & SEO |
 | [Audit and fix website QA issues with Squirrelscan](skills/audit-and-fix-website-qa-issues-with-squirrelscan/) | Run Squirrelscan from a coding agent to audit SEO, performance, security, accessibility, and agent-experience issues, then feed exact... | 272 | Security & Verification |
 | [Run supervised local coding automation with Alphacode](skills/run-supervised-local-coding-automation-with-alphacode/) | Use Alphacode to run terminal-first coding agent tasks that can edit code, execute tests, automate Firefox, control desktop... | 265 | Developer Tools |
-| [Deploy a private local agent stack with Self-Hosted AI Stack](skills/deploy-private-local-agent-stack-with-self-hosted-ai-stack/) | Stand up a local-first Docker Compose backend for agent work: LLM routing, chat, document parsing, embeddings, speech, and... | 163 | Developer Tools |
 
 ---
 
@@ -129,10 +129,10 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 | [Run IDE-wired terminal coding-agent workflows with Oh My Pi](skills/run-ide-wired-terminal-coding-agent-workflows-with-oh-my-pi/) | Use Oh My Pi when an operator wants a local terminal coding agent with IDE-grade context, built-in file... | 31.8k | Developer Tools |
 | [Run a Docling API server for agent document conversion](skills/run-a-docling-api-server-for-agent-document-conversion/) | Deploy Docling API so agents can convert PDFs, Office files, images, HTML, CSV, and other documents into Markdown... | 1.7k | Data Extraction & Transformation |
 | [Schedule Node Agent Jobs with node-cron](skills/schedule-node-agent-jobs-with-node-cron/) | Use node-cron to add recurring background jobs to Node.js agent services with overlap prevention, distributed coordination, background task... | 3.3k | Templates & Workflows |
-| [Compile agent-ready documentation bundles with docmd](skills/compile-agent-ready-documentation-bundles-with-docmd/) | Use docmd when a project needs one Markdown documentation source to produce a site, search index, llms.txt, MCP... | 2.5k | Library & API Reference |
+| [Run agentic quality engineering checks with Agentic QE](skills/run-agentic-quality-engineering-checks-with-agentic-qe/) | Configure Agentic QE in a repository so a coding agent can generate tests, inspect coverage gaps, investigate flaky... | 495 | Code Quality & Review |
 | [Audit and fix website QA issues with Squirrelscan](skills/audit-and-fix-website-qa-issues-with-squirrelscan/) | Run Squirrelscan from a coding agent to audit SEO, performance, security, accessibility, and agent-experience issues, then feed exact... | 272 | Security & Verification |
 | [Build TypeScript spreadsheet import and export workflows with hucre](skills/build-typescript-spreadsheet-import-and-export-workflows-with-hucre/) | Use hucre when a coding agent needs to add zero-dependency XLSX, CSV, ODS, JSON, NDJSON, or XML spreadsheet... | 2.2k | Data Extraction & Transformation |
-| [Run agentic quality engineering checks with Agentic QE](skills/run-agentic-quality-engineering-checks-with-agentic-qe/) | Configure Agentic QE in a repository so a coding agent can generate tests, inspect coverage gaps, investigate flaky... | 495 | Code Quality & Review |
+| [Compile agent-ready documentation bundles with docmd](skills/compile-agent-ready-documentation-bundles-with-docmd/) | Use docmd when a project needs one Markdown documentation source to produce a site, search index, llms.txt, MCP... | 2.5k | Library & API Reference |
 
 ---
 
@@ -141,7 +141,7 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 | | Category | Skills | What's inside |
 |---|---|---:|---|
 | 🛠️ | [**Developer Tools**](categories/developer-tools/) | 522 | CLI tools, scaffolders, dev environment setup |
-| 📄 | [**Templates & Workflows**](categories/templates-workflows/) | 264 | Scaffolders, boilerplate generators, workflow templates |
+| 📄 | [**Templates & Workflows**](categories/templates-workflows/) | 265 | Scaffolders, boilerplate generators, workflow templates |
 | 🔒 | [**Security & Verification**](categories/security-verification/) | 256 | Vulnerability scanning, auth setup, compliance |
 | 🔄 | [**Data Extraction & Transformation**](categories/data-extraction-transformation/) | 229 | ETL pipelines, parsing, format conversion |
 | ✅ | [**Code Quality & Review**](categories/code-quality-review/) | 207 | Linting, code review, test generators, coverage |
@@ -219,7 +219,7 @@ Every skill is backed by a real tool, repo, or package. New skills require real 
 
 | Tier | Count | Meaning |
 |------|------:|---|
-| 📋 **Published** | 3,130 | In the catalog — every skill is backed by a real tool, repo, or package |
+| 📋 **Published** | 3,131 | In the catalog — every skill is backed by a real tool, repo, or package |
 | 🛡️ **Security Reviewed** | 2,606 | Scanned for malicious patterns, prompt injection, and unsafe instructions |
 
 More: [verification/](verification/)

@@ -262,6 +262,7 @@ Project scaffolding, boilerplate generators, workflow templates, and starter kit
 | [Install OrchestKit skills, agents, and hooks for Claude Code](../../skills/install-orchestkit-skills-agents-and-hooks-for-claude-code/) | 278 | 7/wk |
 | [Maintain reusable project knowledge with Project Cairn](../../skills/maintain-reusable-project-knowledge-with-project-cairn/) | 235 | — |
 | [Run contract-driven GRACE code changes with agent skills](../../skills/run-contract-driven-grace-code-changes-with-agent-skills/) | 228 | 160/wk |
+| [Install reusable agent workflows with AIWG](../../skills/install-reusable-agent-workflows-with-aiwg/) | 223 | 48k/wk |
 | [Run Personal Corp OS weekly operating loops with Claude Code and Codex](../../skills/run-personal-corp-os-weekly-operating-loops-with-claude-code-and-codex/) | 214 | — |
 | [Delegate planned agent work with Elves](../../skills/delegate-planned-agent-work-with-elves/) | 188 | — |
 | [Maintain OKF Knowledge Bundles with Okf Skills](../../skills/maintain-okf-knowledge-bundles-with-okf-skills/) | 185 | — |

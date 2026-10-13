@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3130 published skills** across **17 categories** · 2,606 security reviewed · Updated 2026-10-12 19:27 UTC
+> **3131 published skills** across **17 categories** · 2,606 security reviewed · Updated 2026-10-13 01:27 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -538,7 +538,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [Zinc Universal Checkout](skills/zinc-universal-checkout/) | Discover, buy, track, and return products across Amazon, Walmart, Target, Best Buy, eBay, and 50+ US retailers via… | Published | — | — |
 
 
-### 📄 Templates & Workflows (264 skills)
+### 📄 Templates & Workflows (265 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Templates%20%26%20Workflows) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Templates%20%26%20Workflows&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Templates%20%26%20Workflows&sort=downloads)
 
@@ -766,6 +766,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Temp
 | [Install OrchestKit skills, agents, and hooks for Claude Code](skills/install-orchestkit-skills-agents-and-hooks-for-claude-code/) | Install OrchestKit when a Claude Code operator wants a maintained workflow pack of skills, specialist agents, hooks,… | Security Reviewed | 278 | 7/wk |
 | [Maintain reusable project knowledge with Project Cairn](skills/maintain-reusable-project-knowledge-with-project-cairn/) | Use Project Cairn to initialize, maintain, audit, and graduate project knowledge so coding-agent work leaves… | Security Reviewed | 235 | — |
 | [Run contract-driven GRACE code changes with agent skills](skills/run-contract-driven-grace-code-changes-with-agent-skills/) | Uses GRACE skills and the optional grace CLI to guide coding agents through contract-first code changes backed by… | Security Reviewed | 228 | 160/wk |
+| [Install reusable agent workflows with AIWG](skills/install-reusable-agent-workflows-with-aiwg/) | Use AIWG to install and verify reusable project context, specialist workflows, skills, rules, and MCP utilities… | Security Reviewed | 223 | 48k/wk |
 | [Run Personal Corp OS weekly operating loops with Claude Code and Codex](skills/run-personal-corp-os-weekly-operating-loops-with-claude-code-and-codex/) | Install a maintained skill pack for weekly planning, retrospectives, task routing, department setup, and founder-ops… | Security Reviewed | 214 | — |
 | [Delegate planned agent work with Elves](skills/delegate-planned-agent-work-with-elves/) | Use Elves to hand a bounded development or research plan to a separate Claude Code or Codex worker while preserving… | Security Reviewed | 188 | — |
 | [Maintain OKF Knowledge Bundles with Okf Skills](skills/maintain-okf-knowledge-bundles-with-okf-skills/) | Use Okf Skills to have Claude Code produce, validate, migrate, and visualize Open Knowledge Format bundles with… | Security Reviewed | 185 | — |

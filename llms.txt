@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
-# Generated: 2026-10-12
-# Total: 3130 skills
+# Generated: 2026-10-13
+# Total: 3131 skills
+
+## Install reusable agent workflows with AIWG
+slug: install-reusable-agent-workflows-with-aiwg
+category: Templates & Workflows
+framework: Multi-Framework
+verification: Security Reviewed
+description: Use AIWG to install and verify reusable project context, specialist workflows, skills, rules, and MCP utilities across Claude Code, Codex, Copilot, Cursor, and other…
+url: https://agentskillexchange.com/skills/install-reusable-agent-workflows-with-aiwg/
 
 ## Gauntlet
 slug: gauntlet
