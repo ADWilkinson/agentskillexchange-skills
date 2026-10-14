@@ -2,11 +2,12 @@
 name: "Run GitHub Issues as a Spec, Build, Review and Ship Pipeline with workkit"
 slug: "run-github-issues-as-a-spec-build-review-ship-pipeline-with-workkit"
 description: "Use workkit when Claude Code should work a repository's GitHub Issues as a labeled pipeline: capture, triage, spec interview, a subagent build with blind review, owner QA, and a ship step that writes the changelog and releases."
+verification: "listed"
+source: "https://github.com/ITW-Creative-Works/workkit"
 category: "Templates & Workflows"
 framework: "Claude Code"
-verification: listed
-source: "https://github.com/ITW-Creative-Works/workkit"
-license: "FSL-1.1-MIT"
+tool_ecosystem:
+  github_repo: "itw-creative-works/workkit"
 ---
 
 # Run GitHub Issues as a Spec, Build, Review and Ship Pipeline with workkit
