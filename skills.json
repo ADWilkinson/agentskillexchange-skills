@@ -1,8 +1,44 @@
 {
   "version": "2.0",
-  "total": 3136,
+  "total": 3139,
   "generated": "2026-10-14",
   "skills": [
+    {
+      "slug": "looot-business-data-lookups-over-mcp",
+      "name": "looot Business Data Lookups Over MCP",
+      "title": "looot Business Data Lookups Over MCP",
+      "description": "Gives an agent one MCP connection to about 2,500 data endpoints from 90+ providers: find a work email or phone, verify an email, enrich…",
+      "category": "Data Extraction & Transformation",
+      "framework": "MCP",
+      "verification": "listed",
+      "source_url": "https://github.com/loootai/looot-skills",
+      "github_repo": "loootai/looot-skills"
+    },
+    {
+      "slug": "hourglyph-daily",
+      "name": "Hourglyph Daily Puzzle",
+      "title": "Hourglyph Daily Puzzle",
+      "description": "Play Hourglyph Daily, a free daily logic puzzle by Clock Hill Games, through its documented HTTP API: register, fetch today's board, submit moves and…",
+      "category": "Integrations & Connectors",
+      "framework": "Custom Agents",
+      "verification": "listed",
+      "source_url": "https://hourglyph-daily.clockhill.workers.dev/skill.md"
+    },
+    {
+      "slug": "drive-repository-changes-with-claurst-terminal-coding-agent",
+      "name": "Drive repository changes with Claurst terminal coding agent",
+      "title": "Drive repository changes with Claurst terminal coding agent",
+      "description": "Use Claurst as a local Rust terminal coding agent for repo-aware planning, edits, command runs, tests, permissions, and multi-provider coding workflows.",
+      "category": "Developer Tools",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "signals": {
+        "github_stars": 10316,
+        "npm_weekly_downloads": 10
+      },
+      "source_url": "https://github.com/Kuberwastaken/claurst",
+      "github_repo": "Kuberwastaken/claurst"
+    },
     {
       "slug": "run-github-issues-as-a-spec-build-review-ship-pipeline-with-workkit",
       "name": "Run GitHub Issues as a Spec, Build, Review and Ship Pipeline with workkit",
@@ -43401,7 +43437,7 @@
       "verification": "security_reviewed",
       "signals": {
         "github_stars": 103,
-        "npm_weekly_downloads": 3158112,
+        "npm_weekly_downloads": 3119024,
         "license": "Apache-2.0"
       },
       "source_url": "https://github.com/DataDog/datadog-api-client-typescript",
@@ -43447,7 +43483,7 @@
       "verification": "security_reviewed",
       "signals": {
         "github_stars": 27264,
-        "npm_weekly_downloads": 161055544,
+        "npm_weekly_downloads": 158743826,
         "license": "MIT"
       },
       "source_url": "https://github.com/eslint/eslint",
@@ -43478,7 +43514,7 @@
       "verification": "listed",
       "signals": {
         "github_stars": 3632,
-        "npm_weekly_downloads": 12096830,
+        "npm_weekly_downloads": 12028662,
         "license": "Apache-2.0"
       },
       "source_url": "https://github.com/aws/aws-sdk-js-v3",
@@ -43494,7 +43530,7 @@
       "verification": "listed",
       "signals": {
         "github_stars": 3632,
-        "npm_weekly_downloads": 50142794,
+        "npm_weekly_downloads": 49826462,
         "license": "Apache-2.0"
       },
       "source_url": "https://github.com/aws/aws-sdk-js-v3",
@@ -43510,7 +43546,7 @@
       "verification": "security_reviewed",
       "signals": {
         "github_stars": 3051,
-        "npm_weekly_downloads": 59243,
+        "npm_weekly_downloads": 56243,
         "license": "MIT"
       },
       "source_url": "https://github.com/sendgrid/sendgrid-nodejs",
@@ -43526,7 +43562,7 @@
       "verification": "security_reviewed",
       "signals": {
         "github_stars": 1539,
-        "npm_weekly_downloads": 6568965,
+        "npm_weekly_downloads": 6526238,
         "license": "MIT"
       },
       "source_url": "https://github.com/twilio/twilio-node",
@@ -43542,7 +43578,7 @@
       "verification": "security_reviewed",
       "signals": {
         "github_stars": 4428,
-        "npm_weekly_downloads": 24133827,
+        "npm_weekly_downloads": 24154234,
         "license": "MIT"
       },
       "source_url": "https://github.com/stripe/stripe-node",
@@ -43558,7 +43594,7 @@
       "verification": "security_reviewed",
       "signals": {
         "github_stars": 1465,
-        "npm_weekly_downloads": 1051586,
+        "npm_weekly_downloads": 986260,
         "license": "MIT"
       },
       "source_url": "https://github.com/jsforce/jsforce",
@@ -43574,7 +43610,7 @@
       "verification": "security_reviewed",
       "signals": {
         "github_stars": 397,
-        "npm_weekly_downloads": 1638901,
+        "npm_weekly_downloads": 1601959,
         "license": "Apache-2.0"
       },
       "source_url": "https://github.com/HubSpot/hubspot-api-nodejs",
@@ -43590,7 +43626,7 @@
       "verification": "security_reviewed",
       "signals": {
         "github_stars": 5610,
-        "npm_weekly_downloads": 1958012,
+        "npm_weekly_downloads": 1981776,
         "license": "MIT"
       },
       "source_url": "https://github.com/makenotion/notion-sdk-js",
@@ -43635,7 +43671,7 @@
       "verification": "security_reviewed",
       "signals": {
         "github_stars": 24,
-        "npm_weekly_downloads": 5610,
+        "npm_weekly_downloads": 5383,
         "license": "Apache-2.0"
       },
       "source_url": "https://github.com/opsgenie/opsgenie-nodejs-sdk",
@@ -43667,7 +43703,7 @@
       "verification": "security_reviewed",
       "signals": {
         "github_stars": 811,
-        "npm_weekly_downloads": 10465837
+        "npm_weekly_downloads": 10178992
       },
       "source_url": "https://github.com/DataDog/dd-trace-js",
       "github_repo": "datadog/dd-trace-js"
@@ -43682,7 +43718,7 @@
       "verification": "listed",
       "signals": {
         "github_stars": 25248,
-        "npm_weekly_downloads": 3714872,
+        "npm_weekly_downloads": 3758321,
         "license": "Apache-2.0"
       },
       "source_url": "https://github.com/pulumi/pulumi",
@@ -43817,7 +43853,7 @@
       "verification": "listed",
       "signals": {
         "github_stars": 712,
-        "npm_weekly_downloads": 95559
+        "npm_weekly_downloads": 92171
       },
       "source_url": "https://github.com/getsentry/sentry-mcp",
       "github_repo": "getsentry/sentry-mcp"
@@ -43878,7 +43914,7 @@
       "verification": "security_reviewed",
       "signals": {
         "github_stars": 1290,
-        "npm_weekly_downloads": 227,
+        "npm_weekly_downloads": 202,
         "license": "MIT"
       },
       "source_url": "https://github.com/steipete/claude-code-mcp",
@@ -43909,7 +43945,7 @@
       "verification": "security_reviewed",
       "signals": {
         "github_stars": 393,
-        "npm_weekly_downloads": 223,
+        "npm_weekly_downloads": 281,
         "license": "Apache-2.0"
       },
       "source_url": "https://github.com/e2b-dev/mcp-server",
@@ -43949,7 +43985,7 @@
       "verification": "security_reviewed",
       "signals": {
         "github_stars": 10942,
-        "npm_weekly_downloads": 43294719,
+        "npm_weekly_downloads": 43409938,
         "license": "Apache-2.0"
       },
       "source_url": "https://github.com/openai/openai-node",
@@ -44066,7 +44102,7 @@
       "verification": "security_reviewed",
       "signals": {
         "github_stars": 190,
-        "npm_weekly_downloads": 96,
+        "npm_weekly_downloads": 98,
         "license": "MIT"
       },
       "source_url": "https://github.com/getsentry/sentry-for-ai",
@@ -44121,7 +44157,7 @@
       "verification": "security_reviewed",
       "signals": {
         "github_stars": 33289,
-        "npm_weekly_downloads": 6524222,
+        "npm_weekly_downloads": 6403349,
         "license": "Apache-2.0"
       },
       "source_url": "https://github.com/microsoft/playwright-mcp",
@@ -44154,7 +44190,7 @@
       "verification": "security_reviewed",
       "signals": {
         "github_stars": 89986,
-        "npm_weekly_downloads": 113272409,
+        "npm_weekly_downloads": 113562399,
         "license": "Apache-2.0"
       },
       "source_url": "https://github.com/microsoft/playwright",

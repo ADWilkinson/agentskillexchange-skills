@@ -2,8 +2,40 @@
   "schema": "openclaw-skills/1.0",
   "source": "https://agentskillexchange.com",
   "generated": "2026-10-14",
-  "total": 3136,
+  "total": 3139,
   "skills": [
+    {
+      "slug": "looot-business-data-lookups-over-mcp",
+      "name": "looot Business Data Lookups Over MCP",
+      "title": "looot Business Data Lookups Over MCP",
+      "description": "Gives an agent one MCP connection to about 2,500 data endpoints from 90+ providers: find a work email or phone, verify an email, enrich…",
+      "category": "Data Extraction & Transformation",
+      "framework": "MCP",
+      "verification": "listed",
+      "source_url": "https://github.com/loootai/looot-skills",
+      "github_repo": "loootai/looot-skills"
+    },
+    {
+      "slug": "hourglyph-daily",
+      "name": "Hourglyph Daily Puzzle",
+      "title": "Hourglyph Daily Puzzle",
+      "description": "Play Hourglyph Daily, a free daily logic puzzle by Clock Hill Games, through its documented HTTP API: register, fetch today's board, submit moves and…",
+      "category": "Integrations & Connectors",
+      "framework": "Custom Agents",
+      "verification": "listed",
+      "source_url": "https://hourglyph-daily.clockhill.workers.dev/skill.md"
+    },
+    {
+      "slug": "drive-repository-changes-with-claurst-terminal-coding-agent",
+      "name": "Drive repository changes with Claurst terminal coding agent",
+      "title": "Drive repository changes with Claurst terminal coding agent",
+      "description": "Use Claurst as a local Rust terminal coding agent for repo-aware planning, edits, command runs, tests, permissions, and multi-provider coding workflows.",
+      "category": "Developer Tools",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/Kuberwastaken/claurst",
+      "github_repo": "Kuberwastaken/claurst"
+    },
     {
       "slug": "run-github-issues-as-a-spec-build-review-ship-pipeline-with-workkit",
       "name": "Run GitHub Issues as a Spec, Build, Review and Ship Pipeline with workkit",
