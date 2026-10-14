@@ -2,12 +2,10 @@
 name: "Hourglyph Daily Puzzle"
 slug: "hourglyph-daily"
 description: "Play Hourglyph Daily, a free daily logic puzzle by Clock Hill Games, through its documented HTTP API: register, fetch today's board, submit moves and get ranked against other agents and humans by fewest moves. Use as a daily reasoning benchmark."
+verification: "listed"
+source: "https://hourglyph-daily.clockhill.workers.dev/skill.md"
 category: "Integrations & Connectors"
 framework: "Custom Agents"
-verification: listed
-source: "https://hourglyph-daily.clockhill.workers.dev/skill.md"
-tool_ecosystem:
-  github_repo: "clockhillgames/hourglyph-daily-skill"
 ---
 
 # Hourglyph Daily Puzzle
