@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3134 published skills** across **17 categories** · 2,606 security reviewed · Updated 2026-10-14 01:27 UTC
+> **3136 published skills** across **17 categories** · 2,606 security reviewed · Updated 2026-10-14 07:27 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -538,7 +538,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [Zinc Universal Checkout](skills/zinc-universal-checkout/) | Discover, buy, track, and return products across Amazon, Walmart, Target, Best Buy, eBay, and 50+ US retailers via… | Published | — | — |
 
 
-### 📄 Templates & Workflows (265 skills)
+### 📄 Templates & Workflows (266 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Templates%20%26%20Workflows) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Templates%20%26%20Workflows&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Templates%20%26%20Workflows&sort=downloads)
 
@@ -805,6 +805,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Temp
 | [Ralph Loop](skills/ralph-loop/) | Run a ticket queue across agent sessions with a self-verifying loop: one item per iteration, verification gates… | Published | — | — |
 | [Review open pull requests against repository contribution guidelines](skills/review-open-pull-requests-against-repository-contribution-guidelines/) | This entry turns GitHub Next's Contribution Check workflow into a maintainer-facing agent routine. The agent batches… | Security Reviewed | — | — |
 | [Run context → spec → implement coding loops in Claude Code with Conductor](skills/run-context-spec-and-implement-coding-loops-in-claude-code-with-conductor/) | Turn Claude Code into a structured project workflow that captures context, plans work, and executes implementation… | Security Reviewed | — | — |
+| [Run GitHub Issues as a Spec, Build, Review and Ship Pipeline with workkit](skills/run-github-issues-as-a-spec-build-review-ship-pipeline-with-workkit/) | Use workkit when Claude Code should work a repository's GitHub Issues as a labeled pipeline: capture, triage, spec… | Published | — | — |
 | [Scaffold and bundle rich single-file web artifacts with React, Tailwind, and shadcn/ui](skills/scaffold-and-bundle-rich-single-file-web-artifacts-with-react-tailwind-and-shadcn-ui/) | Use Anthropic's web-artifacts-builder skill to scaffold a React artifact project, build a richer interface with… | Security Reviewed | — | — |
 | [Shopify App Review Triage Workflow](skills/shopify-app-review-triage-workflow/) | Turns public Shopify App Store review rows into a prioritized P0-P3 triage brief with an explicit needs-human-read… | Published | — | — |
 | [Test documentation sites across mobile, tablet, and desktop with GitHub Agentic Workflows](skills/test-documentation-sites-across-mobile-tablet-and-desktop-with-github-agentic-workflows/) | Run a repeatable docs-site check that builds locally, opens the site across device sizes, and reports layout,… | Security Reviewed | — | — |
@@ -2829,7 +2830,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Brow
 | [Verify local web apps with Playwright scripts and managed dev servers](skills/verify-local-web-apps-with-playwright-scripts-and-managed-dev-servers/) | Use Anthropic's webapp-testing skill to spin up one or more local servers, wait for them to become reachable, and… | Security Reviewed | — | — |
 
 
-### 🎨 Image & Creative Automation (116 skills)
+### 🎨 Image & Creative Automation (117 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Image%20%26%20Creative%20Automation) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Image%20%26%20Creative%20Automation&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Image%20%26%20Creative%20Automation&sort=downloads)
 
@@ -2925,6 +2926,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Imag
 | [Auto-crop images around the most important subject before generating thumbnails](skills/auto-crop-images-around-the-most-important-subject-before-generating-thumbnails/) | Use smartcrop when an agent needs to choose a sensible crop automatically instead of center-cropping every image.… | Published | — | 49k/wk |
 | [Adobe Firefly API Batch Image Generator](skills/adobe-firefly-api-batch-image-generator/) | Calls Adobe Firefly's text-to-image and generative fill APIs for batch asset creation. Manages Adobe IMS OAuth… | Security Reviewed | — | — |
 | [Adobe Photoshop API Batch Processor](skills/adobe-photoshop-api-batch-processor/) | Automates image editing workflows via the Adobe Photoshop API (Firefly Services). Supports smart object replacement,… | Security Reviewed | — | — |
+| [Agent Media UGC Video](skills/agent-media-ugc-video/) | Use Agent Media when an agent needs to create captioned vertical UGC videos, narrated b-roll overlays, reusable… | Published | — | — |
 | [Bannerbear Dynamic Image API](skills/bannerbear-dynamic-image-api/) | Generates social media graphics and OG images dynamically via Bannerbear REST API. Manages template modifications,… | Security Reviewed | — | — |
 | [Blender Geometry Nodes Script Generator](skills/blender-geometry-nodes-script-generator/) | Generates Blender Python (bpy) scripts that programmatically create Geometry Nodes modifier trees, using the… | Security Reviewed | — | — |
 | [Cloudinary Asset Optimization Agent](skills/cloudinary-asset-optimization-agent/) | Manages image and video assets using the Cloudinary Node.js SDK and Upload API. Applies automatic format selection,… | Security Reviewed | — | — |

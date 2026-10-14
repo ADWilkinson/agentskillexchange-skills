@@ -130,6 +130,7 @@ Image generation, asset processing, design automation, and creative tooling.
 | [Auto-crop images around the most important subject before generating thumbnails](../../skills/auto-crop-images-around-the-most-important-subject-before-generating-thumbnails/) | — | 49k/wk |
 | [Adobe Firefly API Batch Image Generator](../../skills/adobe-firefly-api-batch-image-generator/) | — | — |
 | [Adobe Photoshop API Batch Processor](../../skills/adobe-photoshop-api-batch-processor/) | — | — |
+| [Agent Media UGC Video](../../skills/agent-media-ugc-video/) | — | — |
 | [Bannerbear Dynamic Image API](../../skills/bannerbear-dynamic-image-api/) | — | — |
 | [Blender Geometry Nodes Script Generator](../../skills/blender-geometry-nodes-script-generator/) | — | — |
 | [Cloudinary Asset Optimization Agent](../../skills/cloudinary-asset-optimization-agent/) | — | — |

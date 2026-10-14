@@ -1,7 +1,23 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-14
-# Total: 3134 skills
+# Total: 3136 skills
+
+## Run GitHub Issues as a Spec, Build, Review and Ship Pipeline with workkit
+slug: run-github-issues-as-a-spec-build-review-ship-pipeline-with-workkit
+category: Templates & Workflows
+framework: Claude Code
+verification: Published
+description: Use workkit when Claude Code should work a repository's GitHub Issues as a labeled pipeline: capture, triage, spec interview, a subagent build with blind…
+url: https://agentskillexchange.com/skills/run-github-issues-as-a-spec-build-review-ship-pipeline-with-workkit/
+
+## Agent Media UGC Video
+slug: agent-media-ugc-video
+category: Image & Creative Automation
+framework: MCP
+verification: Published
+description: Use Agent Media when an agent needs to create captioned vertical UGC videos, narrated b-roll overlays, reusable characters, images, and voice through a hosted…
+url: https://agentskillexchange.com/skills/agent-media-ugc-video/
 
 ## Reach Google Business Profile Optimization
 slug: reach-google-business-profile-optimization

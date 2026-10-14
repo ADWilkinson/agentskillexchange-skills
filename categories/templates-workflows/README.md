@@ -301,6 +301,7 @@ Project scaffolding, boilerplate generators, workflow templates, and starter kit
 | [Ralph Loop](../../skills/ralph-loop/) | — | — |
 | [Review open pull requests against repository contribution guidelines](../../skills/review-open-pull-requests-against-repository-contribution-guidelines/) | — | — |
 | [Run context → spec → implement coding loops in Claude Code with Conductor](../../skills/run-context-spec-and-implement-coding-loops-in-claude-code-with-conductor/) | — | — |
+| [Run GitHub Issues as a Spec, Build, Review and Ship Pipeline with workkit](../../skills/run-github-issues-as-a-spec-build-review-ship-pipeline-with-workkit/) | — | — |
 | [Scaffold and bundle rich single-file web artifacts with React, Tailwind, and shadcn/ui](../../skills/scaffold-and-bundle-rich-single-file-web-artifacts-with-react-tailwind-and-shadcn-ui/) | — | — |
 | [Shopify App Review Triage Workflow](../../skills/shopify-app-review-triage-workflow/) | — | — |
 | [Test documentation sites across mobile, tablet, and desktop with GitHub Agentic Workflows](../../skills/test-documentation-sites-across-mobile-tablet-and-desktop-with-github-agentic-workflows/) | — | — |

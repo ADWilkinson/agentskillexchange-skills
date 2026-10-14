@@ -2,8 +2,30 @@
   "schema": "codex-skills/1.0",
   "source": "https://agentskillexchange.com",
   "generated": "2026-10-14",
-  "total": 3134,
+  "total": 3136,
   "skills": [
+    {
+      "slug": "run-github-issues-as-a-spec-build-review-ship-pipeline-with-workkit",
+      "name": "Run GitHub Issues as a Spec, Build, Review and Ship Pipeline with workkit",
+      "title": "Run GitHub Issues as a Spec, Build, Review and Ship Pipeline with workkit",
+      "description": "Use workkit when Claude Code should work a repository's GitHub Issues as a labeled pipeline: capture, triage, spec interview, a subagent build with blind…",
+      "category": "Templates & Workflows",
+      "framework": "Claude Code",
+      "verification": "listed",
+      "source_url": "https://github.com/ITW-Creative-Works/workkit",
+      "github_repo": "itw-creative-works/workkit"
+    },
+    {
+      "slug": "agent-media-ugc-video",
+      "name": "Agent Media UGC Video",
+      "title": "Agent Media UGC Video",
+      "description": "Use Agent Media when an agent needs to create captioned vertical UGC videos, narrated b-roll overlays, reusable characters, images, and voice through a hosted…",
+      "category": "Image & Creative Automation",
+      "framework": "MCP",
+      "verification": "listed",
+      "source_url": "https://github.com/agent-media-ai/agent-media",
+      "github_repo": "agent-media-ai/agent-media"
+    },
     {
       "slug": "reach-google-business-profile-optimization",
       "name": "Reach Google Business Profile Optimization",
