@@ -122,6 +122,7 @@ Blog posts, SEO optimization, content strategy, and writing assistance.
 | [Keyword Cluster Generator](../../skills/keyword-cluster-generator-agent/) | — | — |
 | [Plan Programmatic SEO Pages at Scale](../../skills/plan-programmatic-seo-pages-at-scale/) | — | — |
 | [Rank Math SEO Plugin for WordPress Search Optimization](../../skills/rank-math-seo-plugin-wordpress-search-optimization/) | — | — |
+| [Reach Google Business Profile Optimization](../../skills/reach-google-business-profile-optimization/) | — | — |
 | [Schema Markup Generator for SEO](../../skills/schema-markup-generator-seo/) | — | — |
 | [Schema.org Markup Generator](../../skills/schema-org-markup-generator-agent/) | — | — |
 | [Schema.org Structured Data Injector](../../skills/schema-org-structured-data-injector/) | — | — |

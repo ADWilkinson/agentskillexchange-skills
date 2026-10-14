@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
-# Generated: 2026-10-13
-# Total: 3133 skills
+# Generated: 2026-10-14
+# Total: 3134 skills
+
+## Reach Google Business Profile Optimization
+slug: reach-google-business-profile-optimization
+category: Content Writing & SEO
+framework: MCP
+verification: Published
+description: Audit and fix Google Business Profile gaps through the Reach Google Business Profile MCP (GBP MCP). Use get_recommendations and get_listing to identify local SEO…
+url: https://agentskillexchange.com/skills/reach-google-business-profile-optimization/
 
 ## AIHOT News
 slug: aihot-news

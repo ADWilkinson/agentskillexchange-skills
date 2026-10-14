@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3133 published skills** across **17 categories** · 2,606 security reviewed · Updated 2026-10-13 19:26 UTC
+> **3134 published skills** across **17 categories** · 2,606 security reviewed · Updated 2026-10-14 01:27 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -3070,7 +3070,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Medi
 | [YouTube Chapter Generator from Transcripts](skills/youtube-chapter-generator-transcripts/) | Extracts YouTube video transcripts via the youtube-transcript-api Python library and generates semantic chapter… | Security Reviewed | — | — |
 
 
-### ✍️ Content Writing & SEO (96 skills)
+### ✍️ Content Writing & SEO (97 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Content%20Writing%20%26%20SEO) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Content%20Writing%20%26%20SEO&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Content%20Writing%20%26%20SEO&sort=downloads)
 
@@ -3158,6 +3158,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Cont
 | [Keyword Cluster Generator](skills/keyword-cluster-generator-agent/) | Groups keywords into topical clusters using sentence-transformers all-MiniLM-L6-v2 embeddings with HDBSCAN… | Security Reviewed | — | — |
 | [Plan Programmatic SEO Pages at Scale](skills/plan-programmatic-seo-pages-at-scale/) | Design template and data driven SEO page programs that can scale without collapsing into thin, duplicate, or… | Security Reviewed | — | — |
 | [Rank Math SEO Plugin for WordPress Search Optimization](skills/rank-math-seo-plugin-wordpress-search-optimization/) | Rank Math SEO is the WordPress SEO plugin from Rank Math SEO, with more than 3 million active installs and current… | Security Reviewed | — | — |
+| [Reach Google Business Profile Optimization](skills/reach-google-business-profile-optimization/) | Audit and fix Google Business Profile gaps through the Reach Google Business Profile MCP (GBP MCP). Use… | Published | — | — |
 | [Schema Markup Generator for SEO](skills/schema-markup-generator-seo/) | Generates JSON-LD structured data using schema-dts TypeScript definitions and Google Rich Results Test API… | Published | — | — |
 | [Schema.org Markup Generator](skills/schema-org-markup-generator-agent/) | Generates structured data markup using Schema.org vocabulary in JSON-LD format. Supports Article, Product, FAQPage,… | Published | — | — |
 | [Schema.org Structured Data Injector](skills/schema-org-structured-data-injector/) | Generates and validates JSON-LD structured data markup for articles, products, FAQs, and HowTo content types… | Published | — | — |

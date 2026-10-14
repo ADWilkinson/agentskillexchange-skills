@@ -1,8 +1,19 @@
 {
   "version": "2.0",
-  "total": 3133,
-  "generated": "2026-10-13",
+  "total": 3134,
+  "generated": "2026-10-14",
   "skills": [
+    {
+      "slug": "reach-google-business-profile-optimization",
+      "name": "Reach Google Business Profile Optimization",
+      "title": "Reach Google Business Profile Optimization",
+      "description": "Audit and fix Google Business Profile gaps through the Reach Google Business Profile MCP (GBP MCP). Use get_recommendations and get_listing to identify local SEO…",
+      "category": "Content Writing & SEO",
+      "framework": "MCP",
+      "verification": "listed",
+      "source_url": "https://github.com/LocusIntelligence-DauAgency/reach-skills",
+      "github_repo": "locusintelligence-dauagency/reach-skills"
+    },
     {
       "slug": "aihot-news",
       "name": "AIHOT News",
