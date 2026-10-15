@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3139 published skills** across **17 categories** · 2,609 security reviewed · Updated 2026-10-15 07:26 UTC
+> **3141 published skills** across **17 categories** · 2,609 security reviewed · Updated 2026-10-15 13:26 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -8,7 +8,7 @@
 
 ## Skills by Category
 
-### 🛠️ Developer Tools (523 skills)
+### 🛠️ Developer Tools (524 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=downloads)
 
@@ -57,6 +57,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [Build navigable codebase knowledge graphs with Understand Anything](skills/build-navigable-codebase-knowledge-graphs-with-understand-anything/) | Turn a repository or wiki into an interactive knowledge graph that agents and humans can search, explore, and query… | Security Reviewed | 61.1k | — |
 | [Nuxt — Vue.js Meta-Framework for SSR and Static Sites](skills/nuxt-vue-meta-framework-ssr/) | Nuxt is a Vue.js meta-framework providing server-side rendering, static site generation, file-based routing,… | Published | 60k | 1.6M/wk |
 | [Run multi-harness coding-agent workflows with Oh My OpenAgent](skills/run-multi-harness-coding-agent-workflows-with-oh-my-openagent/) | Install and operate Oh My OpenAgent as a reusable coding-agent harness for long-running, multi-model development… | Security Reviewed | 58.9k | 56.8k/wk |
+| [Keep agent retrieval current as documents change with Serviette](skills/keep-agent-retrieval-current-as-documents-change-with-serviette/) | Configure a watched document corpus, serve source-backed retrieval to agents, and verify that additions, edits, and… | Security Reviewed | 58.8k | — |
 | [Run supervised agentic terminal sessions with Warp](skills/run-supervised-agentic-terminal-sessions-with-warp/) | Use Warp as a supervised terminal workspace for running Warp Agent or external CLI agents such as Codex, Claude… | Security Reviewed | 58.5k | — |
 | [mkcert Zero-Config Local Development TLS Certificate Generator](skills/mkcert-local-dev-tls-certificate-generator/) | mkcert is a zero-configuration CLI tool by Filippo Valsorda that creates locally-trusted development certificates.… | Security Reviewed | 58.4k | — |
 | [Astro Content-Driven Web Framework](skills/astro-content-driven-web-framework/) | Astro is a modern web framework for building content-driven websites. It ships zero JavaScript by default, supports… | Security Reviewed | 58k | 2M/wk |
@@ -1921,7 +1922,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Inte
 | [Zapier Webhook Integration Builder](skills/zapier-webhook-integration-builder/) | Creates and manages Zapier integrations using the Zapier Platform CLI and REST Hooks API. Builds custom triggers,… | Security Reviewed | — | — |
 
 
-### 📋 Runbooks & Diagnostics (178 skills)
+### 📋 Runbooks & Diagnostics (179 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Runbooks%20%26%20Diagnostics) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Runbooks%20%26%20Diagnostics&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Runbooks%20%26%20Diagnostics&sort=downloads)
 
@@ -2071,6 +2072,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Runb
 | [Orchestrate database backup, restore, retention, and failure-notification runbooks through Databasement](skills/orchestrate-database-backup-restore-retention-and-failure-notification-runbooks-through-databasement/) | Use Databasement when an MCP-compatible agent needs to schedule database backups, supervise restore jobs, enforce… | Security Reviewed | 315 | — |
 | [Benchmark IT automation agents on realistic SRE, CISO, and FinOps scenarios with ITBench](skills/benchmark-it-automation-agents-on-realistic-sre-ciso-and-finops-scenarios-with-itbench/) | Run realistic enterprise-style IT scenarios before trusting an automation agent in production operations. | Security Reviewed | 308 | — |
 | [Benchmark agent memory and RAG systems with MemoryBench](skills/benchmark-agent-memory-and-rag-systems-with-memorybench/) | Use MemoryBench to run repeatable conversational memory and RAG benchmarks across providers, datasets, judge models,… | Published | 293 | — |
+| [Audit Codex session duplicates and retry chains with AgentMeasure](skills/audit-codex-session-duplicates-and-retry-chains-with-agentmeasure/) | Inspect supported Codex rollout logs locally for duplicate records, retry amplification, and repeated tool failures,… | Security Reviewed | 218 | — |
 | [Review SQL Server execution plans through an MCP-compatible analysis workflow with Performance Studio](skills/review-sql-server-execution-plans-through-an-mcp-compatible-analysis-workflow-with-performance-studio/) | Use Performance Studio when an MCP-compatible agent needs to parse SQL Server .sqlplan files, surface performance… | Security Reviewed | 175 | — |
 | [Datadog Synthetics Failure Triage Skill](skills/datadog-synthetics-failure-triage-skill/) | Investigates broken checks with the Datadog Synthetics API, Monitors API, and Logs Search API to connect failed… | Security Reviewed | 158 | — |
 | [Debug live Chromium sessions with browser-debugger-cli](skills/debug-live-chromium-sessions-with-browser-debugger-cli/) | Pull DOM, console, network, and CDP telemetry from a live Chromium session when an agent needs to debug a failing… | Security Reviewed | 124 | 582/wk |

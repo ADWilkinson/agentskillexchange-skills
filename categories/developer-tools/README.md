@@ -83,6 +83,7 @@ CLI helpers, dev environment setup, productivity utilities, and developer workfl
 | [Build navigable codebase knowledge graphs with Understand Anything](../../skills/build-navigable-codebase-knowledge-graphs-with-understand-anything/) | 61.1k | — |
 | [Nuxt — Vue.js Meta-Framework for SSR and Static Sites](../../skills/nuxt-vue-meta-framework-ssr/) | 60k | 1.6M/wk |
 | [Run multi-harness coding-agent workflows with Oh My OpenAgent](../../skills/run-multi-harness-coding-agent-workflows-with-oh-my-openagent/) | 58.9k | 56.8k/wk |
+| [Keep agent retrieval current as documents change with Serviette](../../skills/keep-agent-retrieval-current-as-documents-change-with-serviette/) | 58.8k | — |
 | [Run supervised agentic terminal sessions with Warp](../../skills/run-supervised-agentic-terminal-sessions-with-warp/) | 58.5k | — |
 | [mkcert Zero-Config Local Development TLS Certificate Generator](../../skills/mkcert-local-dev-tls-certificate-generator/) | 58.4k | — |
 | [Astro Content-Driven Web Framework](../../skills/astro-content-driven-web-framework/) | 58k | 2M/wk |

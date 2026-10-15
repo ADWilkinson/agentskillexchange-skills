@@ -2,8 +2,30 @@
   "schema": "openclaw-skills/1.0",
   "source": "https://agentskillexchange.com",
   "generated": "2026-10-15",
-  "total": 3139,
+  "total": 3141,
   "skills": [
+    {
+      "slug": "audit-codex-session-duplicates-and-retry-chains-with-agentmeasure",
+      "name": "Audit Codex session duplicates and retry chains with AgentMeasure",
+      "title": "Audit Codex session duplicates and retry chains with AgentMeasure",
+      "description": "Inspect supported Codex rollout logs locally for duplicate records, retry amplification, and repeated tool failures, preserving unknown evidence and comparing before-and-after snapshots.",
+      "category": "Runbooks & Diagnostics",
+      "framework": "Codex",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/roy-tong/AgentMeasure",
+      "github_repo": "roy-tong/AgentMeasure"
+    },
+    {
+      "slug": "keep-agent-retrieval-current-as-documents-change-with-serviette",
+      "name": "Keep agent retrieval current as documents change with Serviette",
+      "title": "Keep agent retrieval current as documents change with Serviette",
+      "description": "Configure a watched document corpus, serve source-backed retrieval to agents, and verify that additions, edits, and deletions reach the index without manual re-ingestion.",
+      "category": "Developer Tools",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/pathwaycom/serviette",
+      "github_repo": "pathwaycom/serviette"
+    },
     {
       "slug": "looot-business-data-lookups-over-mcp",
       "name": "looot Business Data Lookups Over MCP",

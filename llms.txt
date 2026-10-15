@@ -1,7 +1,23 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-15
-# Total: 3139 skills
+# Total: 3141 skills
+
+## Audit Codex session duplicates and retry chains with AgentMeasure
+slug: audit-codex-session-duplicates-and-retry-chains-with-agentmeasure
+category: Runbooks & Diagnostics
+framework: Codex
+verification: Security Reviewed
+description: Inspect supported Codex rollout logs locally for duplicate records, retry amplification, and repeated tool failures, preserving unknown evidence and comparing before-and-after snapshots.
+url: https://agentskillexchange.com/skills/audit-codex-session-duplicates-and-retry-chains-with-agentmeasure/
+
+## Keep agent retrieval current as documents change with Serviette
+slug: keep-agent-retrieval-current-as-documents-change-with-serviette
+category: Developer Tools
+framework: Multi-Framework
+verification: Security Reviewed
+description: Configure a watched document corpus, serve source-backed retrieval to agents, and verify that additions, edits, and deletions reach the index without manual re-ingestion.
+url: https://agentskillexchange.com/skills/keep-agent-retrieval-current-as-documents-change-with-serviette/
 
 ## looot Business Data Lookups Over MCP
 slug: looot-business-data-lookups-over-mcp
