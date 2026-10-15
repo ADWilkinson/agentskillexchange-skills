@@ -1,7 +1,23 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-15
-# Total: 3141 skills
+# Total: 3143 skills
+
+## Build editable transcript and subtitle timelines with BaoCut
+slug: build-editable-transcript-and-subtitle-timelines-with-baocut
+category: Media & Transcription
+framework: Multi-Framework
+verification: Security Reviewed
+description: Transcribe supplied media, polish timed text, add optional translated subtitles, and export deliverables while retaining a resumable, editable video project.
+url: https://agentskillexchange.com/skills/build-editable-transcript-and-subtitle-timelines-with-baocut/
+
+## Audit coding-agent instruction drift and verifier health with Waza
+slug: audit-coding-agent-instruction-drift-and-verifier-health-with-waza
+category: Runbooks & Diagnostics
+framework: Multi-Framework
+verification: Security Reviewed
+description: Run a bounded, report-only audit of coding-agent settings, instruction reachability, hooks, MCP wiring, and verification evidence with actionable findings.
+url: https://agentskillexchange.com/skills/audit-coding-agent-instruction-drift-and-verifier-health-with-waza/
 
 ## Audit Codex session duplicates and retry chains with AgentMeasure
 slug: audit-codex-session-duplicates-and-retry-chains-with-agentmeasure

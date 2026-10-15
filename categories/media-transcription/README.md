@@ -117,6 +117,7 @@ Audio/video processing, speech-to-text, media conversion, and transcription.
 | [Liquidsoap Audio and Video Streaming Language](../../skills/liquidsoap-audio-video-streaming-language/) | 1.6k | — |
 | [Normalize loudness across podcast, lesson, or video batches before publishing](../../skills/normalize-loudness-across-podcast-lesson-or-video-batches-before-publishing/) | 1.5k | — |
 | [Capture live transcripts and searchable meeting memory for agents with Minutes](../../skills/capture-live-transcripts-and-searchable-meeting-memory-for-agents-with-minutes/) | 1.1k | 3.2k/wk |
+| [Build editable transcript and subtitle timelines with BaoCut](../../skills/build-editable-transcript-and-subtitle-timelines-with-baocut/) | 1k | — |
 | [Capture polished terminal screenshots for docs and changelogs with termshot](../../skills/capture-polished-terminal-screenshots-for-docs-and-changelogs-with-termshot/) | 751 | — |
 | [Analyze videos with frame extraction and audio context in Claude Code](../../skills/analyze-videos-with-frame-extraction-and-audio-context-in-claude-code/) | 698 | 802/wk |
 | [Deploy conversational voice agents with Bolna](../../skills/deploy-conversational-voice-agents-with-bolna/) | 666 | — |

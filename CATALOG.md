@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3141 published skills** across **17 categories** · 2,611 security reviewed · Updated 2026-10-15 13:26 UTC
+> **3143 published skills** across **17 categories** · 2,611 security reviewed · Updated 2026-10-15 19:26 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -1922,7 +1922,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Inte
 | [Zapier Webhook Integration Builder](skills/zapier-webhook-integration-builder/) | Creates and manages Zapier integrations using the Zapier Platform CLI and REST Hooks API. Builds custom triggers,… | Security Reviewed | — | — |
 
 
-### 📋 Runbooks & Diagnostics (179 skills)
+### 📋 Runbooks & Diagnostics (180 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Runbooks%20%26%20Diagnostics) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Runbooks%20%26%20Diagnostics&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Runbooks%20%26%20Diagnostics&sort=downloads)
 
@@ -2016,6 +2016,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Runb
 | [Load-test an HTTP endpoint with a fast reproducible CLI probe using oha](skills/load-test-an-http-endpoint-with-a-fast-reproducible-cli-probe-using-oha/) | Run a quick concurrent HTTP benchmark against a URL before deeper performance work or regression triage. | Security Reviewed | 10.2k | — |
 | [Triage production log spikes and incidents from the terminal with lnav](skills/triage-production-log-spikes-and-incidents-from-the-terminal-with-lnav/) | Open raw logs, jump to error clusters, query structured fields, and summarize incident clues without shipping data… | Security Reviewed | 10.2k | — |
 | [Analyze Kubernetes cluster issues through MCP with K8sGPT](skills/analyze-kubernetes-cluster-issues-through-mcp-with-k8sgpt/) | Run K8sGPT as an MCP server so an agent can scan a Kubernetes cluster, explain unhealthy resources, and return… | Security Reviewed | 7.7k | — |
+| [Audit coding-agent instruction drift and verifier health with Waza](skills/audit-coding-agent-instruction-drift-and-verifier-health-with-waza/) | Run a bounded, report-only audit of coding-agent settings, instruction reachability, hooks, MCP wiring, and… | Security Reviewed | 7.3k | — |
 | [Swap a local service into a live Kubernetes environment to debug real cluster traffic before rollout with Telepresence](skills/swap-a-local-service-into-a-live-kubernetes-environment-to-debug-real-cluster-traffic-before-rollout-with-telepresence/) | Intercept a Kubernetes service and route live cluster traffic into a local process so debugging happens against real… | Security Reviewed | 7.2k | — |
 | [Trace unstable network paths and packet loss with Trippy before escalating an outage](skills/trace-unstable-network-paths-and-packet-loss-with-trippy-before-escalating-an-outage/) | Measure route hops, latency, jitter, and packet loss to isolate where a network path degrades during incidents. | Security Reviewed | 6.8k | — |
 | [Schedule and retain cross-database backups from one self-hosted control plane with Databasus](skills/schedule-and-retain-cross-database-backups-from-one-self-hosted-control-plane-with-databasus/) | Run scheduled backups with retention rules and storage targets across PostgreSQL, MySQL, MariaDB, and MongoDB from… | Security Reviewed | 6.6k | — |
@@ -2960,7 +2961,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Imag
 | [Writingmate MCP Video and Image Generation](skills/writingmate-mcp/) | Connects Claude Code, Codex, Cursor, and other MCP hosts to Writingmate for model discovery, text comparison, image… | Published | — | — |
 
 
-### 🎙️ Media & Transcription (109 skills)
+### 🎙️ Media & Transcription (110 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Media%20%26%20Transcription) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Media%20%26%20Transcription&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Media%20%26%20Transcription&sort=downloads)
 
@@ -3043,6 +3044,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Medi
 | [Liquidsoap Audio and Video Streaming Language](skills/liquidsoap-audio-video-streaming-language/) | Build audio and video streaming pipelines with Liquidsoap, a statically typed scripting language purpose-built for… | Security Reviewed | 1.6k | — |
 | [Normalize loudness across podcast, lesson, or video batches before publishing](skills/normalize-loudness-across-podcast-lesson-or-video-batches-before-publishing/) | Uses ffmpeg-normalize to batch-normalize audio levels so an agent can hand off consistent output without opening a… | Security Reviewed | 1.5k | — |
 | [Capture live transcripts and searchable meeting memory for agents with Minutes](skills/capture-live-transcripts-and-searchable-meeting-memory-for-agents-with-minutes/) | Stream meeting transcripts into searchable conversation memory so agents can read live or post-meeting context… | Security Reviewed | 1.1k | 3.2k/wk |
+| [Build editable transcript and subtitle timelines with BaoCut](skills/build-editable-transcript-and-subtitle-timelines-with-baocut/) | Transcribe supplied media, polish timed text, add optional translated subtitles, and export deliverables while… | Security Reviewed | 1k | — |
 | [Capture polished terminal screenshots for docs and changelogs with termshot](skills/capture-polished-terminal-screenshots-for-docs-and-changelogs-with-termshot/) | Render clean terminal screenshots with stable framing before publishing documentation, release notes, or runbooks. | Security Reviewed | 751 | — |
 | [Analyze videos with frame extraction and audio context in Claude Code](skills/analyze-videos-with-frame-extraction-and-audio-context-in-claude-code/) | Give Claude Code a video perception layer that extracts frames, transcribes audio, and lets Claude answer questions… | Security Reviewed | 698 | 802/wk |
 | [Deploy conversational voice agents with Bolna](skills/deploy-conversational-voice-agents-with-bolna/) | Build and run voice-first conversational agents by configuring telephony, ASR, LLM, and TTS providers behind a… | Security Reviewed | 666 | — |

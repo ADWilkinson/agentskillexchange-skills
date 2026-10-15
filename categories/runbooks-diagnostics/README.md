@@ -128,6 +128,7 @@ Incident response, troubleshooting guides, system diagnostics, and operational r
 | [Load-test an HTTP endpoint with a fast reproducible CLI probe using oha](../../skills/load-test-an-http-endpoint-with-a-fast-reproducible-cli-probe-using-oha/) | 10.2k | — |
 | [Triage production log spikes and incidents from the terminal with lnav](../../skills/triage-production-log-spikes-and-incidents-from-the-terminal-with-lnav/) | 10.2k | — |
 | [Analyze Kubernetes cluster issues through MCP with K8sGPT](../../skills/analyze-kubernetes-cluster-issues-through-mcp-with-k8sgpt/) | 7.7k | — |
+| [Audit coding-agent instruction drift and verifier health with Waza](../../skills/audit-coding-agent-instruction-drift-and-verifier-health-with-waza/) | 7.3k | — |
 | [Swap a local service into a live Kubernetes environment to debug real cluster traffic before rollout with Telepresence](../../skills/swap-a-local-service-into-a-live-kubernetes-environment-to-debug-real-cluster-traffic-before-rollout-with-telepresence/) | 7.2k | — |
 | [Trace unstable network paths and packet loss with Trippy before escalating an outage](../../skills/trace-unstable-network-paths-and-packet-loss-with-trippy-before-escalating-an-outage/) | 6.8k | — |
 | [Schedule and retain cross-database backups from one self-hosted control plane with Databasus](../../skills/schedule-and-retain-cross-database-backups-from-one-self-hosted-control-plane-with-databasus/) | 6.6k | — |

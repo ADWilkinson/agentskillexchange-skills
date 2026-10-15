@@ -2,8 +2,30 @@
   "schema": "openclaw-skills/1.0",
   "source": "https://agentskillexchange.com",
   "generated": "2026-10-15",
-  "total": 3141,
+  "total": 3143,
   "skills": [
+    {
+      "slug": "build-editable-transcript-and-subtitle-timelines-with-baocut",
+      "name": "Build editable transcript and subtitle timelines with BaoCut",
+      "title": "Build editable transcript and subtitle timelines with BaoCut",
+      "description": "Transcribe supplied media, polish timed text, add optional translated subtitles, and export deliverables while retaining a resumable, editable video project.",
+      "category": "Media & Transcription",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/JimLiu/baocut",
+      "github_repo": "JimLiu/baocut"
+    },
+    {
+      "slug": "audit-coding-agent-instruction-drift-and-verifier-health-with-waza",
+      "name": "Audit coding-agent instruction drift and verifier health with Waza",
+      "title": "Audit coding-agent instruction drift and verifier health with Waza",
+      "description": "Run a bounded, report-only audit of coding-agent settings, instruction reachability, hooks, MCP wiring, and verification evidence with actionable findings.",
+      "category": "Runbooks & Diagnostics",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/tw93/Waza",
+      "github_repo": "tw93/Waza"
+    },
     {
       "slug": "audit-codex-session-duplicates-and-retry-chains-with-agentmeasure",
       "name": "Audit Codex session duplicates and retry chains with AgentMeasure",
