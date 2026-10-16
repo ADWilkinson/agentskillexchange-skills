@@ -2,12 +2,14 @@
 name: "Reach Google Business Profile Optimization"
 slug: "reach-google-business-profile-optimization"
 description: "Audit and fix Google Business Profile gaps through the Reach Google Business Profile MCP (GBP MCP). Use get_recommendations and get_listing to identify local SEO profile issues, preview each update_listing change, request explicit owner approval, and read back the result."
+github_stars: 0
 verification: "listed"
 source: "https://github.com/LocusIntelligence-DauAgency/reach-skills"
 category: "Content Writing & SEO"
 framework: "MCP"
 tool_ecosystem:
   github_repo: "locusintelligence-dauagency/reach-skills"
+  github_stars: 0
 ---
 
 # Reach Google Business Profile Optimization

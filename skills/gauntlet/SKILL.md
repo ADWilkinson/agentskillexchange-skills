@@ -2,12 +2,14 @@
 name: "Gauntlet"
 slug: "gauntlet"
 description: "Evidence-driven adversarial review and root-cause repair of code, designs, APIs, infrastructure, tests, and agent workflows. Use for deep reviews, red-team reviews, edge-case audits, production-readiness checks, or requests to find and fix defects iteratively. Supports sub-agents or a tracked solo workflow. Not for ordinary implementation or cosmetic edits unless explicitly invoked."
+github_stars: 0
 verification: "listed"
 source: "https://github.com/aakashH242/gauntlet"
 category: "Code Quality & Review"
 framework: "Multi-Framework"
 tool_ecosystem:
   github_repo: "aakashh242/gauntlet"
+  github_stars: 0
 ---
 
 # Gauntlet

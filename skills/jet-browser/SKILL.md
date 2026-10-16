@@ -2,12 +2,14 @@
 name: "Jet Browser"
 slug: "jet-browser"
 description: "Install, verify, integrate, or troubleshoot the Jet Browser WPE WebKit runtime for isolated agent browser sessions with ordered JSONL automation, native input, screenshots, and reproducible container checks."
+github_stars: 2
 verification: "listed"
 source: "https://github.com/masakaai/jet-browser"
 category: "Browser Automation"
 framework: "Codex"
 tool_ecosystem:
   github_repo: "masakaai/jet-browser"
+  github_stars: 2
 ---
 
 # Jet Browser
