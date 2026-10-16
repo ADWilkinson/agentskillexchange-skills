@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3146 published skills** across **17 categories** · 2,615 security reviewed · Updated 2026-10-16 07:26 UTC
+> **3147 published skills** across **17 categories** · 2,615 security reviewed · Updated 2026-10-16 13:26 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -8,7 +8,7 @@
 
 ## Skills by Category
 
-### 🛠️ Developer Tools (526 skills)
+### 🛠️ Developer Tools (527 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=downloads)
 
@@ -88,6 +88,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [Fabric AI Prompt Pattern Framework](skills/fabric-ai-prompt-pattern-framework/) | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system of crowdsourced… | Security Reviewed | 40.3k | — |
 | [tRPC End-to-End Typesafe API Framework](skills/trpc-end-to-end-typesafe-api-framework/) | tRPC enables developers to build fully typesafe APIs in TypeScript without schemas, code generation, or runtime… | Security Reviewed | 39.9k | — |
 | [esbuild Ultra-Fast JavaScript Bundler](skills/esbuild-ultra-fast-javascript-bundler/) | esbuild is an extremely fast JavaScript and TypeScript bundler written in Go that delivers 10-100x faster build… | Security Reviewed | 39.8k | 164M/wk |
+| [Configure project-local behavior rules from operator corrections with Hookify](skills/configure-project-local-behavior-rules-with-hookify/) | Turn repeated Claude Code corrections into operator-confirmed local rules, with specific event matchers, warning or… | Security Reviewed | 39.8k | — |
 | [Appsmith Open Source Internal Tools and Admin Panel Builder](skills/appsmith-open-source-internal-tools-admin-panel-builder/) | Appsmith is an open-source platform for building internal tools, dashboards, and admin panels on top of databases… | Security Reviewed | 39.6k | — |
 | [Orchestrate local-first agent memory and workflows with OpenHuman](skills/orchestrate-local-first-agent-memory-and-workflows-with-openhuman/) | Set up OpenHuman as a local-first personal agent harness that syncs context, builds durable memory, and coordinates… | Security Reviewed | 39.3k | — |
 | [Agno Multi-Modal Agent Runtime Platform](skills/agno-multi-modal-agent-runtime-platform/) | Agno is a high-performance Python framework for building, running, and managing agentic software at scale. It… | Security Reviewed | 39k | — |

@@ -114,6 +114,7 @@ CLI helpers, dev environment setup, productivity utilities, and developer workfl
 | [Fabric AI Prompt Pattern Framework](../../skills/fabric-ai-prompt-pattern-framework/) | 40.3k | — |
 | [tRPC End-to-End Typesafe API Framework](../../skills/trpc-end-to-end-typesafe-api-framework/) | 39.9k | — |
 | [esbuild Ultra-Fast JavaScript Bundler](../../skills/esbuild-ultra-fast-javascript-bundler/) | 39.8k | 164M/wk |
+| [Configure project-local behavior rules from operator corrections with Hookify](../../skills/configure-project-local-behavior-rules-with-hookify/) | 39.8k | — |
 | [Appsmith Open Source Internal Tools and Admin Panel Builder](../../skills/appsmith-open-source-internal-tools-admin-panel-builder/) | 39.6k | — |
 | [Orchestrate local-first agent memory and workflows with OpenHuman](../../skills/orchestrate-local-first-agent-memory-and-workflows-with-openhuman/) | 39.3k | — |
 | [Agno Multi-Modal Agent Runtime Platform](../../skills/agno-multi-modal-agent-runtime-platform/) | 39k | — |

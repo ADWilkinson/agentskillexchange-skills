@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-16
-# Total: 3146 skills
+# Total: 3147 skills
+
+## Configure project-local behavior rules from operator corrections with Hookify
+slug: configure-project-local-behavior-rules-with-hookify
+category: Developer Tools
+framework: Claude Code
+verification: Security Reviewed
+description: Turn repeated Claude Code corrections into operator-confirmed local rules, with specific event matchers, warning or blocking actions, and reviewable Markdown configuration.
+url: https://agentskillexchange.com/skills/configure-project-local-behavior-rules-with-hookify/
 
 ## Review and validate project assumptions with Common Ground
 slug: review-and-validate-project-assumptions-with-common-ground
