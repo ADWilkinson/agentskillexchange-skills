@@ -4,7 +4,7 @@
 
 ### Curated and trusted AI agent skills
 
-[![Published](https://img.shields.io/badge/published-3%2C145-6366f1?style=for-the-badge)](CATALOG.md)
+[![Published](https://img.shields.io/badge/published-3%2C146-6366f1?style=for-the-badge)](CATALOG.md)
 [![Industry%20Collections](https://img.shields.io/badge/industry--collections-15-14b8a6?style=for-the-badge)](industries/README.md)
 [![Categories](https://img.shields.io/badge/categories-17-0ea5e9?style=for-the-badge)](categories/README.md)
 [![Security%20Reviewed](https://img.shields.io/badge/security--reviewed-2%2C614-10b981?style=for-the-badge)](verification/)
@@ -12,7 +12,7 @@
 
 **[Catalog](CATALOG.md) · [Live Browse](https://agentskillexchange.com/browse-skills/) · [Categories](categories/README.md) · [Industry Collections](industries/README.md) · [Top Starred](TOP-STARS.md) · [Top Downloaded](TOP-DOWNLOADS.md) · [Submit a Skill](#submit-a-skill)**
 
-*3,145 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
+*3,146 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
 
 *Star this repo to keep the agent skill catalog handy and follow new additions.*
 
@@ -87,6 +87,7 @@ See the full overlay index in [industries/README.md](industries/README.md).
 
 | Skill | What it helps with | Stars | Category |
 |---|---|---:|---|
+| [Review and validate project assumptions with Common Ground](skills/review-and-validate-project-assumptions-with-common-ground/) | Run Common Ground in Claude Code to surface project assumptions, confirm their evidence and confidence with the operator... | 11.9k | Developer Tools |
 | [Run Instagram caption and carousel drafting with Instagram Skills](skills/plan-and-draft-instagram-captions-and-carousels-with-instagram-skills/) | Transform campaign notes into Instagram captions and slide-by-slide carousel drafts, then review factual claims, voice, media order, and... | 455 | Content Writing & SEO |
 | [Delegate and resume repository tasks through Pi-Bolt MCP](skills/delegate-and-resume-repository-tasks-through-pi-bolt-mcp/) | Delegate a scoped repository task to Pi-Bolt over MCP, inspect structured results, and resume the same Pi session... | 343 | Developer Tools |
 | [Build editable transcript and subtitle timelines with BaoCut](skills/build-editable-transcript-and-subtitle-timelines-with-baocut/) | Transcribe supplied media, polish timed text, add optional translated subtitles, and export deliverables while retaining a resumable, editable... | 1.0k | Media & Transcription |
@@ -96,7 +97,6 @@ See the full overlay index in [industries/README.md](industries/README.md).
 | [looot Business Data Lookups Over MCP](skills/looot-business-data-lookups-over-mcp/) | Gives an agent one MCP connection to about 2,500 data endpoints from 90+ providers: find a work email... | - | Data Extraction & Transformation |
 | [Hourglyph Daily Puzzle](skills/hourglyph-daily/) | Play Hourglyph Daily, a free daily logic puzzle by Clock Hill Games, through its documented HTTP API: register... | - | Integrations & Connectors |
 | [Drive repository changes with Claurst terminal coding agent](skills/drive-repository-changes-with-claurst-terminal-coding-agent/) | Use Claurst as a local Rust terminal coding agent for repo-aware planning, edits, command runs, tests, permissions, and... | 10.3k | Developer Tools |
-| [Run GitHub Issues as a Spec, Build, Review and Ship Pipeline with workkit](skills/run-github-issues-as-a-spec-build-review-ship-pipeline-with-workkit/) | Use workkit when Claude Code should work a repository's GitHub Issues as a labeled pipeline: capture, triage, spec... | - | Templates & Workflows |
 
 ---
 
@@ -130,9 +130,9 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 | [Schedule Node Agent Jobs with node-cron](skills/schedule-node-agent-jobs-with-node-cron/) | Use node-cron to add recurring background jobs to Node.js agent services with overlap prevention, distributed coordination, background task... | 3.3k | Templates & Workflows |
 | [Run a Docling API server for agent document conversion](skills/run-a-docling-api-server-for-agent-document-conversion/) | Deploy Docling API so agents can convert PDFs, Office files, images, HTML, CSV, and other documents into Markdown... | 1.7k | Data Extraction & Transformation |
 | [Run agentic quality engineering checks with Agentic QE](skills/run-agentic-quality-engineering-checks-with-agentic-qe/) | Configure Agentic QE in a repository so a coding agent can generate tests, inspect coverage gaps, investigate flaky... | 495 | Code Quality & Review |
-| [Audit and fix website QA issues with Squirrelscan](skills/audit-and-fix-website-qa-issues-with-squirrelscan/) | Run Squirrelscan from a coding agent to audit SEO, performance, security, accessibility, and agent-experience issues, then feed exact... | 272 | Security & Verification |
 | [Build TypeScript spreadsheet import and export workflows with hucre](skills/build-typescript-spreadsheet-import-and-export-workflows-with-hucre/) | Use hucre when a coding agent needs to add zero-dependency XLSX, CSV, ODS, JSON, NDJSON, or XML spreadsheet... | 2.2k | Data Extraction & Transformation |
 | [Compile agent-ready documentation bundles with docmd](skills/compile-agent-ready-documentation-bundles-with-docmd/) | Use docmd when a project needs one Markdown documentation source to produce a site, search index, llms.txt, MCP... | 2.5k | Library & API Reference |
+| [Audit and fix website QA issues with Squirrelscan](skills/audit-and-fix-website-qa-issues-with-squirrelscan/) | Run Squirrelscan from a coding agent to audit SEO, performance, security, accessibility, and agent-experience issues, then feed exact... | 272 | Security & Verification |
 
 ---
 
@@ -140,7 +140,7 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 
 | | Category | Skills | What's inside |
 |---|---|---:|---|
-| 🛠️ | [**Developer Tools**](categories/developer-tools/) | 525 | CLI tools, scaffolders, dev environment setup |
+| 🛠️ | [**Developer Tools**](categories/developer-tools/) | 526 | CLI tools, scaffolders, dev environment setup |
 | 📄 | [**Templates & Workflows**](categories/templates-workflows/) | 266 | Scaffolders, boilerplate generators, workflow templates |
 | 🔒 | [**Security & Verification**](categories/security-verification/) | 256 | Vulnerability scanning, auth setup, compliance |
 | 🔄 | [**Data Extraction & Transformation**](categories/data-extraction-transformation/) | 230 | ETL pipelines, parsing, format conversion |
@@ -219,7 +219,7 @@ Every skill is backed by a real tool, repo, or package. New skills require real 
 
 | Tier | Count | Meaning |
 |------|------:|---|
-| 📋 **Published** | 3,145 | In the catalog — every skill is backed by a real tool, repo, or package |
+| 📋 **Published** | 3,146 | In the catalog — every skill is backed by a real tool, repo, or package |
 | 🛡️ **Security Reviewed** | 2,614 | Scanned for malicious patterns, prompt injection, and unsafe instructions |
 
 More: [verification/](verification/)

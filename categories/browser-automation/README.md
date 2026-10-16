@@ -161,11 +161,11 @@ Web scraping, UI testing, headless browser control, and browser-based automation
 | [Debug Firefox-only browser issues with DevTools MCP before shipping web changes](../../skills/debug-firefox-only-browser-issues-with-devtools-mcp-before-shipping-web-changes/) | 107 | 3k/wk |
 | [Benchmark browser agents on a fixed stealth and task suite with browser-use benchmark](../../skills/benchmark-browser-agents-on-a-fixed-stealth-and-task-suite-with-browser-use-benchmark/) | 71 | — |
 | [Browserbase Session Automation API and SDK](../../skills/browserbase-session-automation-api-and-sdk/) | 61 | 818.3k/wk |
+| [Jet Browser](../../skills/jet-browser/) | 2 | — |
 | [Playwright Extra Browser Automation Plugins](../../skills/playwright-extra-browser-automation-plugins/) | — | 835.6k/wk |
 | [playwright-extra Plugin Framework for Playwright](../../skills/playwright-extra-plugin-framework-for-playwright/) | — | 623.1k/wk |
 | [Extract data and complete workflows in your real logged-in browser](../../skills/extract-data-and-complete-workflows-in-your-real-logged-in-browser/) | — | 2.9k/wk |
 | [Drive Chrome with stable accessibility refs for repeatable browser automation](../../skills/drive-chrome-with-stable-accessibility-refs-for-repeatable-browser-automation/) | — | 1.1k/wk |
-| [Jet Browser](../../skills/jet-browser/) | — | — |
 | [Verify local web apps with Playwright scripts and managed dev servers](../../skills/verify-local-web-apps-with-playwright-scripts-and-managed-dev-servers/) | — | — |
 
 ---

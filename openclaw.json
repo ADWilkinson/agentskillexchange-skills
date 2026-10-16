@@ -2,8 +2,19 @@
   "schema": "openclaw-skills/1.0",
   "source": "https://agentskillexchange.com",
   "generated": "2026-10-16",
-  "total": 3145,
+  "total": 3146,
   "skills": [
+    {
+      "slug": "review-and-validate-project-assumptions-with-common-ground",
+      "name": "Review and validate project assumptions with Common Ground",
+      "title": "Review and validate project assumptions with Common Ground",
+      "description": "Run Common Ground in Claude Code to surface project assumptions, confirm their evidence and confidence with the operator, and save a reviewable Markdown and…",
+      "category": "Developer Tools",
+      "framework": "Claude Code",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/Jeffallan/claude-skills/blob/plugin/commands/common-ground/COMMAND.md",
+      "github_repo": "Jeffallan/claude-skills"
+    },
     {
       "slug": "plan-and-draft-instagram-captions-and-carousels-with-instagram-skills",
       "name": "Run Instagram caption and carousel drafting with Instagram Skills",

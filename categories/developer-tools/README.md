@@ -234,6 +234,7 @@ CLI helpers, dev environment setup, productivity utilities, and developer workfl
 | [Serve local model endpoints for agent tests with OpenLLM](../../skills/serve-local-model-endpoints-for-agent-tests-with-openllm/) | 12.3k | 6/wk |
 | [Run untrusted AI-generated code inside secure E2B sandboxes](../../skills/run-untrusted-ai-generated-code-inside-secure-e2b-sandboxes/) | 12k | — |
 | [Give coding agents runtime context for Encore services](../../skills/give-coding-agents-runtime-context-for-encore-services/) | 11.9k | — |
+| [Review and validate project assumptions with Common Ground](../../skills/review-and-validate-project-assumptions-with-common-ground/) | 11.9k | — |
 | [OpenCode Multi-Model AI Coding Agent CLI](../../skills/opencode-multi-model-ai-coding-agent-cli/) | 11.7k | — |
 | [onefetch Git Repository Information and Statistics CLI](../../skills/onefetch-git-repository-info-statistics-cli/) | 11.7k | — |
 | [git-cliff Customizable Changelog Generator for Git Repositories](../../skills/git-cliff-changelog-generator/) | 11.7k | 70.8k/wk |

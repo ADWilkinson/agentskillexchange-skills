@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3145 published skills** across **17 categories** · 2,614 security reviewed · Updated 2026-10-16 01:26 UTC
+> **3146 published skills** across **17 categories** · 2,614 security reviewed · Updated 2026-10-16 07:26 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -8,7 +8,7 @@
 
 ## Skills by Category
 
-### 🛠️ Developer Tools (525 skills)
+### 🛠️ Developer Tools (526 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=downloads)
 
@@ -208,6 +208,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [Serve local model endpoints for agent tests with OpenLLM](skills/serve-local-model-endpoints-for-agent-tests-with-openllm/) | Launch an OpenAI-compatible OpenLLM server for a chosen open model, point an agent runtime at it, and compare… | Security Reviewed | 12.3k | 6/wk |
 | [Run untrusted AI-generated code inside secure E2B sandboxes](skills/run-untrusted-ai-generated-code-inside-secure-e2b-sandboxes/) | Create disposable E2B cloud sandboxes where agents can execute generated code, install dependencies, collect… | Security Reviewed | 12k | — |
 | [Give coding agents runtime context for Encore services](skills/give-coding-agents-runtime-context-for-encore-services/) | Use Encore's AI integration and built-in MCP server so an agent can inspect service architecture, query local… | Security Reviewed | 11.9k | — |
+| [Review and validate project assumptions with Common Ground](skills/review-and-validate-project-assumptions-with-common-ground/) | Run Common Ground in Claude Code to surface project assumptions, confirm their evidence and confidence with the… | Security Reviewed | 11.9k | — |
 | [OpenCode Multi-Model AI Coding Agent CLI](skills/opencode-multi-model-ai-coding-agent-cli/) | An open-source terminal-native AI coding agent written in Go that supports 75+ LLMs including Claude, GPT, Gemini,… | Security Reviewed | 11.7k | — |
 | [onefetch Git Repository Information and Statistics CLI](skills/onefetch-git-repository-info-statistics-cli/) | onefetch is a Rust CLI tool that displays project information and code statistics for Git repositories directly in… | Published | 11.7k | — |
 | [git-cliff Customizable Changelog Generator for Git Repositories](skills/git-cliff-changelog-generator/) | git-cliff generates changelog files from Git history using conventional commits and regex-powered custom parsers.… | Security Reviewed | 11.7k | 70.8k/wk |
@@ -1058,9 +1059,9 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Secu
 | [Check Agent Counterparty Trust with Agent Guild](skills/agent-guild-trust/) | Checks evidence about an unfamiliar autonomous agent before delegation, verifies signed Agent Guild passports, and… | Published | 1 | — |
 | [Audit OpenClaw host security posture and hardening gaps](skills/audit-openclaw-host-security-posture-and-hardening-gaps/) | This skill uses OpenClaw's healthcheck workflow to inspect the host running the assistant, surface risky exposure,… | Security Reviewed | — | 837.2k/wk |
 | [Emit policy receipts for hard-rule agent skills with Pluribus](skills/emit-policy-receipts-for-hard-rule-agent-skills-with-pluribus/) | Uses the Pluribus skill-policy receipt recipe to make hard agent-skill rules auditable before and after writes. Best… | Published | — | 1.3k/wk |
+| [Darkmoon Pentest MCP](skills/darkmoon-pentest-mcp/) | Start and follow authorized autonomous AI penetration tests from Claude Code, Cursor or Codex through the darkmoon… | Published | — | 48/wk |
 | [Audit and normalize SPDX license headers before releasing or open-sourcing a repository](skills/audit-and-normalize-spdx-license-headers-before-releasing-or-open-sourcing-a-repository/) | Use REUSE when an agent needs file-level licensing clarity instead of guessing from a single top-level LICENSE file.… | Security Reviewed | — | — |
 | [CloudTrail Anomaly Detection Agent](skills/cloudtrail-anomaly-detection-agent/) | Analyzes AWS CloudTrail event logs via the Lookup Events API to detect anomalous IAM activity. Uses statistical… | Security Reviewed | — | — |
-| [Darkmoon Pentest MCP](skills/darkmoon-pentest-mcp/) | Start and follow authorized autonomous AI penetration tests from Claude Code, Cursor or Codex through the darkmoon… | Published | — | — |
 | [DocuSign Contract Auto-Sender with Conditional Logic](skills/docusign-contract-auto-sender/) | Uses the DocuSign eSignature REST API SDK to programmatically create envelope definitions with conditional routing… | Published | — | — |
 | [GPG Encryption and Key Management Agent](skills/gpg-encryption-key-management-agent/) | Manages GPG key lifecycle and file encryption operations using GnuPG CLI and GPGME library. Handles keyserver… | Security Reviewed | — | — |
 | [NPM Audit Deep Scanner](skills/npm-audit-deep-scanner/) | Extends npm audit with deep transitive dependency analysis using the npm Registry API. Generates fix PRs via GitHub… | Security Reviewed | — | — |
@@ -1901,10 +1902,11 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Inte
 | [Hermes Tweet](skills/hermes-tweet/) | Use Hermes Tweet when Hermes Agent needs a native X/Twitter plugin for reading posts, exploring public data, and… | Published | 10 | — |
 | [Mirror and back up OpenClaw workspaces to your own storage with openclaw-workspace-sync](skills/mirror-and-back-up-openclaw-workspaces-to-your-own-storage-with-openclaw-workspace-sync/) | Lets an OpenClaw agent sync its workspace to cloud storage in mailbox, mirror, or bisync mode, and optionally push… | Security Reviewed | 8 | 295/wk |
 | [Mirror OpenClaw workspaces and stream encrypted backups with openclaw-workspace-sync](skills/mirror-openclaw-workspaces-and-stream-encrypted-backups-with-openclaw-workspace-sync/) | Sync an OpenClaw workspace to your own cloud storage or push encrypted agent-system backups with OpenClaw-aware… | Security Reviewed | 8 | 295/wk |
+| [Aident Loadout](skills/aident-loadout/) | Give Claude Code, Codex, Cursor, ChatGPT and other MCP clients 1,000+ apps and 400+ expert-built Skills through one… | Published | 6 | — |
 | [Normalize international phone numbers into E.164 before CRM imports or messaging workflows](skills/normalize-international-phone-numbers-into-e164-before-crm-imports-or-messaging-workflows/) | Use libphonenumber-js when an agent needs to clean messy phone-number input, validate it against country rules, and… | Published | — | 15.6M/wk |
 | [USDCtoFiat Cash-Out](skills/usdctofiat-cashout/) | Add non-custodial Base USDC-to-fiat cash-out with @usdctofiat/offramp cashout({ mode: "fast" \| "best" }). Use when… | Published | — | 650/wk |
+| [Search and Book Hotels and Flights with MAQAMI Travel](skills/maqami-travel-booking/) | Use MAQAMI Travel when an agent should search hotels (3M+) and flights for specific dates, compare rates, read hotel… | Published | — | 428/wk |
 | [DealMachine Sales Intelligence](skills/dealmachine-sales-intelligence/) | Searches and enriches US property, owner, people, and company data through the DealMachine CLI and hosted MCP server… | Published | — | 272/wk |
-| [Aident Loadout](skills/aident-loadout/) | Give Claude Code, Codex, Cursor, ChatGPT and other MCP clients 1,000+ apps and 400+ expert-built Skills through one… | Published | — | — |
 | [AssemblyAI Real-Time Call Intelligence](skills/assemblyai-realtime-call-intelligence/) | Streams audio from Twilio Media Streams over WebSocket to AssemblyAI real-time transcription, extracting… | Security Reviewed | — | — |
 | [Automation Integration Preflight](skills/automation-integration-preflight/) | Assess a public HTTP(S) page before building browser automation, extraction, or an integration. Use this skill to… | Published | — | — |
 | [BeachFinder Swim Spot Finder](skills/beachfinder-swim-spot-finder/) | Finds and compares 184,900 swimming spots worldwide (beaches, lakes, bathing places) with live water temperature,… | Published | — | — |
@@ -1917,7 +1919,6 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Inte
 | [Linear Issue Triage & Sprint Planner](skills/linear-issue-triage-sprint-planner-2/) | Queries the Linear GraphQL API to list open issues by team, priority, and cycle, then applies configurable triage… | Security Reviewed | — | — |
 | [Plaid Financial Data Connector](skills/plaid-financial-data-connector/) | Connects to bank accounts via Plaid Link SDK and retrieves transaction data using the Plaid Transactions API.… | Security Reviewed | — | — |
 | [RouterBase API Integration](skills/routerbase-api-integration/) | Integrate agent applications with RouterBase as an OpenAI-compatible API gateway, including SDK base URL… | Published | — | — |
-| [Search and Book Hotels and Flights with MAQAMI Travel](skills/maqami-travel-booking/) | Use MAQAMI Travel when an agent should search hotels (3M+) and flights for specific dates, compare rates, read hotel… | Published | — | — |
 | [Verify a Nano (XNO) Payment](skills/verify-nano-payment/) | Verify that a Nano (XNO) payment has settled: confirm a send/receive block, read its amount and pay-to account from… | Published | — | — |
 | [Zapier Multi-Step Lead Enrichment Workflow](skills/zapier-lead-enrichment-workflow/) | Builds a Zapier automation using the Zapier NLA API to trigger on new HubSpot form submissions and enrich contact… | Security Reviewed | — | — |
 | [Zapier Webhook Integration Builder](skills/zapier-webhook-integration-builder/) | Creates and manages Zapier integrations using the Zapier Platform CLI and REST Hooks API. Builds custom triggers,… | Security Reviewed | — | — |
@@ -2829,11 +2830,11 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Brow
 | [Debug Firefox-only browser issues with DevTools MCP before shipping web changes](skills/debug-firefox-only-browser-issues-with-devtools-mcp-before-shipping-web-changes/) | Use Firefox DevTools MCP when an agent needs to inspect pages, trace network and console activity, capture… | Security Reviewed | 107 | 3k/wk |
 | [Benchmark browser agents on a fixed stealth and task suite with browser-use benchmark](skills/benchmark-browser-agents-on-a-fixed-stealth-and-task-suite-with-browser-use-benchmark/) | Compare browser-agent reliability on a repeatable task and anti-bot suite before choosing a stack or claiming progress. | Security Reviewed | 71 | — |
 | [Browserbase Session Automation API and SDK](skills/browserbase-session-automation-api-and-sdk/) | Use Browserbase when an agent needs hosted browser sessions, remote automation, session recording, and scalable… | Security Reviewed | 61 | 818.3k/wk |
+| [Jet Browser](skills/jet-browser/) | Install, verify, integrate, or troubleshoot the Jet Browser WPE WebKit runtime for isolated agent browser sessions… | Published | 2 | — |
 | [Playwright Extra Browser Automation Plugins](skills/playwright-extra-browser-automation-plugins/) | Playwright Extra adds a plugin layer on top of Microsoft Playwright so agents can reuse stealth, CAPTCHA handling,… | Security Reviewed | — | 835.6k/wk |
 | [playwright-extra Plugin Framework for Playwright](skills/playwright-extra-plugin-framework-for-playwright/) | An ASE skill built around playwright-extra, the plugin framework that augments Playwright with reusable plugins such… | Published | — | 623.1k/wk |
 | [Extract data and complete workflows in your real logged-in browser](skills/extract-data-and-complete-workflows-in-your-real-logged-in-browser/) | Use bb-browser when an agent needs to inspect pages, pull data, or complete form-driven tasks inside the user's… | Published | — | 2.9k/wk |
 | [Drive Chrome with stable accessibility refs for repeatable browser automation](skills/drive-chrome-with-stable-accessibility-refs-for-repeatable-browser-automation/) | Use PinchTab when an agent needs repeatable browser automation with stable element references, persistent profiles,… | Security Reviewed | — | 1.1k/wk |
-| [Jet Browser](skills/jet-browser/) | Install, verify, integrate, or troubleshoot the Jet Browser WPE WebKit runtime for isolated agent browser sessions… | Published | — | — |
 | [Verify local web apps with Playwright scripts and managed dev servers](skills/verify-local-web-apps-with-playwright-scripts-and-managed-dev-servers/) | Use Anthropic's webapp-testing skill to spin up one or more local servers, wait for them to become reachable, and… | Security Reviewed | — | — |
 
 
