@@ -1,10 +1,10 @@
 # Categories
 
-> **3143 skills** across **17 categories**
+> **3145 skills** across **17 categories**
 
 | | Category | Skills | Description |
 |---|---|:---:|---|
-| 🛠️ | [**Developer Tools**](developer-tools/) | **524** | CLI helpers, dev environment setup, productivity utilities, and devel... |
+| 🛠️ | [**Developer Tools**](developer-tools/) | **525** | CLI helpers, dev environment setup, productivity utilities, and devel... |
 | 📄 | [**Templates & Workflows**](templates-workflows/) | **266** | Project scaffolding, boilerplate generators, workflow templates, and ... |
 | 🔒 | [**Security & Verification**](security-verification/) | **256** | Auth setup, vulnerability scanning, compliance checks, and security a... |
 | 🔄 | [**Data Extraction & Transformation**](data-extraction-transformation/) | **230** | Parsing, ETL pipelines, format conversion, data wrangling, and transf... |
@@ -19,7 +19,7 @@
 | 🌐 | [**Browser Automation**](browser-automation/) | **127** | Web scraping, UI testing, headless browser control, and browser-based... |
 | 🎨 | [**Image & Creative Automation**](image-creative-automation/) | **117** | Image generation, asset processing, design automation, and creative t... |
 | 🎙️ | [**Media & Transcription**](media-transcription/) | **110** | Audio/video processing, speech-to-text, media conversion, and transcr... |
-| ✍️ | [**Content Writing & SEO**](content-writing-seo/) | **97** | Blog posts, SEO optimization, content strategy, and writing assistance. |
+| ✍️ | [**Content Writing & SEO**](content-writing-seo/) | **98** | Blog posts, SEO optimization, content strategy, and writing assistance. |
 | 📰 | [**WordPress & CMS**](wordpress-cms/) | **96** | Theme/plugin development, WP-CLI automation, CMS management, and Word... |
 
 ---

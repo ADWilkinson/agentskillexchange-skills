@@ -4,7 +4,7 @@
 
 ### Curated and trusted AI agent skills
 
-[![Published](https://img.shields.io/badge/published-3%2C143-6366f1?style=for-the-badge)](CATALOG.md)
+[![Published](https://img.shields.io/badge/published-3%2C145-6366f1?style=for-the-badge)](CATALOG.md)
 [![Industry%20Collections](https://img.shields.io/badge/industry--collections-15-14b8a6?style=for-the-badge)](industries/README.md)
 [![Categories](https://img.shields.io/badge/categories-17-0ea5e9?style=for-the-badge)](categories/README.md)
 [![Security%20Reviewed](https://img.shields.io/badge/security--reviewed-2%2C613-10b981?style=for-the-badge)](verification/)
@@ -12,7 +12,7 @@
 
 **[Catalog](CATALOG.md) · [Live Browse](https://agentskillexchange.com/browse-skills/) · [Categories](categories/README.md) · [Industry Collections](industries/README.md) · [Top Starred](TOP-STARS.md) · [Top Downloaded](TOP-DOWNLOADS.md) · [Submit a Skill](#submit-a-skill)**
 
-*3,143 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
+*3,145 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
 
 *Star this repo to keep the agent skill catalog handy and follow new additions.*
 
@@ -51,7 +51,7 @@ npm exec --package=skills@1.5.7 -- skills add agentskillexchange/skills --skill 
 
 ## Skill of the Day
 
-**[Excalidraw Virtual Whiteboard and Diagram SDK](skills/excalidraw-virtual-whiteboard-diagram-sdk/)** — Excalidraw is an open-source virtual whiteboard for creating hand-drawn style diagrams, wireframes, and sketches. It provides an infinite canvas, real-time collaboration, end-to-end encryption, and a React component library…
+**[CSV Schema Validator & Auto-Fixer](skills/csv-schema-validator-auto-fixer/)** — Validates CSV files against JSON Schema definitions using AJV and csv-parse. Automatically detects and repairs type mismatches, missing required columns, and encoding issues with configurable strictness levels.
 
 _Rotates daily across downloaded, starred, recent, verified, and industry-curated skills._
 
@@ -87,6 +87,8 @@ See the full overlay index in [industries/README.md](industries/README.md).
 
 | Skill | What it helps with | Stars | Category |
 |---|---|---:|---|
+| [Run Instagram caption and carousel drafting with Instagram Skills](skills/plan-and-draft-instagram-captions-and-carousels-with-instagram-skills/) | Transform campaign notes into Instagram captions and slide-by-slide carousel drafts, then review factual claims, voice, media order, and... | 455 | Content Writing & SEO |
+| [Delegate and resume repository tasks through Pi-Bolt MCP](skills/delegate-and-resume-repository-tasks-through-pi-bolt-mcp/) | Delegate a scoped repository task to Pi-Bolt over MCP, inspect structured results, and resume the same Pi session... | 343 | Developer Tools |
 | [Build editable transcript and subtitle timelines with BaoCut](skills/build-editable-transcript-and-subtitle-timelines-with-baocut/) | Transcribe supplied media, polish timed text, add optional translated subtitles, and export deliverables while retaining a resumable, editable... | 1.0k | Media & Transcription |
 | [Audit coding-agent instruction drift and verifier health with Waza](skills/audit-coding-agent-instruction-drift-and-verifier-health-with-waza/) | Run a bounded, report-only audit of coding-agent settings, instruction reachability, hooks, MCP wiring, and verification evidence with actionable... | 7.3k | Runbooks & Diagnostics |
 | [Audit Codex session duplicates and retry chains with AgentMeasure](skills/audit-codex-session-duplicates-and-retry-chains-with-agentmeasure/) | Inspect supported Codex rollout logs locally for duplicate records, retry amplification, and repeated tool failures, preserving unknown evidence... | 218 | Runbooks & Diagnostics |
@@ -95,8 +97,6 @@ See the full overlay index in [industries/README.md](industries/README.md).
 | [Hourglyph Daily Puzzle](skills/hourglyph-daily/) | Play Hourglyph Daily, a free daily logic puzzle by Clock Hill Games, through its documented HTTP API: register... | - | Integrations & Connectors |
 | [Drive repository changes with Claurst terminal coding agent](skills/drive-repository-changes-with-claurst-terminal-coding-agent/) | Use Claurst as a local Rust terminal coding agent for repo-aware planning, edits, command runs, tests, permissions, and... | 10.3k | Developer Tools |
 | [Run GitHub Issues as a Spec, Build, Review and Ship Pipeline with workkit](skills/run-github-issues-as-a-spec-build-review-ship-pipeline-with-workkit/) | Use workkit when Claude Code should work a repository's GitHub Issues as a labeled pipeline: capture, triage, spec... | - | Templates & Workflows |
-| [Agent Media UGC Video](skills/agent-media-ugc-video/) | Use Agent Media when an agent needs to create captioned vertical UGC videos, narrated b-roll overlays, reusable characters... | - | Image & Creative Automation |
-| [Reach Google Business Profile Optimization](skills/reach-google-business-profile-optimization/) | Audit and fix Google Business Profile gaps through the Reach Google Business Profile MCP (GBP MCP). Use get_recommendations... | - | Content Writing & SEO |
 
 ---
 
@@ -129,10 +129,10 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 | [Run owned terminal coding-agent workflows with Zero](skills/run-owned-terminal-coding-agent-workflows-with-zero/) | Use Zero to run local, scriptable coding-agent sessions with operator-controlled models, permissions, tools, skills, MCP servers, and durable... | 1.7k | Developer Tools |
 | [Schedule Node Agent Jobs with node-cron](skills/schedule-node-agent-jobs-with-node-cron/) | Use node-cron to add recurring background jobs to Node.js agent services with overlap prevention, distributed coordination, background task... | 3.3k | Templates & Workflows |
 | [Run a Docling API server for agent document conversion](skills/run-a-docling-api-server-for-agent-document-conversion/) | Deploy Docling API so agents can convert PDFs, Office files, images, HTML, CSV, and other documents into Markdown... | 1.7k | Data Extraction & Transformation |
-| [Compile agent-ready documentation bundles with docmd](skills/compile-agent-ready-documentation-bundles-with-docmd/) | Use docmd when a project needs one Markdown documentation source to produce a site, search index, llms.txt, MCP... | 2.5k | Library & API Reference |
 | [Run agentic quality engineering checks with Agentic QE](skills/run-agentic-quality-engineering-checks-with-agentic-qe/) | Configure Agentic QE in a repository so a coding agent can generate tests, inspect coverage gaps, investigate flaky... | 495 | Code Quality & Review |
 | [Audit and fix website QA issues with Squirrelscan](skills/audit-and-fix-website-qa-issues-with-squirrelscan/) | Run Squirrelscan from a coding agent to audit SEO, performance, security, accessibility, and agent-experience issues, then feed exact... | 272 | Security & Verification |
 | [Build TypeScript spreadsheet import and export workflows with hucre](skills/build-typescript-spreadsheet-import-and-export-workflows-with-hucre/) | Use hucre when a coding agent needs to add zero-dependency XLSX, CSV, ODS, JSON, NDJSON, or XML spreadsheet... | 2.2k | Data Extraction & Transformation |
+| [Compile agent-ready documentation bundles with docmd](skills/compile-agent-ready-documentation-bundles-with-docmd/) | Use docmd when a project needs one Markdown documentation source to produce a site, search index, llms.txt, MCP... | 2.5k | Library & API Reference |
 
 ---
 
@@ -140,7 +140,7 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 
 | | Category | Skills | What's inside |
 |---|---|---:|---|
-| 🛠️ | [**Developer Tools**](categories/developer-tools/) | 524 | CLI tools, scaffolders, dev environment setup |
+| 🛠️ | [**Developer Tools**](categories/developer-tools/) | 525 | CLI tools, scaffolders, dev environment setup |
 | 📄 | [**Templates & Workflows**](categories/templates-workflows/) | 266 | Scaffolders, boilerplate generators, workflow templates |
 | 🔒 | [**Security & Verification**](categories/security-verification/) | 256 | Vulnerability scanning, auth setup, compliance |
 | 🔄 | [**Data Extraction & Transformation**](categories/data-extraction-transformation/) | 230 | ETL pipelines, parsing, format conversion |
@@ -155,7 +155,7 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 | 🌐 | [**Browser Automation**](categories/browser-automation/) | 127 | Web scraping, UI testing, headless browser control |
 | 🎨 | [**Image & Creative Automation**](categories/image-creative-automation/) | 117 | Image generation, asset processing, design automation |
 | 🎙️ | [**Media & Transcription**](categories/media-transcription/) | 110 | Audio/video processing, speech-to-text |
-| ✍️ | [**Content Writing & SEO**](categories/content-writing-seo/) | 97 | SEO content, blog automation, editorial workflows |
+| ✍️ | [**Content Writing & SEO**](categories/content-writing-seo/) | 98 | SEO content, blog automation, editorial workflows |
 | 📰 | [**WordPress & CMS**](categories/wordpress-cms/) | 96 | Theme/plugin dev, WP-CLI automation, CMS management |
 
 ---
@@ -219,7 +219,7 @@ Every skill is backed by a real tool, repo, or package. New skills require real 
 
 | Tier | Count | Meaning |
 |------|------:|---|
-| 📋 **Published** | 3,143 | In the catalog — every skill is backed by a real tool, repo, or package |
+| 📋 **Published** | 3,145 | In the catalog — every skill is backed by a real tool, repo, or package |
 | 🛡️ **Security Reviewed** | 2,613 | Scanned for malicious patterns, prompt injection, and unsafe instructions |
 
 More: [verification/](verification/)

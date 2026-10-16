@@ -493,6 +493,7 @@ CLI helpers, dev environment setup, productivity utilities, and developer workfl
 | [Reduce coding-agent token waste with Chisle](../../skills/reduce-coding-agent-token-waste-with-chisle/) | 388 | 288/wk |
 | [Index Codebases for Agent Search with Code Context Engine](../../skills/index-codebases-for-agent-search-with-code-context-engine/) | 383 | — |
 | [Temporal CLI Workflow and Server Control](../../skills/temporal-cli-workflow-server-control/) | 350 | — |
+| [Delegate and resume repository tasks through Pi-Bolt MCP](../../skills/delegate-and-resume-repository-tasks-through-pi-bolt-mcp/) | 343 | 2.1k/wk |
 | [Run terminal coding-agent workflows with Phi](../../skills/run-terminal-coding-agent-workflows-with-phi/) | 336 | — |
 | [Run Genie planning and execution loops in Claude Code](../../skills/run-genie-planning-execution-loops-in-claude-code/) | 323 | 777/wk |
 | [Run Agent-Assisted Notebook Workflows in JupyterLab With Notebook Intelligence](../../skills/run-agent-assisted-notebook-workflows-in-jupyterlab-with-notebook-intelligence/) | 322 | 475/wk |

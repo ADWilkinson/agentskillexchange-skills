@@ -1,7 +1,23 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
-# Generated: 2026-10-15
-# Total: 3143 skills
+# Generated: 2026-10-16
+# Total: 3145 skills
+
+## Run Instagram caption and carousel drafting with Instagram Skills
+slug: plan-and-draft-instagram-captions-and-carousels-with-instagram-skills
+category: Content Writing & SEO
+framework: Multi-Framework
+verification: Security Reviewed
+description: Transform campaign notes into Instagram captions and slide-by-slide carousel drafts, then review factual claims, voice, media order, and an approval card.
+url: https://agentskillexchange.com/skills/plan-and-draft-instagram-captions-and-carousels-with-instagram-skills/
+
+## Delegate and resume repository tasks through Pi-Bolt MCP
+slug: delegate-and-resume-repository-tasks-through-pi-bolt-mcp
+category: Developer Tools
+framework: MCP
+verification: Security Reviewed
+description: Delegate a scoped repository task to Pi-Bolt over MCP, inspect structured results, and resume the same Pi session for follow-up work and verification.
+url: https://agentskillexchange.com/skills/delegate-and-resume-repository-tasks-through-pi-bolt-mcp/
 
 ## Build editable transcript and subtitle timelines with BaoCut
 slug: build-editable-transcript-and-subtitle-timelines-with-baocut

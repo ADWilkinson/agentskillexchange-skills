@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3143 published skills** across **17 categories** · 2,613 security reviewed · Updated 2026-10-15 19:26 UTC
+> **3145 published skills** across **17 categories** · 2,613 security reviewed · Updated 2026-10-16 01:26 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -8,7 +8,7 @@
 
 ## Skills by Category
 
-### 🛠️ Developer Tools (524 skills)
+### 🛠️ Developer Tools (525 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=downloads)
 
@@ -467,6 +467,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [Reduce coding-agent token waste with Chisle](skills/reduce-coding-agent-token-waste-with-chisle/) | Use Chisle to add concise coding rules, YAGNI-first defaults, and supported tool-output compression across multiple… | Published | 388 | 288/wk |
 | [Index Codebases for Agent Search with Code Context Engine](skills/index-codebases-for-agent-search-with-code-context-engine/) | Use Code Context Engine to index a repository and expose token-efficient code search to Claude Code, Codex, Cursor,… | Security Reviewed | 383 | — |
 | [Temporal CLI Workflow and Server Control](skills/temporal-cli-workflow-server-control/) | Temporal CLI runs a local Temporal server and talks to workflows, activities, and namespaces. It is the practical… | Security Reviewed | 350 | — |
+| [Delegate and resume repository tasks through Pi-Bolt MCP](skills/delegate-and-resume-repository-tasks-through-pi-bolt-mcp/) | Delegate a scoped repository task to Pi-Bolt over MCP, inspect structured results, and resume the same Pi session… | Security Reviewed | 343 | 2.1k/wk |
 | [Run terminal coding-agent workflows with Phi](skills/run-terminal-coding-agent-workflows-with-phi/) | Use Phi to run lightweight terminal coding-agent sessions with sub-agents, guarded tool use, hashline edits, and… | Security Reviewed | 336 | — |
 | [Run Genie planning and execution loops in Claude Code](skills/run-genie-planning-execution-loops-in-claude-code/) | Use Genie to turn a vague coding request into Claude Code brainstorm, wish, work, and review loops backed by… | Security Reviewed | 323 | 777/wk |
 | [Run Agent-Assisted Notebook Workflows in JupyterLab With Notebook Intelligence](skills/run-agent-assisted-notebook-workflows-in-jupyterlab-with-notebook-intelligence/) | Use Notebook Intelligence to add chat, inline edit, autocomplete, MCP tools, Claude Code mode, and coding-agent… | Security Reviewed | 322 | 475/wk |
@@ -3079,7 +3080,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Medi
 | [YouTube Chapter Generator from Transcripts](skills/youtube-chapter-generator-transcripts/) | Extracts YouTube video transcripts via the youtube-transcript-api Python library and generates semantic chapter… | Security Reviewed | — | — |
 
 
-### ✍️ Content Writing & SEO (97 skills)
+### ✍️ Content Writing & SEO (98 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Content%20Writing%20%26%20SEO) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Content%20Writing%20%26%20SEO&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Content%20Writing%20%26%20SEO&sort=downloads)
 
@@ -3139,6 +3140,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Cont
 | [Run evidence-backed agentic SEO audits with Agentic SEO Skill](skills/run-evidence-backed-agentic-seo-audits-with-agentic-seo-skill/) | Install a multi-runtime SEO skill pack that collects crawl, schema, performance, sitemap, robots, and content… | Security Reviewed | 588 | — |
 | [Run WeChat public-account content operations with WeChat Article Skills](skills/run-wechat-public-account-content-operations-with-wechat-article-skills/) | Use WeChat Article Skills to run a confirmed, multi-step WeChat article workflow from topic planning through… | Security Reviewed | 559 | — |
 | [Run repeatable Google Ads and SEO audits inside Claude Code with Toprank](skills/run-repeatable-google-ads-and-seo-audits-inside-claude-code-with-toprank/) | Use Toprank when an agent needs a repeatable Claude Code workflow for Google Ads and SEO audits, with concrete slash… | Security Reviewed | 466 | — |
+| [Run Instagram caption and carousel drafting with Instagram Skills](skills/plan-and-draft-instagram-captions-and-carousels-with-instagram-skills/) | Transform campaign notes into Instagram captions and slide-by-slide carousel drafts, then review factual claims,… | Security Reviewed | 455 | — |
 | [Draft and audit LinkedIn content with LinkedIn Skills](skills/draft-and-audit-linkedin-content-with-linkedin-skills/) | Use LinkedIn Skills when an agent needs to draft posts, comments, replies, audits, profile rewrites, or content… | Security Reviewed | 420 | — |
 | [Remove AI Writing Fingerprints from Draft Copy](skills/remove-ai-writing-fingerprints-from-draft-copy/) | Use humanizer to scan drafts for AI telltales, explain what sounds synthetic, and suggest grounded rewrites that… | Security Reviewed | 45 | — |
 | [SEO Growth Loop](skills/seo-growth-loop/) | Run a closed-loop SEO growth workflow using Search Console data, keyword demand analysis, SERP Authority Mark… | Published | 1 | — |
