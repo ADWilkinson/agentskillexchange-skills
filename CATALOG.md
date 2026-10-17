@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3147 published skills** across **17 categories** · 2,617 security reviewed · Updated 2026-10-16 19:26 UTC
+> **3149 published skills** across **17 categories** · 2,617 security reviewed · Updated 2026-10-17 01:26 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -8,7 +8,7 @@
 
 ## Skills by Category
 
-### 🛠️ Developer Tools (527 skills)
+### 🛠️ Developer Tools (528 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=downloads)
 
@@ -314,6 +314,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [AWS S3 MCP Server](skills/aws-s3-mcp-server/) | AWS S3 MCP Server is built around Amazon Web Services cloud APIs. The underlying ecosystem is represented by… | Published | 3.6k | 49.8M/wk |
 | [AWS Lambda MCP Server](skills/aws-lambda-mcp-server/) | AWS Lambda MCP Server is built around Amazon Web Services cloud APIs. The underlying ecosystem is represented by… | Published | 3.6k | 12M/wk |
 | [Cloud Cost Analysis](skills/cloud-cost-analysis/) | Cloud Cost Analysis is built around Amazon Web Services cloud APIs. The underlying ecosystem is represented by… | Security Reviewed | 3.6k | — |
+| [Model and verify bounded LP and MILP problems with NVIDIA cuOpt](skills/model-and-verify-bounded-lp-and-milp-problems-with-nvidia-cuopt/) | Use NVIDIA’s portable optimization skill to formulate a bounded LP or MILP, run cuOpt, and check solver status and… | Security Reviewed | 3.6k | — |
 | [Topgrade Universal System Package Updater](skills/topgrade-universal-system-package-updater/) | Topgrade is a CLI tool written in Rust that detects all package managers and updatable sources on your system and… | Security Reviewed | 3.6k | — |
 | [DynamoDB Manager](skills/dynamodb-manager/) | DynamoDB Manager is built around Amazon DynamoDB NoSQL database. The underlying ecosystem is represented by… | Published | 3.6k | 30.5M/wk |
 | [Manage Agent Accounts and Model Routing with EchoBird](skills/manage-agent-accounts-model-routing-echobird/) | Use EchoBird to centralize ChatGPT, Codex CLI, Claude Code, OpenClaw, OpenCode, and local model setup so an operator… | Published | 3.3k | — |
@@ -817,7 +818,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Temp
 | [Turn Notion specs into implementation plans and tasks with notion-spec-to-implementation](skills/turn-notion-specs-into-implementation-plans-and-tasks-with-notion-spec-to-implementation/) | Read a Notion spec, extract requirements and ambiguities, then create a linked implementation plan, task breakdown,… | Published | — | — |
 
 
-### 🔒 Security & Verification (256 skills)
+### 🔒 Security & Verification (257 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Security%20%26%20Verification) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Security%20%26%20Verification&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Security%20%26%20Verification&sort=downloads)
 
@@ -992,6 +993,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Secu
 | [Collect Unix-like incident-response artifacts into one portable evidence bundle with UAC](skills/collect-unix-like-incident-response-artifacts-into-one-portable-evidence-bundle-with-uac/) | Capture volatile and persistent Unix-like system artifacts quickly before evidence disappears or responders start… | Security Reviewed | 1.3k | — |
 | [Audit Python environments and requirements files for known vulnerabilities with pip-audit](skills/audit-python-environments-and-requirements-files-for-known-vulnerabilities-with-pip-audit/) | Check Python environments and requirements files for published vulnerabilities before shipping, upgrading, or… | Security Reviewed | 1.3k | — |
 | [Scan agent dependencies and container inputs with OWASP dep-scan](skills/scan-agent-dependencies-and-container-inputs-with-owasp-dep-scan/) | Run OWASP dep-scan before adopting dependencies, containers, or generated code so agents get a reviewable… | Security Reviewed | 1.3k | — |
+| [Suspend and resume stateful agent sandbox jobs with SPACE](skills/suspend-and-resume-stateful-agent-sandbox-jobs-with-space/) | Run a stateful job in self-hosted SPACE, preserve sandbox state across suspension, and reconcile operation IDs,… | Security Reviewed | 1.1k | — |
 | [Sign agent-made Git commits with gitsign](skills/sign-agent-made-git-commits-with-gitsign/) | Apply keyless Sigstore-backed signatures to Git commits so automated changes retain verifiable provenance. | Security Reviewed | 1.1k | — |
 | [Verify agent policy coverage and risky-action guardrails before production rollout with Agent Governance Toolkit](skills/verify-agent-policy-coverage-and-risky-action-guardrails-before-production-rollout-with-agent-governance-toolkit/) | Run deterministic governance checks and policy verification before agents get real autonomy, so risky tool use and… | Security Reviewed | 1.1k | 20.9k/wk |
 | [Evaluate model-generated code execution with SandboxFusion](skills/evaluate-model-generated-code-execution-with-sandboxfusion/) | Use SandboxFusion to run and judge LLM-generated code in controlled sandboxes across many languages and… | Security Reviewed | 1k | — |

@@ -1,8 +1,30 @@
 {
   "version": "2.0",
-  "total": 3147,
-  "generated": "2026-10-16",
+  "total": 3149,
+  "generated": "2026-10-17",
   "skills": [
+    {
+      "slug": "suspend-and-resume-stateful-agent-sandbox-jobs-with-space",
+      "name": "Suspend and resume stateful agent sandbox jobs with SPACE",
+      "title": "Suspend and resume stateful agent sandbox jobs with SPACE",
+      "description": "Run a stateful job in self-hosted SPACE, preserve sandbox state across suspension, and reconcile operation IDs, readiness and command transcripts before continuing.",
+      "category": "Security & Verification",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/perplexityai/SPACE/blob/main/docs/first-sandbox.md",
+      "github_repo": "perplexityai/SPACE"
+    },
+    {
+      "slug": "model-and-verify-bounded-lp-and-milp-problems-with-nvidia-cuopt",
+      "name": "Model and verify bounded LP and MILP problems with NVIDIA cuOpt",
+      "title": "Model and verify bounded LP and MILP problems with NVIDIA cuOpt",
+      "description": "Use NVIDIA’s portable optimization skill to formulate a bounded LP or MILP, run cuOpt, and check solver status and assignments against the intended constraints.",
+      "category": "Developer Tools",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/NVIDIA/skills/tree/main/skills/cuopt-numerical-optimization-api",
+      "github_repo": "NVIDIA/skills"
+    },
     {
       "slug": "configure-project-local-behavior-rules-with-hookify",
       "name": "Configure project-local behavior rules from operator corrections with Hookify",

@@ -340,6 +340,7 @@ CLI helpers, dev environment setup, productivity utilities, and developer workfl
 | [AWS S3 MCP Server](../../skills/aws-s3-mcp-server/) | 3.6k | 49.8M/wk |
 | [AWS Lambda MCP Server](../../skills/aws-lambda-mcp-server/) | 3.6k | 12M/wk |
 | [Cloud Cost Analysis](../../skills/cloud-cost-analysis/) | 3.6k | — |
+| [Model and verify bounded LP and MILP problems with NVIDIA cuOpt](../../skills/model-and-verify-bounded-lp-and-milp-problems-with-nvidia-cuopt/) | 3.6k | — |
 | [Topgrade Universal System Package Updater](../../skills/topgrade-universal-system-package-updater/) | 3.6k | — |
 | [DynamoDB Manager](../../skills/dynamodb-manager/) | 3.6k | 30.5M/wk |
 | [Manage Agent Accounts and Model Routing with EchoBird](../../skills/manage-agent-accounts-model-routing-echobird/) | 3.3k | — |

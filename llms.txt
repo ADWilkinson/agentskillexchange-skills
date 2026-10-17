@@ -1,7 +1,23 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
-# Generated: 2026-10-16
-# Total: 3147 skills
+# Generated: 2026-10-17
+# Total: 3149 skills
+
+## Suspend and resume stateful agent sandbox jobs with SPACE
+slug: suspend-and-resume-stateful-agent-sandbox-jobs-with-space
+category: Security & Verification
+framework: Multi-Framework
+verification: Security Reviewed
+description: Run a stateful job in self-hosted SPACE, preserve sandbox state across suspension, and reconcile operation IDs, readiness and command transcripts before continuing.
+url: https://agentskillexchange.com/skills/suspend-and-resume-stateful-agent-sandbox-jobs-with-space/
+
+## Model and verify bounded LP and MILP problems with NVIDIA cuOpt
+slug: model-and-verify-bounded-lp-and-milp-problems-with-nvidia-cuopt
+category: Developer Tools
+framework: Multi-Framework
+verification: Security Reviewed
+description: Use NVIDIA’s portable optimization skill to formulate a bounded LP or MILP, run cuOpt, and check solver status and assignments against the intended constraints.
+url: https://agentskillexchange.com/skills/model-and-verify-bounded-lp-and-milp-problems-with-nvidia-cuopt/
 
 ## Configure project-local behavior rules from operator corrections with Hookify
 slug: configure-project-local-behavior-rules-with-hookify

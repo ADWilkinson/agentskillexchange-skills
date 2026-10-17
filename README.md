@@ -4,7 +4,7 @@
 
 ### Curated and trusted AI agent skills
 
-[![Published](https://img.shields.io/badge/published-3%2C147-6366f1?style=for-the-badge)](CATALOG.md)
+[![Published](https://img.shields.io/badge/published-3%2C149-6366f1?style=for-the-badge)](CATALOG.md)
 [![Industry%20Collections](https://img.shields.io/badge/industry--collections-15-14b8a6?style=for-the-badge)](industries/README.md)
 [![Categories](https://img.shields.io/badge/categories-17-0ea5e9?style=for-the-badge)](categories/README.md)
 [![Security%20Reviewed](https://img.shields.io/badge/security--reviewed-2%2C617-10b981?style=for-the-badge)](verification/)
@@ -12,7 +12,7 @@
 
 **[Catalog](CATALOG.md) · [Live Browse](https://agentskillexchange.com/browse-skills/) · [Categories](categories/README.md) · [Industry Collections](industries/README.md) · [Top Starred](TOP-STARS.md) · [Top Downloaded](TOP-DOWNLOADS.md) · [Submit a Skill](#submit-a-skill)**
 
-*3,147 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
+*3,149 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
 
 *Star this repo to keep the agent skill catalog handy and follow new additions.*
 
@@ -51,7 +51,7 @@ npm exec --package=skills@1.5.7 -- skills add agentskillexchange/skills --skill 
 
 ## Skill of the Day
 
-**[CSV Schema Validator & Auto-Fixer](skills/csv-schema-validator-auto-fixer/)** — Validates CSV files against JSON Schema definitions using AJV and csv-parse. Automatically detects and repairs type mismatches, missing required columns, and encoding issues with configurable strictness levels.
+**[Run continuous workflow agents with AutoGPT](skills/run-continuous-workflow-agents-with-autogpt/)** — Self-host AutoGPT to build, test, deploy, and operate continuous AI agents for repeatable multi-step workflows.
 
 _Rotates daily across downloaded, starred, recent, verified, and industry-curated skills._
 
@@ -87,6 +87,8 @@ See the full overlay index in [industries/README.md](industries/README.md).
 
 | Skill | What it helps with | Stars | Category |
 |---|---|---:|---|
+| [Suspend and resume stateful agent sandbox jobs with SPACE](skills/suspend-and-resume-stateful-agent-sandbox-jobs-with-space/) | Run a stateful job in self-hosted SPACE, preserve sandbox state across suspension, and reconcile operation IDs, readiness and... | 1.1k | Security & Verification |
+| [Model and verify bounded LP and MILP problems with NVIDIA cuOpt](skills/model-and-verify-bounded-lp-and-milp-problems-with-nvidia-cuopt/) | Use NVIDIA’s portable optimization skill to formulate a bounded LP or MILP, run cuOpt, and check solver status... | 3.6k | Developer Tools |
 | [Configure project-local behavior rules from operator corrections with Hookify](skills/configure-project-local-behavior-rules-with-hookify/) | Turn repeated Claude Code corrections into operator-confirmed local rules, with specific event matchers, warning or blocking actions, and... | 39.8k | Developer Tools |
 | [Review and validate project assumptions with Common Ground](skills/review-and-validate-project-assumptions-with-common-ground/) | Run Common Ground in Claude Code to surface project assumptions, confirm their evidence and confidence with the operator... | 11.9k | Developer Tools |
 | [Run Instagram caption and carousel drafting with Instagram Skills](skills/plan-and-draft-instagram-captions-and-carousels-with-instagram-skills/) | Transform campaign notes into Instagram captions and slide-by-slide carousel drafts, then review factual claims, voice, media order, and... | 455 | Content Writing & SEO |
@@ -95,8 +97,6 @@ See the full overlay index in [industries/README.md](industries/README.md).
 | [Audit coding-agent instruction drift and verifier health with Waza](skills/audit-coding-agent-instruction-drift-and-verifier-health-with-waza/) | Run a bounded, report-only audit of coding-agent settings, instruction reachability, hooks, MCP wiring, and verification evidence with actionable... | 7.3k | Runbooks & Diagnostics |
 | [Audit Codex session duplicates and retry chains with AgentMeasure](skills/audit-codex-session-duplicates-and-retry-chains-with-agentmeasure/) | Inspect supported Codex rollout logs locally for duplicate records, retry amplification, and repeated tool failures, preserving unknown evidence... | 218 | Runbooks & Diagnostics |
 | [Keep agent retrieval current as documents change with Serviette](skills/keep-agent-retrieval-current-as-documents-change-with-serviette/) | Configure a watched document corpus, serve source-backed retrieval to agents, and verify that additions, edits, and deletions reach... | 58.8k | Developer Tools |
-| [looot Business Data Lookups Over MCP](skills/looot-business-data-lookups-over-mcp/) | Gives an agent one MCP connection to about 2,500 data endpoints from 90+ providers: find a work email... | - | Data Extraction & Transformation |
-| [Hourglyph Daily Puzzle](skills/hourglyph-daily/) | Play Hourglyph Daily, a free daily logic puzzle by Clock Hill Games, through its documented HTTP API: register... | - | Integrations & Connectors |
 
 ---
 
@@ -140,9 +140,9 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 
 | | Category | Skills | What's inside |
 |---|---|---:|---|
-| 🛠️ | [**Developer Tools**](categories/developer-tools/) | 527 | CLI tools, scaffolders, dev environment setup |
+| 🛠️ | [**Developer Tools**](categories/developer-tools/) | 528 | CLI tools, scaffolders, dev environment setup |
 | 📄 | [**Templates & Workflows**](categories/templates-workflows/) | 266 | Scaffolders, boilerplate generators, workflow templates |
-| 🔒 | [**Security & Verification**](categories/security-verification/) | 256 | Vulnerability scanning, auth setup, compliance |
+| 🔒 | [**Security & Verification**](categories/security-verification/) | 257 | Vulnerability scanning, auth setup, compliance |
 | 🔄 | [**Data Extraction & Transformation**](categories/data-extraction-transformation/) | 230 | ETL pipelines, parsing, format conversion |
 | ✅ | [**Code Quality & Review**](categories/code-quality-review/) | 207 | Linting, code review, test generators, coverage |
 | 🔧 | [**CI/CD Integrations**](categories/ci-cd-integrations/) | 193 | Pipeline configs, deployment automation, build tooling |
@@ -219,7 +219,7 @@ Every skill is backed by a real tool, repo, or package. New skills require real 
 
 | Tier | Count | Meaning |
 |------|------:|---|
-| 📋 **Published** | 3,147 | In the catalog — every skill is backed by a real tool, repo, or package |
+| 📋 **Published** | 3,149 | In the catalog — every skill is backed by a real tool, repo, or package |
 | 🛡️ **Security Reviewed** | 2,617 | Scanned for malicious patterns, prompt injection, and unsafe instructions |
 
 More: [verification/](verification/)
