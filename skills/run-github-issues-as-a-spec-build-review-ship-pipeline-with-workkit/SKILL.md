@@ -2,12 +2,15 @@
 name: "Run GitHub Issues as a Spec, Build, Review and Ship Pipeline with workkit"
 slug: "run-github-issues-as-a-spec-build-review-ship-pipeline-with-workkit"
 description: "Use workkit when Claude Code should work a repository's GitHub Issues as a labeled pipeline: capture, triage, spec interview, a subagent build with blind review, owner QA, and a ship step that writes the changelog and releases."
+github_stars: 4
 verification: "listed"
 source: "https://github.com/ITW-Creative-Works/workkit"
+author: "ITW-Creative-Works"
 category: "Templates & Workflows"
 framework: "Claude Code"
 tool_ecosystem:
   github_repo: "itw-creative-works/workkit"
+  github_stars: 4
 ---
 
 # Run GitHub Issues as a Spec, Build, Review and Ship Pipeline with workkit
@@ -22,21 +25,12 @@ git, the GitHub CLI (`gh`) signed in with `gh auth login`, jq, Node.js with npm 
 
 ## Installation
 
-Install the plugin from its upstream marketplace:
+Install or set up from the source-backed instructions:
 
-```bash
 claude plugin marketplace add ITW-Creative-Works/workkit
 claude plugin install workkit@workkit
-```
 
-Start a Claude Code session and run the one setup command it prints. Then turn workkit on in a project:
-
-```bash
-cd your-project && workkit enable
-claude
-```
-
-Inside the session, `/workkit:status` lists the open issues and what each one is waiting on, and `work on #12` starts the pipeline on an issue.
+- Source: https://github.com/ITW-Creative-Works/workkit
 
 ## Documentation
 

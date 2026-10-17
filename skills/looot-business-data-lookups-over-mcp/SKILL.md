@@ -2,6 +2,7 @@
 name: "looot Business Data Lookups Over MCP"
 slug: "looot-business-data-lookups-over-mcp"
 description: "Gives an agent one MCP connection to about 2,500 data endpoints from 90+ providers: find a work email or phone, verify an email, enrich a company or person, search companies, look up a tech stack, read Google SERP results, search the web and news, read a web page as Markdown and search local businesses. The agent sees the price before each call, and a failed call costs nothing."
+github_stars: 0
 verification: "listed"
 source: "https://github.com/loootai/looot-skills"
 author: "looot"
@@ -9,6 +10,7 @@ category: "Data Extraction & Transformation"
 framework: "MCP"
 tool_ecosystem:
   github_repo: "loootai/looot-skills"
+  github_stars: 0
 ---
 
 # looot Business Data Lookups Over MCP
@@ -21,27 +23,12 @@ The companion skills repo holds 20 data-job skills plus a base skill that teache
 
 ## Installation
 
-### Remote MCP server
+Install or set up from the source-backed instructions:
 
-The server is at `https://api.looot.ai/mcp` (Streamable HTTP). Sign-in is OAuth 2.1 with dynamic client registration, or an `Authorization: Bearer <key>` header for CI and headless agents.
-
-Claude Code:
-
-```bash
-claude mcp add --transport http looot https://api.looot.ai/mcp
-```
-
-Then run `/mcp`, pick looot and choose Authenticate.
-
-### Skills
-
-```bash
 npx skills add loootai/looot-skills
-```
+claude mcp add --transport http looot https://api.looot.ai/mcp
 
-### Other clients
-
-Plugins for Claude Code, Codex and Cursor are in https://github.com/loootai/looot-plugin. Config snippets for OpenCode, Goose and others are in https://github.com/loootai/looot-agent-integrations.
+- Source: https://github.com/loootai/looot-skills
 
 ## Usage
 

@@ -2,12 +2,17 @@
 name: "Agent Media UGC Video"
 slug: "agent-media-ugc-video"
 description: "Use Agent Media when an agent needs to create captioned vertical UGC videos, narrated b-roll overlays, reusable characters, images, and voice through a hosted MCP server and companion skills."
+github_stars: 0
 verification: "listed"
 source: "https://github.com/agent-media-ai/agent-media"
+author: "agent-media-ai"
 category: "Image & Creative Automation"
 framework: "MCP"
 tool_ecosystem:
   github_repo: "agent-media-ai/agent-media"
+  github_stars: 0
+  npm_package: "@agentmedia/mcp-server"
+  npm_weekly_downloads: 46
 ---
 
 # Agent Media UGC Video
@@ -16,47 +21,10 @@ Use Agent Media when a Claude Code, Codex, Cursor, or other MCP-capable agent ne
 
 ## Installation
 
-### Hosted MCP connector
+Install or set up from the source-backed instructions:
 
-Add the remote Streamable HTTP MCP server to an MCP-capable client:
-
-```json
-{
-  "mcpServers": {
-    "agent-media": {
-      "type": "http",
-      "url": "https://api.agent-media.ai/mcp"
-    }
-  }
-}
-```
-
-Authenticate through the browser OAuth flow opened by the client. For Claude Code, use:
-
-```bash
-claude mcp add --transport http --scope user agent-media https://api.agent-media.ai/mcp
-```
-
-For Codex, use:
-
-```bash
-codex mcp add agent-media --url https://api.agent-media.ai/mcp
-codex mcp login agent-media
-```
-
-### Companion skills
-
-Install the upstream Agent Media skill pack when the agent runtime supports GitHub-hosted skills:
-
-```bash
 npx skills add agent-media-ai/agent-media
-```
+claude mcp add --transport http --scope user agent-media https://api.agent-media.ai/mcp
 
-### Direct Agent Skill Exchange install
+- Source: https://github.com/agent-media-ai/agent-media
 
-Clone the Agent Skill Exchange repository and copy this skill directory into the skill folder used by your agent runtime:
-
-```bash
-git clone https://github.com/agentskillexchange/skills.git
-cp -R skills/skills/agent-media-ugc-video ~/.agent-skills/agent-media-ugc-video
-```

@@ -5,6 +5,7 @@ description: "Audit and fix Google Business Profile gaps through the Reach Googl
 github_stars: 0
 verification: "listed"
 source: "https://github.com/LocusIntelligence-DauAgency/reach-skills"
+author: "LocusIntelligence-DauAgency"
 category: "Content Writing & SEO"
 framework: "MCP"
 tool_ecosystem:
@@ -35,17 +36,11 @@ Use returned listing fields and metrics only within their account scope and stat
 
 ## Installation
 
-The [upstream optimization skill](https://github.com/LocusIntelligence-DauAgency/reach-skills/tree/main/skills/optimize-google-business-profile) is available in the public Reach skills repository. For Codex, clone the repository and install that one skill in a new local skill folder:
+Install or set up from the source-backed instructions:
 
-```bash
-git clone --depth 1 https://github.com/LocusIntelligence-DauAgency/reach-skills.git reach-skills
-mkdir -p ~/.codex/skills
-cp -R reach-skills/skills/optimize-google-business-profile ~/.codex/skills/optimize-google-business-profile
-```
+npx skills add LocusIntelligence-DauAgency/reach-skills
 
-Check that the destination does not already exist before copying. Other agents can place the same upstream folder in their documented skill directory. The public repository contains client skills, manifests and setup documentation; the hosted server is operated by Reach.
-
-Connect your MCP client to `https://reach.locus-intelligence.com/api/mcp` using Streamable HTTP and browser OAuth with your own Reach account. No API key is required. Connect the intended Google Business Profile inside Reach before profile management. Follow the [official Reach MCP setup guide](https://reach.locus-intelligence.com/google-business-profile-mcp) for your client.
+- Source: https://github.com/LocusIntelligence-DauAgency/reach-skills
 
 ## Sources
 

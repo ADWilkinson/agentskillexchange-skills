@@ -11,6 +11,8 @@ framework: "MCP"
 tool_ecosystem:
   github_repo: "aident-ai/aident-skill"
   github_stars: 6
+  npm_package: "@aident-ai/cli"
+  npm_weekly_downloads: 3114
 ---
 
 # Aident Loadout
@@ -27,36 +29,12 @@ The agent searches 1,000+ apps and their actions by intent, reads the live input
 
 ## Installation
 
-### Remote MCP server (Claude Code)
+Install or set up from the source-backed instructions:
 
-```bash
-claude mcp add --transport http aident https://loadout.aident.ai/mcp
-```
-
-The server uses Streamable HTTP and asks you to sign in with OAuth on first use. ChatGPT and Claude Desktop can add the same URL as a custom app or connector.
-
-### Coding agents
-
-Paste this setup prompt into Codex, Claude Code, Cursor, OpenCode or OpenClaw:
-
-```text
-Follow https://aident.ai/SETUP.md
-```
-
-### CLI and static skill
-
-```bash
-npm i -g @aident-ai/cli
-aident login
 npx -y @aident-ai/cli@latest update --skill-only
-```
+Then follow https://aident.ai/SETUP.md to complete Aident Loadout setup.
 
-### Direct repo/manual install
-
-```bash
-git clone https://github.com/agentskillexchange/skills.git
-cp -R skills/skills/aident-loadout ~/.agent-skills/aident-loadout
-```
+- Source: https://github.com/Aident-AI/aident-skill
 
 ## Verify
 

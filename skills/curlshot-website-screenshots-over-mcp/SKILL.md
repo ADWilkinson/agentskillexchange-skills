@@ -8,7 +8,7 @@ author: "CurlShot"
 category: "Browser Automation"
 framework: "MCP"
 tool_ecosystem:
-  github_repo: "SergiuPogor/curlshot-mcp"
+  github_repo: "sergiupogor/curlshot-mcp"
 ---
 
 # CurlShot Website Screenshots Over MCP
@@ -24,33 +24,9 @@ Auth is an API key sent as `Authorization: Bearer YOUR_API_KEY`. The free plan h
 
 ## Installation
 
-Create a dedicated API key in the [CurlShot dashboard](https://curlshot.com/register) and leave **Require signature** off for that key. MCP calls are unsigned; signature-only keys return `signature_required`. Keep the key out of prompts, logs and committed project configuration. Use your client's private secret configuration, and revoke the dedicated key when the integration is retired.
+No source-backed install or usage instructions could be extracted automatically. Review the upstream project before running this skill in a sensitive workflow.
 
-### Claude Code
-
-```bash
-claude mcp add --transport http curlshot https://curlshot.com/api/mcp \
-  --header "Authorization: Bearer YOUR_API_KEY"
-```
-
-### Cursor
-
-Add to `~/.cursor/mcp.json` or `.cursor/mcp.json`:
-
-```json
-{
-  "mcpServers": {
-    "curlshot": {
-      "url": "https://curlshot.com/api/mcp",
-      "headers": { "Authorization": "Bearer YOUR_API_KEY" }
-    }
-  }
-}
-```
-
-### Other clients
-
-Any MCP client that supports streamable HTTP and custom headers can connect to `https://curlshot.com/api/mcp`. Clients that only start local stdio servers can connect through the `mcp-remote` proxy. Setup for more clients is in https://github.com/SergiuPogor/curlshot-mcp.
+- Source: https://github.com/SergiuPogor/curlshot-mcp
 
 ## Usage
 

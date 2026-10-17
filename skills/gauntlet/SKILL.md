@@ -5,6 +5,7 @@ description: "Evidence-driven adversarial review and root-cause repair of code, 
 github_stars: 0
 verification: "listed"
 source: "https://github.com/aakashH242/gauntlet"
+author: "aakashH242"
 category: "Code Quality & Review"
 framework: "Multi-Framework"
 tool_ecosystem:
@@ -20,13 +21,11 @@ Gauntlet guides deep code reviews, edge-case audits, and bounded root-cause repa
 
 ## Installation
 
-Copy the complete skill directory into your agent's configured skills directory. Replace the example destination below with your agent's actual discovery path.
+Install or set up from the source-backed instructions:
 
-```bash
-git clone https://github.com/agentskillexchange/skills.git ase-skills
-mkdir -p ~/.agent-skills
-cp -R ase-skills/skills/gauntlet ~/.agent-skills/gauntlet
-```
+npx skills add aakashH242/gauntlet --skill gauntlet
+
+- Source: https://github.com/aakashH242/gauntlet
 
 ## Start here
 

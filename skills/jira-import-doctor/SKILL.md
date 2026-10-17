@@ -2,13 +2,12 @@
 name: "Jira Import Doctor"
 slug: "jira-import-doctor"
 description: "Diagnose a failed or partial Jira CSV import from a local source CSV, one attempt's log, and explicit importer context. Separate file defects, unresolved matches, parent-cascade hypotheses, and count reconciliation without connecting to or changing Jira."
+verification: "listed"
+source: "https://github.com/mozzie49/jira-import-doctor"
 category: "Runbooks & Diagnostics"
 framework: "Custom Agents"
-verification: listed
-source: "https://github.com/mozzie49/jira-import-doctor"
 tool_ecosystem:
   github_repo: "mozzie49/jira-import-doctor"
-  license: "MIT"
 ---
 
 # Jira Import Doctor

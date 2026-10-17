@@ -2,11 +2,12 @@
 name: "Openhook"
 slug: "openhook"
 description: "Creates webhook inboxes, receives callbacks, and forwards events for AI agents with Openhook. Use when testing local webhook integrations, inspecting external callbacks, or waiting for asynchronous events through MCP."
+verification: "listed"
+source: "https://github.com/openhook-dev/openhook-inbox"
 category: "Integrations & Connectors"
 framework: "MCP"
-verification: listed
-source: "https://github.com/openhook-dev/openhook-inbox"
-license: MIT
+tool_ecosystem:
+  github_repo: "openhook-dev/openhook-inbox"
 ---
 
 # Openhook
@@ -82,27 +83,9 @@ MCP for the current deployment's plans. Agent keys do not authorize billing.
 
 ## Installation
 
-Install the maintained upstream skill with the optional Vercel Labs `skills`
-installer (a third-party tool, not maintained by Agent Skill Exchange):
+No source-backed install or usage instructions could be extracted automatically. Review the upstream project before running this skill in a sensitive workflow.
 
-```sh
-npm exec --package=skills@1.5.7 -- skills add openhook-dev/openhook-inbox --skill openhook
-```
-
-For manual installation, clone the source and copy the skill into your chosen
-agent runtime's skill directory. For Codex, a personal installation is:
-
-```sh
-git clone https://github.com/openhook-dev/openhook-inbox.git
-mkdir -p ~/.agents/skills
-cp -R openhook-inbox/skills/openhook ~/.agents/skills/openhook
-```
-
-Review an existing destination before copying over it. Skill installation is
-separate from connecting the MCP endpoint. See the upstream
-[connection guide](https://openhook.dev/connect) for client configuration.
-Basic temporary inboxes need no account or global API key; provider-registration
-tools require separately authorized provider credentials.
+- Source: https://github.com/openhook-dev/openhook-inbox
 
 ## Evaluation prompts
 
