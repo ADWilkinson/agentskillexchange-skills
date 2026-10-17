@@ -2,10 +2,12 @@
 name: "Goal Instruction Writer"
 slug: "goal-instruction-writer"
 description: "Preview, draft, refine, and audit durable Goal instructions in Codex. Define observable acceptance evidence, bounded execution loops, checkpoints, drift controls, proportional verification, and explicit stop conditions for multi-stage coding and delivery work."
-category: "Templates & Workflows"
-framework: "Codex"
 verification: "listed"
 source: "https://github.com/wu736139669/goal-instruction-writer"
+category: "Templates & Workflows"
+framework: "Codex"
+tool_ecosystem:
+  github_repo: "wu736139669/goal-instruction-writer"
 ---
 
 # Goal Instruction Writer
