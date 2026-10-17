@@ -1,7 +1,47 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-17
-# Total: 3149 skills
+# Total: 3154 skills
+
+## Openhook
+slug: openhook
+category: Integrations & Connectors
+framework: MCP
+verification: Published
+description: Creates webhook inboxes, receives callbacks, and forwards events for AI agents with Openhook. Use when testing local webhook integrations, inspecting external callbacks, or waiting…
+url: https://agentskillexchange.com/skills/openhook/
+
+## Jira Import Doctor
+slug: jira-import-doctor
+category: Runbooks & Diagnostics
+framework: Custom Agents
+verification: Published
+description: Diagnose a failed or partial Jira CSV import from a local source CSV, one attempt's log, and explicit importer context. Separate file defects, unresolved…
+url: https://agentskillexchange.com/skills/jira-import-doctor/
+
+## CurlShot Website Screenshots Over MCP
+slug: curlshot-website-screenshots-over-mcp
+category: Browser Automation
+framework: MCP
+verification: Published
+description: Gives an agent a remote MCP server that takes screenshots of web pages: a public URL in, a PNG, JPEG, WebP, PDF or scrolling…
+url: https://agentskillexchange.com/skills/curlshot-website-screenshots-over-mcp/
+
+## Resolve coding questions from upstream evidence with Firecrawl Developer Index
+slug: resolve-coding-questions-with-firecrawl-developer-index
+category: Research & Scraping
+framework: Multi-Framework
+verification: Security Reviewed
+description: Find public issues, merged fixes and API-contract passages with Firecrawl’s named Developer Index skill, then return a cited, version-aware answer.
+url: https://agentskillexchange.com/skills/resolve-coding-questions-with-firecrawl-developer-index/
+
+## Triage failed Ruby automation jobs with Resque
+slug: triage-failed-ruby-automation-jobs-with-resque
+category: Runbooks & Diagnostics
+framework: Multi-Framework
+verification: Security Reviewed
+description: Inspect a bounded set of Resque failures, correlate exception evidence and failure IDs, and prepare a recovery plan without retrying or deleting jobs.
+url: https://agentskillexchange.com/skills/triage-failed-ruby-automation-jobs-with-resque/
 
 ## Suspend and resume stateful agent sandbox jobs with SPACE
 slug: suspend-and-resume-stateful-agent-sandbox-jobs-with-space

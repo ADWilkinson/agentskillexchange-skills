@@ -202,7 +202,7 @@ Third-party API bridges, webhook handlers, service connectors, and platform inte
 | [Hermes Tweet](../../skills/hermes-tweet/) | 10 | — |
 | [Mirror and back up OpenClaw workspaces to your own storage with openclaw-workspace-sync](../../skills/mirror-and-back-up-openclaw-workspaces-to-your-own-storage-with-openclaw-workspace-sync/) | 8 | 295/wk |
 | [Mirror OpenClaw workspaces and stream encrypted backups with openclaw-workspace-sync](../../skills/mirror-openclaw-workspaces-and-stream-encrypted-backups-with-openclaw-workspace-sync/) | 8 | 295/wk |
-| [Aident Loadout](../../skills/aident-loadout/) | 6 | — |
+| [Aident Loadout](../../skills/aident-loadout/) | 6 | 3.1k/wk |
 | [Normalize international phone numbers into E.164 before CRM imports or messaging workflows](../../skills/normalize-international-phone-numbers-into-e164-before-crm-imports-or-messaging-workflows/) | — | 15.6M/wk |
 | [USDCtoFiat Cash-Out](../../skills/usdctofiat-cashout/) | — | 650/wk |
 | [Search and Book Hotels and Flights with MAQAMI Travel](../../skills/maqami-travel-booking/) | — | 428/wk |
@@ -217,6 +217,7 @@ Third-party API bridges, webhook handlers, service connectors, and platform inte
 | [Hourglyph Daily Puzzle](../../skills/hourglyph-daily/) | — | — |
 | [JMT x402 Agent Tools](../../skills/jmt-x402-agent-tools/) | — | — |
 | [Linear Issue Triage & Sprint Planner](../../skills/linear-issue-triage-sprint-planner-2/) | — | — |
+| [Openhook](../../skills/openhook/) | — | — |
 | [Plaid Financial Data Connector](../../skills/plaid-financial-data-connector/) | — | — |
 | [RouterBase API Integration](../../skills/routerbase-api-integration/) | — | — |
 | [Verify a Nano (XNO) Payment](../../skills/verify-nano-payment/) | — | — |

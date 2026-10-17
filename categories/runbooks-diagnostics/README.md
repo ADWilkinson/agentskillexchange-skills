@@ -127,6 +127,7 @@ Incident response, troubleshooting guides, system diagnostics, and operational r
 | [Trace which local processes and hosts are consuming bandwidth during incidents with bandwhich](../../skills/trace-which-local-processes-and-hosts-are-consuming-bandwidth-during-incidents-with-bandwhich/) | 11.7k | — |
 | [Load-test an HTTP endpoint with a fast reproducible CLI probe using oha](../../skills/load-test-an-http-endpoint-with-a-fast-reproducible-cli-probe-using-oha/) | 10.2k | — |
 | [Triage production log spikes and incidents from the terminal with lnav](../../skills/triage-production-log-spikes-and-incidents-from-the-terminal-with-lnav/) | 10.2k | — |
+| [Triage failed Ruby automation jobs with Resque](../../skills/triage-failed-ruby-automation-jobs-with-resque/) | 9.5k | — |
 | [Analyze Kubernetes cluster issues through MCP with K8sGPT](../../skills/analyze-kubernetes-cluster-issues-through-mcp-with-k8sgpt/) | 7.7k | — |
 | [Audit coding-agent instruction drift and verifier health with Waza](../../skills/audit-coding-agent-instruction-drift-and-verifier-health-with-waza/) | 7.3k | — |
 | [Swap a local service into a live Kubernetes environment to debug real cluster traffic before rollout with Telepresence](../../skills/swap-a-local-service-into-a-live-kubernetes-environment-to-debug-real-cluster-traffic-before-rollout-with-telepresence/) | 7.2k | — |
@@ -214,6 +215,7 @@ Incident response, troubleshooting guides, system diagnostics, and operational r
 | [Incident Response Playbook Runner](../../skills/incident-response-playbook-runner/) | — | — |
 | [Incident Timeline Builder](../../skills/incident-timeline-builder/) | — | — |
 | [Investigate backend-only WordPress performance bottlenecks](../../skills/investigate-backend-only-wordpress-performance-bottlenecks/) | — | — |
+| [Jira Import Doctor](../../skills/jira-import-doctor/) | — | — |
 | [Kubernetes CrashLoopBackOff Diagnoser](../../skills/k8s-crashloopbackoff-diagnoser/) | — | — |
 | [OutageDeck Dependency Outage Triage](../../skills/outagedeck-dependency-outage-triage/) | — | — |
 | [PagerDuty Event Orchestration Runbook](../../skills/pagerduty-event-orchestration-runbook/) | — | — |

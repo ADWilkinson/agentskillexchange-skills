@@ -1,8 +1,66 @@
 {
   "version": "2.0",
-  "total": 3149,
+  "total": 3154,
   "generated": "2026-10-17",
   "skills": [
+    {
+      "slug": "openhook",
+      "name": "Openhook",
+      "title": "Openhook",
+      "description": "Creates webhook inboxes, receives callbacks, and forwards events for AI agents with Openhook. Use when testing local webhook integrations, inspecting external callbacks, or waiting…",
+      "category": "Integrations & Connectors",
+      "framework": "MCP",
+      "verification": "listed",
+      "source_url": "https://github.com/openhook-dev/openhook-inbox",
+      "github_repo": "openhook-dev/openhook-inbox"
+    },
+    {
+      "slug": "jira-import-doctor",
+      "name": "Jira Import Doctor",
+      "title": "Jira Import Doctor",
+      "description": "Diagnose a failed or partial Jira CSV import from a local source CSV, one attempt's log, and explicit importer context. Separate file defects, unresolved…",
+      "category": "Runbooks & Diagnostics",
+      "framework": "Custom Agents",
+      "verification": "listed",
+      "source_url": "https://github.com/mozzie49/jira-import-doctor",
+      "github_repo": "mozzie49/jira-import-doctor"
+    },
+    {
+      "slug": "curlshot-website-screenshots-over-mcp",
+      "name": "CurlShot Website Screenshots Over MCP",
+      "title": "CurlShot Website Screenshots Over MCP",
+      "description": "Gives an agent a remote MCP server that takes screenshots of web pages: a public URL in, a PNG, JPEG, WebP, PDF or scrolling…",
+      "category": "Browser Automation",
+      "framework": "MCP",
+      "verification": "listed",
+      "source_url": "https://github.com/SergiuPogor/curlshot-mcp",
+      "github_repo": "sergiupogor/curlshot-mcp"
+    },
+    {
+      "slug": "resolve-coding-questions-with-firecrawl-developer-index",
+      "name": "Resolve coding questions from upstream evidence with Firecrawl Developer Index",
+      "title": "Resolve coding questions from upstream evidence with Firecrawl Developer Index",
+      "description": "Find public issues, merged fixes and API-contract passages with Firecrawl’s named Developer Index skill, then return a cited, version-aware answer.",
+      "category": "Research & Scraping",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "signals": {
+        "npm_weekly_downloads": 15401
+      },
+      "source_url": "https://github.com/firecrawl/cli/tree/main/skills/firecrawl-developer-index",
+      "github_repo": "firecrawl/cli"
+    },
+    {
+      "slug": "triage-failed-ruby-automation-jobs-with-resque",
+      "name": "Triage failed Ruby automation jobs with Resque",
+      "title": "Triage failed Ruby automation jobs with Resque",
+      "description": "Inspect a bounded set of Resque failures, correlate exception evidence and failure IDs, and prepare a recovery plan without retrying or deleting jobs.",
+      "category": "Runbooks & Diagnostics",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/resque/resque/blob/master/docs/FAILURE_IDS.md",
+      "github_repo": "resque/resque"
+    },
     {
       "slug": "suspend-and-resume-stateful-agent-sandbox-jobs-with-space",
       "name": "Suspend and resume stateful agent sandbox jobs with SPACE",
@@ -176,6 +234,9 @@
       "category": "Templates & Workflows",
       "framework": "Claude Code",
       "verification": "listed",
+      "signals": {
+        "github_stars": 4
+      },
       "source_url": "https://github.com/ITW-Creative-Works/workkit",
       "github_repo": "itw-creative-works/workkit"
     },
@@ -187,6 +248,9 @@
       "category": "Image & Creative Automation",
       "framework": "MCP",
       "verification": "listed",
+      "signals": {
+        "npm_weekly_downloads": 46
+      },
       "source_url": "https://github.com/agent-media-ai/agent-media",
       "github_repo": "agent-media-ai/agent-media"
     },
@@ -300,7 +364,8 @@
       "framework": "MCP",
       "verification": "listed",
       "signals": {
-        "github_stars": 6
+        "github_stars": 6,
+        "npm_weekly_downloads": 3114
       },
       "source_url": "https://github.com/Aident-AI/aident-skill",
       "github_repo": "aident-ai/aident-skill"

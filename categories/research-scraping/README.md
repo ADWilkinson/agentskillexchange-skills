@@ -126,6 +126,7 @@ Web research, data collection, content aggregation, and information gathering.
 | [Brave Search MCP Server for AI Web Search](../../skills/brave-search-mcp-server-ai-web-search/) | 854 | 19.2k/wk |
 | [Browse search and cost-audit local coding-agent histories before resuming or standardizing workflows with agentsview](../../skills/browse-search-and-cost-audit-local-coding-agent-histories-before-resuming-or-standardizing-workflows-with-agentsview/) | 774 | — |
 | [SerpAPI Answer Box Extractor](../../skills/serpapi-answer-box-extractor/) | 734 | — |
+| [Resolve coding questions from upstream evidence with Firecrawl Developer Index](../../skills/resolve-coding-questions-with-firecrawl-developer-index/) | 653 | 15.4k/wk |
 | [Search and resume past coding-agent sessions locally with exact handoff commands using Agent Sessions](../../skills/search-and-resume-past-coding-agent-sessions-locally-with-exact-handoff-commands-using-agent-sessions/) | 478 | — |
 | [Run evidence-first research investigations in Claude Code with Deepdive](../../skills/run-evidence-first-research-investigations-in-claude-code-with-deepdive/) | 393 | — |
 | [Run source-audited academic literature searches with Nature Academic Search](../../skills/run-source-audited-academic-literature-searches-with-nature-academic-search/) | 216 | — |
