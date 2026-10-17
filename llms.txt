@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-17
-# Total: 3154 skills
+# Total: 3155 skills
+
+## Goal Instruction Writer
+slug: goal-instruction-writer
+category: Templates & Workflows
+framework: Codex
+verification: Published
+description: Preview, draft, refine, and audit durable Goal instructions in Codex. Define observable acceptance evidence, bounded execution loops, checkpoints, drift controls, proportional verification, and explicit…
+url: https://agentskillexchange.com/skills/goal-instruction-writer/
 
 ## Openhook
 slug: openhook

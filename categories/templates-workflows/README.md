@@ -296,6 +296,7 @@ Project scaffolding, boilerplate generators, workflow templates, and starter kit
 | [Draft user-facing App Store release notes from git history with App Store Changelog](../../skills/draft-user-facing-app-store-release-notes-from-git-history-with-app-store-changelog/) | — | — |
 | [Five-Element Spec: Scope Before Coding](../../skills/five-element-spec/) | — | — |
 | [GitHub Actions Workflow Composer](../../skills/github-actions-workflow-composer-2/) | — | — |
+| [Goal Instruction Writer](../../skills/goal-instruction-writer/) | — | — |
 | [Incident Response Template Generator](../../skills/incident-response-template-generator/) | — | — |
 | [Keep GitHub wiki pages synced with recently merged code changes](../../skills/keep-github-wiki-pages-synced-with-recently-merged-code-changes/) | — | — |
 | [Makefile Workflow Generator](../../skills/makefile-workflow-generator/) | — | — |

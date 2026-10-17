@@ -2,8 +2,19 @@
   "schema": "codex-skills/1.0",
   "source": "https://agentskillexchange.com",
   "generated": "2026-10-17",
-  "total": 3154,
+  "total": 3155,
   "skills": [
+    {
+      "slug": "goal-instruction-writer",
+      "name": "Goal Instruction Writer",
+      "title": "Goal Instruction Writer",
+      "description": "Preview, draft, refine, and audit durable Goal instructions in Codex. Define observable acceptance evidence, bounded execution loops, checkpoints, drift controls, proportional verification, and explicit…",
+      "category": "Templates & Workflows",
+      "framework": "Codex",
+      "verification": "listed",
+      "source_url": "https://github.com/wu736139669/goal-instruction-writer",
+      "github_repo": "wu736139669/goal-instruction-writer"
+    },
     {
       "slug": "openhook",
       "name": "Openhook",

@@ -4,7 +4,7 @@
 
 ### Curated and trusted AI agent skills
 
-[![Published](https://img.shields.io/badge/published-3%2C154-6366f1?style=for-the-badge)](CATALOG.md)
+[![Published](https://img.shields.io/badge/published-3%2C155-6366f1?style=for-the-badge)](CATALOG.md)
 [![Industry%20Collections](https://img.shields.io/badge/industry--collections-15-14b8a6?style=for-the-badge)](industries/README.md)
 [![Categories](https://img.shields.io/badge/categories-17-0ea5e9?style=for-the-badge)](categories/README.md)
 [![Security%20Reviewed](https://img.shields.io/badge/security--reviewed-2%2C619-10b981?style=for-the-badge)](verification/)
@@ -12,7 +12,7 @@
 
 **[Catalog](CATALOG.md) · [Live Browse](https://agentskillexchange.com/browse-skills/) · [Categories](categories/README.md) · [Industry Collections](industries/README.md) · [Top Starred](TOP-STARS.md) · [Top Downloaded](TOP-DOWNLOADS.md) · [Submit a Skill](#submit-a-skill)**
 
-*3,154 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
+*3,155 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
 
 *Star this repo to keep the agent skill catalog handy and follow new additions.*
 
@@ -87,6 +87,7 @@ See the full overlay index in [industries/README.md](industries/README.md).
 
 | Skill | What it helps with | Stars | Category |
 |---|---|---:|---|
+| [Goal Instruction Writer](skills/goal-instruction-writer/) | Preview, draft, refine, and audit durable Goal instructions in Codex. Define observable acceptance evidence, bounded execution loops, checkpoints... | - | Templates & Workflows |
 | [Openhook](skills/openhook/) | Creates webhook inboxes, receives callbacks, and forwards events for AI agents with Openhook. Use when testing local webhook... | - | Integrations & Connectors |
 | [Jira Import Doctor](skills/jira-import-doctor/) | Diagnose a failed or partial Jira CSV import from a local source CSV, one attempt's log, and explicit... | - | Runbooks & Diagnostics |
 | [CurlShot Website Screenshots Over MCP](skills/curlshot-website-screenshots-over-mcp/) | Gives an agent a remote MCP server that takes screenshots of web pages: a public URL in, a... | - | Browser Automation |
@@ -96,7 +97,6 @@ See the full overlay index in [industries/README.md](industries/README.md).
 | [Model and verify bounded LP and MILP problems with NVIDIA cuOpt](skills/model-and-verify-bounded-lp-and-milp-problems-with-nvidia-cuopt/) | Use NVIDIA’s portable optimization skill to formulate a bounded LP or MILP, run cuOpt, and check solver status... | 3.6k | Developer Tools |
 | [Configure project-local behavior rules from operator corrections with Hookify](skills/configure-project-local-behavior-rules-with-hookify/) | Turn repeated Claude Code corrections into operator-confirmed local rules, with specific event matchers, warning or blocking actions, and... | 39.8k | Developer Tools |
 | [Review and validate project assumptions with Common Ground](skills/review-and-validate-project-assumptions-with-common-ground/) | Run Common Ground in Claude Code to surface project assumptions, confirm their evidence and confidence with the operator... | 11.9k | Developer Tools |
-| [Run Instagram caption and carousel drafting with Instagram Skills](skills/plan-and-draft-instagram-captions-and-carousels-with-instagram-skills/) | Transform campaign notes into Instagram captions and slide-by-slide carousel drafts, then review factual claims, voice, media order, and... | 455 | Content Writing & SEO |
 
 ---
 
@@ -104,6 +104,7 @@ See the full overlay index in [industries/README.md](industries/README.md).
 
 | Contributor | Skill | What it helps with | Category |
 |---|---|---|---|
+| [wu736139669](https://github.com/wu736139669) | [Goal Instruction Writer](skills/goal-instruction-writer/) | Preview, draft, refine, and audit durable Goal instructions in Codex. Define observable acceptance evidence, bounded execution loops, checkpoints... | Templates & Workflows |
 | [SergiuPogor](https://github.com/SergiuPogor) | [CurlShot Website Screenshots Over MCP](skills/curlshot-website-screenshots-over-mcp/) | Gives an agent a remote MCP server that takes screenshots of web pages: a public URL in, a... | Browser Automation |
 | [mozzie49](https://github.com/mozzie49) | [Jira Import Doctor](skills/jira-import-doctor/) | Diagnose a failed or partial Jira CSV import from a local source CSV, one attempt's log, and explicit... | Runbooks & Diagnostics |
 | [berkantay](https://github.com/berkantay) | [Openhook](skills/openhook/) | Creates webhook inboxes, receives callbacks, and forwards events for AI agents with Openhook. Use when testing local webhook... | Integrations & Connectors |
@@ -113,7 +114,6 @@ See the full overlay index in [industries/README.md](industries/README.md).
 | [yuvalsuede](https://github.com/yuvalsuede) | [Agent Media UGC Video](skills/agent-media-ugc-video/) | Use Agent Media when an agent needs to create captioned vertical UGC videos, narrated b-roll overlays, reusable characters... | Image & Creative Automation |
 | [jiveshkalra](https://github.com/jiveshkalra) | [Reach Google Business Profile Optimization](skills/reach-google-business-profile-optimization/) | Audit and fix Google Business Profile gaps through the Reach Google Business Profile MCP (GBP MCP). Use get_recommendations... | Content Writing & SEO |
 | [KKKKhazix](https://github.com/KKKKhazix) | [AIHOT News](skills/aihot-news/) | Retrieve Chinese AI news, recent topic search, event timelines and briefs from AIHOT's anonymous read-only Agent API. Use... | Research & Scraping |
-| [IRONICBo](https://github.com/IRONICBo) | [Jet Browser](skills/jet-browser/) | Install, verify, integrate, or troubleshoot the Jet Browser WPE WebKit runtime for isolated agent browser sessions with ordered... | Browser Automation |
 
 ---
 
@@ -132,7 +132,7 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 | [Run a Docling API server for agent document conversion](skills/run-a-docling-api-server-for-agent-document-conversion/) | Deploy Docling API so agents can convert PDFs, Office files, images, HTML, CSV, and other documents into Markdown... | 1.7k | Data Extraction & Transformation |
 | [Compile agent-ready documentation bundles with docmd](skills/compile-agent-ready-documentation-bundles-with-docmd/) | Use docmd when a project needs one Markdown documentation source to produce a site, search index, llms.txt, MCP... | 2.5k | Library & API Reference |
 | [Run agentic quality engineering checks with Agentic QE](skills/run-agentic-quality-engineering-checks-with-agentic-qe/) | Configure Agentic QE in a repository so a coding agent can generate tests, inspect coverage gaps, investigate flaky... | 495 | Code Quality & Review |
-| [Build TypeScript spreadsheet import and export workflows with hucre](skills/build-typescript-spreadsheet-import-and-export-workflows-with-hucre/) | Use hucre when a coding agent needs to add zero-dependency XLSX, CSV, ODS, JSON, NDJSON, or XML spreadsheet... | 2.2k | Data Extraction & Transformation |
+| [Audit and fix website QA issues with Squirrelscan](skills/audit-and-fix-website-qa-issues-with-squirrelscan/) | Run Squirrelscan from a coding agent to audit SEO, performance, security, accessibility, and agent-experience issues, then feed exact... | 272 | Security & Verification |
 
 ---
 
@@ -141,7 +141,7 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 | | Category | Skills | What's inside |
 |---|---|---:|---|
 | 🛠️ | [**Developer Tools**](categories/developer-tools/) | 528 | CLI tools, scaffolders, dev environment setup |
-| 📄 | [**Templates & Workflows**](categories/templates-workflows/) | 266 | Scaffolders, boilerplate generators, workflow templates |
+| 📄 | [**Templates & Workflows**](categories/templates-workflows/) | 267 | Scaffolders, boilerplate generators, workflow templates |
 | 🔒 | [**Security & Verification**](categories/security-verification/) | 257 | Vulnerability scanning, auth setup, compliance |
 | 🔄 | [**Data Extraction & Transformation**](categories/data-extraction-transformation/) | 230 | ETL pipelines, parsing, format conversion |
 | ✅ | [**Code Quality & Review**](categories/code-quality-review/) | 207 | Linting, code review, test generators, coverage |
@@ -219,7 +219,7 @@ Every skill is backed by a real tool, repo, or package. New skills require real 
 
 | Tier | Count | Meaning |
 |------|------:|---|
-| 📋 **Published** | 3,154 | In the catalog — every skill is backed by a real tool, repo, or package |
+| 📋 **Published** | 3,155 | In the catalog — every skill is backed by a real tool, repo, or package |
 | 🛡️ **Security Reviewed** | 2,619 | Scanned for malicious patterns, prompt injection, and unsafe instructions |
 
 More: [verification/](verification/)

@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3154 published skills** across **17 categories** · 2,619 security reviewed · Updated 2026-10-17 07:26 UTC
+> **3155 published skills** across **17 categories** · 2,619 security reviewed · Updated 2026-10-17 13:26 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -544,7 +544,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [Zinc Universal Checkout](skills/zinc-universal-checkout/) | Discover, buy, track, and return products across Amazon, Walmart, Target, Best Buy, eBay, and 50+ US retailers via… | Published | — | — |
 
 
-### 📄 Templates & Workflows (266 skills)
+### 📄 Templates & Workflows (267 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Templates%20%26%20Workflows) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Templates%20%26%20Workflows&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Templates%20%26%20Workflows&sort=downloads)
 
@@ -806,6 +806,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Temp
 | [Draft user-facing App Store release notes from git history with App Store Changelog](skills/draft-user-facing-app-store-release-notes-from-git-history-with-app-store-changelog/) | Turn commits since the last tag into concise App Store What's New bullets instead of hand-sifting raw git history. | Security Reviewed | — | — |
 | [Five-Element Spec: Scope Before Coding](skills/five-element-spec/) | Translate a vague request or GitHub issue into a concrete, testable spec using five structured elements (problem,… | Published | — | — |
 | [GitHub Actions Workflow Composer](skills/github-actions-workflow-composer-2/) | Composes GitHub Actions workflow YAML files from modular job templates, resolving action version pins and secret… | Security Reviewed | — | — |
+| [Goal Instruction Writer](skills/goal-instruction-writer/) | Preview, draft, refine, and audit durable Goal instructions in Codex. Define observable acceptance evidence, bounded… | Published | — | — |
 | [Incident Response Template Generator](skills/incident-response-template-generator/) | Creates structured incident response templates using the PagerDuty Events API v2, Jira REST API for ticket creation,… | Security Reviewed | — | — |
 | [Keep GitHub wiki pages synced with recently merged code changes](skills/keep-github-wiki-pages-synced-with-recently-merged-code-changes/) | This entry turns GitHub Next's Agentic Wiki Writer into a documentation-maintenance workflow. The agent watches for… | Security Reviewed | — | — |
 | [Makefile Workflow Generator](skills/makefile-workflow-generator/) | Generates project Makefiles with standard targets using GNU Make syntax, autodeps pattern rules, and integration… | Security Reviewed | — | — |
