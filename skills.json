@@ -1,8 +1,33 @@
 {
   "version": "2.0",
-  "total": 3155,
+  "total": 3157,
   "generated": "2026-10-17",
   "skills": [
+    {
+      "slug": "answer-anthropic-documentation-questions-from-a-versioned-local-archive",
+      "name": "Answer Anthropic documentation questions from a versioned local archive",
+      "title": "Answer Anthropic documentation questions from a versioned local archive",
+      "description": "Use Claude Code to investigate one API, Claude Code or MCP question against a local documentation snapshot with paths, provenance and freshness limits.",
+      "category": "Library & API Reference",
+      "framework": "Claude Code",
+      "verification": "security_reviewed",
+      "signals": {
+        "github_stars": 154
+      },
+      "source_url": "https://github.com/thevibeworks/claude-code-docs",
+      "github_repo": "thevibeworks/claude-code-docs"
+    },
+    {
+      "slug": "migrate-spring-boot-35-applications-to-boot-4-with-staged-agent-checks",
+      "name": "Migrate Spring Boot 3.5 applications to Boot 4 with staged agent checks",
+      "title": "Migrate Spring Boot 3.5 applications to Boot 4 with staged agent checks",
+      "description": "Use the named Spring Boot migration skill to prepare a focused upgrade diff and verify dependency, configuration, JSON and startup behavior.",
+      "category": "Developer Tools",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/rrezartprebreza/spring-boot-skills/tree/main/skills/spring-boot-4/spring-boot-migration",
+      "github_repo": "rrezartprebreza/spring-boot-skills"
+    },
     {
       "slug": "goal-instruction-writer",
       "name": "Goal Instruction Writer",

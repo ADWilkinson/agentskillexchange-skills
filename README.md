@@ -4,7 +4,7 @@
 
 ### Curated and trusted AI agent skills
 
-[![Published](https://img.shields.io/badge/published-3%2C155-6366f1?style=for-the-badge)](CATALOG.md)
+[![Published](https://img.shields.io/badge/published-3%2C157-6366f1?style=for-the-badge)](CATALOG.md)
 [![Industry%20Collections](https://img.shields.io/badge/industry--collections-15-14b8a6?style=for-the-badge)](industries/README.md)
 [![Categories](https://img.shields.io/badge/categories-17-0ea5e9?style=for-the-badge)](categories/README.md)
 [![Security%20Reviewed](https://img.shields.io/badge/security--reviewed-2%2C621-10b981?style=for-the-badge)](verification/)
@@ -12,7 +12,7 @@
 
 **[Catalog](CATALOG.md) · [Live Browse](https://agentskillexchange.com/browse-skills/) · [Categories](categories/README.md) · [Industry Collections](industries/README.md) · [Top Starred](TOP-STARS.md) · [Top Downloaded](TOP-DOWNLOADS.md) · [Submit a Skill](#submit-a-skill)**
 
-*3,155 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
+*3,157 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
 
 *Star this repo to keep the agent skill catalog handy and follow new additions.*
 
@@ -87,6 +87,8 @@ See the full overlay index in [industries/README.md](industries/README.md).
 
 | Skill | What it helps with | Stars | Category |
 |---|---|---:|---|
+| [Answer Anthropic documentation questions from a versioned local archive](skills/answer-anthropic-documentation-questions-from-a-versioned-local-archive/) | Use Claude Code to investigate one API, Claude Code or MCP question against a local documentation snapshot with... | 154 | Library & API Reference |
+| [Migrate Spring Boot 3.5 applications to Boot 4 with staged agent checks](skills/migrate-spring-boot-35-applications-to-boot-4-with-staged-agent-checks/) | Use the named Spring Boot migration skill to prepare a focused upgrade diff and verify dependency, configuration, JSON... | 311 | Developer Tools |
 | [Goal Instruction Writer](skills/goal-instruction-writer/) | Preview, draft, refine, and audit durable Goal instructions in Codex. Define observable acceptance evidence, bounded execution loops, checkpoints... | - | Templates & Workflows |
 | [Openhook](skills/openhook/) | Creates webhook inboxes, receives callbacks, and forwards events for AI agents with Openhook. Use when testing local webhook... | - | Integrations & Connectors |
 | [Jira Import Doctor](skills/jira-import-doctor/) | Diagnose a failed or partial Jira CSV import from a local source CSV, one attempt's log, and explicit... | - | Runbooks & Diagnostics |
@@ -95,8 +97,6 @@ See the full overlay index in [industries/README.md](industries/README.md).
 | [Triage failed Ruby automation jobs with Resque](skills/triage-failed-ruby-automation-jobs-with-resque/) | Inspect a bounded set of Resque failures, correlate exception evidence and failure IDs, and prepare a recovery plan... | 9.5k | Runbooks & Diagnostics |
 | [Suspend and resume stateful agent sandbox jobs with SPACE](skills/suspend-and-resume-stateful-agent-sandbox-jobs-with-space/) | Run a stateful job in self-hosted SPACE, preserve sandbox state across suspension, and reconcile operation IDs, readiness and... | 1.1k | Security & Verification |
 | [Model and verify bounded LP and MILP problems with NVIDIA cuOpt](skills/model-and-verify-bounded-lp-and-milp-problems-with-nvidia-cuopt/) | Use NVIDIA’s portable optimization skill to formulate a bounded LP or MILP, run cuOpt, and check solver status... | 3.6k | Developer Tools |
-| [Configure project-local behavior rules from operator corrections with Hookify](skills/configure-project-local-behavior-rules-with-hookify/) | Turn repeated Claude Code corrections into operator-confirmed local rules, with specific event matchers, warning or blocking actions, and... | 39.8k | Developer Tools |
-| [Review and validate project assumptions with Common Ground](skills/review-and-validate-project-assumptions-with-common-ground/) | Run Common Ground in Claude Code to surface project assumptions, confirm their evidence and confidence with the operator... | 11.9k | Developer Tools |
 
 ---
 
@@ -140,7 +140,7 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 
 | | Category | Skills | What's inside |
 |---|---|---:|---|
-| 🛠️ | [**Developer Tools**](categories/developer-tools/) | 528 | CLI tools, scaffolders, dev environment setup |
+| 🛠️ | [**Developer Tools**](categories/developer-tools/) | 529 | CLI tools, scaffolders, dev environment setup |
 | 📄 | [**Templates & Workflows**](categories/templates-workflows/) | 267 | Scaffolders, boilerplate generators, workflow templates |
 | 🔒 | [**Security & Verification**](categories/security-verification/) | 257 | Vulnerability scanning, auth setup, compliance |
 | 🔄 | [**Data Extraction & Transformation**](categories/data-extraction-transformation/) | 230 | ETL pipelines, parsing, format conversion |
@@ -150,7 +150,7 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 | 📋 | [**Runbooks & Diagnostics**](categories/runbooks-diagnostics/) | 182 | Incident response, troubleshooting, system diagnostics |
 | 📊 | [**Monitoring & Alerts**](categories/monitoring-alerts/) | 162 | Metrics, alerting rules, observability |
 | 🔍 | [**Research & Scraping**](categories/research-scraping/) | 140 | Web research, content discovery, data collection |
-| 📚 | [**Library & API Reference**](categories/library-api-reference/) | 130 | SDK docs, API parsers, symbol resolvers |
+| 📚 | [**Library & API Reference**](categories/library-api-reference/) | 131 | SDK docs, API parsers, symbol resolvers |
 | 🌐 | [**Browser Automation**](categories/browser-automation/) | 128 | Web scraping, UI testing, headless browser control |
 | 📅 | [**Calendar, Email & Productivity**](categories/calendar-email-productivity/) | 128 | Email automation, calendar management, task coordination |
 | 🎨 | [**Image & Creative Automation**](categories/image-creative-automation/) | 117 | Image generation, asset processing, design automation |
@@ -219,7 +219,7 @@ Every skill is backed by a real tool, repo, or package. New skills require real 
 
 | Tier | Count | Meaning |
 |------|------:|---|
-| 📋 **Published** | 3,155 | In the catalog — every skill is backed by a real tool, repo, or package |
+| 📋 **Published** | 3,157 | In the catalog — every skill is backed by a real tool, repo, or package |
 | 🛡️ **Security Reviewed** | 2,621 | Scanned for malicious patterns, prompt injection, and unsafe instructions |
 
 More: [verification/](verification/)

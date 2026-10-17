@@ -1,7 +1,23 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-17
-# Total: 3155 skills
+# Total: 3157 skills
+
+## Answer Anthropic documentation questions from a versioned local archive
+slug: answer-anthropic-documentation-questions-from-a-versioned-local-archive
+category: Library & API Reference
+framework: Claude Code
+verification: Security Reviewed
+description: Use Claude Code to investigate one API, Claude Code or MCP question against a local documentation snapshot with paths, provenance and freshness limits.
+url: https://agentskillexchange.com/skills/answer-anthropic-documentation-questions-from-a-versioned-local-archive/
+
+## Migrate Spring Boot 3.5 applications to Boot 4 with staged agent checks
+slug: migrate-spring-boot-35-applications-to-boot-4-with-staged-agent-checks
+category: Developer Tools
+framework: Multi-Framework
+verification: Security Reviewed
+description: Use the named Spring Boot migration skill to prepare a focused upgrade diff and verify dependency, configuration, JSON and startup behavior.
+url: https://agentskillexchange.com/skills/migrate-spring-boot-35-applications-to-boot-4-with-staged-agent-checks/
 
 ## Goal Instruction Writer
 slug: goal-instruction-writer

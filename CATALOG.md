@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3155 published skills** across **17 categories** · 2,621 security reviewed · Updated 2026-10-17 13:26 UTC
+> **3157 published skills** across **17 categories** · 2,621 security reviewed · Updated 2026-10-17 19:26 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -8,7 +8,7 @@
 
 ## Skills by Category
 
-### 🛠️ Developer Tools (528 skills)
+### 🛠️ Developer Tools (529 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=downloads)
 
@@ -477,6 +477,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [Run resource-constrained terminal coding sessions with hax](skills/run-resource-constrained-terminal-coding-sessions-with-hax/) | Use hax as a lightweight terminal-native coding agent for local-model, provider-backed, or Unix-composed code… | Security Reviewed | 321 | — |
 | [Reduce agent terminal noise with OMNI](skills/reduce-agent-terminal-noise-with-omni/) | Use OMNI to distill noisy terminal output before coding agents read it while preserving recoverable raw logs for… | Security Reviewed | 319 | — |
 | [Run declarative multi-agent CLI workflows with Comanda](skills/run-declarative-multi-agent-cli-workflows-with-comanda/) | Turns repeatable AI work into versioned YAML pipelines that can call Claude Code, Codex, Gemini CLI, Kimi Code, API… | Security Reviewed | 315 | — |
+| [Migrate Spring Boot 3.5 applications to Boot 4 with staged agent checks](skills/migrate-spring-boot-35-applications-to-boot-4-with-staged-agent-checks/) | Use the named Spring Boot migration skill to prepare a focused upgrade diff and verify dependency, configuration,… | Security Reviewed | 311 | — |
 | [Connect RStudio to MCP Agents with ClaudeR](skills/connect-rstudio-to-mcp-agents-with-clauder/) | Use ClaudeR to expose an active RStudio session to MCP-capable coding and research agents for R execution, plots,… | Security Reviewed | 305 | — |
 | [Run Autoprompt coordination loops across coding agents](skills/run-autoprompt-coordination-loops-across-coding-agents/) | Use Autoprompt when an operator wants a coding agent to turn one goal into a planned, delegated, reviewed, and… | Security Reviewed | 293 | 122/wk |
 | [Install focused Claude Code workflow plugins from Claude Night Market](skills/install-focused-claude-code-workflow-plugins-from-claude-night-market/) | Review and install only the Claude Night Market plugins needed for a specific Claude Code workflow, such as PR prep,… | Security Reviewed | 291 | — |
@@ -2437,7 +2438,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Rese
 | [Xquik X Actors on Apify](skills/xquik-apify-x-actors/) | Run Xquik's public Apify Actors for X tweet collection, timelines, search, followers, lists, communities, and… | Published | — | — |
 
 
-### 📚 Library & API Reference (130 skills)
+### 📚 Library & API Reference (131 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Library%20%26%20API%20Reference) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Library%20%26%20API%20Reference&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Library%20%26%20API%20Reference&sort=downloads)
 
@@ -2526,6 +2527,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Libr
 | [Validate JSON data and config files against schemas with ajv-cli](skills/validate-json-data-and-config-files-against-schemas-with-ajv-cli/) | Run schema checks from the shell or CI so malformed JSON, JSON5, or YAML inputs fail before they reach downstream… | Security Reviewed | 308 | 335.3k/wk |
 | [Python Docstring Extractor](skills/python-docstring-extractor/) | Extracts and indexes Python module documentation using ast.parse and docstring_parser library. Supports Google,… | Security Reviewed | 266 | — |
 | [Resolve and validate OpenAPI specs with remote refs before client generation or review with Prance](skills/resolve-and-validate-openapi-specs-with-remote-refs-before-client-generation-or-review-with-prance/) | Validate an OpenAPI document, resolve external references, and emit a clean compiled spec before codegen or contract… | Security Reviewed | 261 | — |
+| [Answer Anthropic documentation questions from a versioned local archive](skills/answer-anthropic-documentation-questions-from-a-versioned-local-archive/) | Use Claude Code to investigate one API, Claude Code or MCP question against a local documentation snapshot with… | Security Reviewed | 154 | — |
 | [GitHub REST API Paginator Library](skills/github-rest-api-paginator-library/) | Provides a typed pagination wrapper for the GitHub REST API using Octokit.js and the @octokit/plugin-paginate-rest… | Security Reviewed | 58 | 26.7M/wk |
 | [Linkup JS SDK for Sourced Web Search and Fetch](skills/linkup-js-sdk-sourced-web-search-fetch/) | Linkup's JS SDK wraps the Linkup API for sourced web search and clean content fetching. It gives agents a maintained… | Security Reviewed | 4 | 30.8k/wk |
 | [Use 404.directory](skills/use-404-directory/) | Use the public 404.directory MCP server to search current official OpenAI, Microsoft Learn, AWS, and Cloudflare… | Published | 1 | 450/wk |

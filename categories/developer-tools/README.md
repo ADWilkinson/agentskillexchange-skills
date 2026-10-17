@@ -503,6 +503,7 @@ CLI helpers, dev environment setup, productivity utilities, and developer workfl
 | [Run resource-constrained terminal coding sessions with hax](../../skills/run-resource-constrained-terminal-coding-sessions-with-hax/) | 321 | — |
 | [Reduce agent terminal noise with OMNI](../../skills/reduce-agent-terminal-noise-with-omni/) | 319 | — |
 | [Run declarative multi-agent CLI workflows with Comanda](../../skills/run-declarative-multi-agent-cli-workflows-with-comanda/) | 315 | — |
+| [Migrate Spring Boot 3.5 applications to Boot 4 with staged agent checks](../../skills/migrate-spring-boot-35-applications-to-boot-4-with-staged-agent-checks/) | 311 | — |
 | [Connect RStudio to MCP Agents with ClaudeR](../../skills/connect-rstudio-to-mcp-agents-with-clauder/) | 305 | — |
 | [Run Autoprompt coordination loops across coding agents](../../skills/run-autoprompt-coordination-loops-across-coding-agents/) | 293 | 122/wk |
 | [Install focused Claude Code workflow plugins from Claude Night Market](../../skills/install-focused-claude-code-workflow-plugins-from-claude-night-market/) | 291 | — |
