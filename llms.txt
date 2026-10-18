@@ -15,7 +15,7 @@ url: https://agentskillexchange.com/skills/answer-anthropic-documentation-questi
 slug: migrate-spring-boot-35-applications-to-boot-4-with-staged-agent-checks
 category: Developer Tools
 framework: Multi-Framework
-verification: Security Reviewed
+verification: Published
 description: Use the named Spring Boot migration skill to prepare a focused upgrade diff and verify dependency, configuration, JSON and startup behavior.
 url: https://agentskillexchange.com/skills/migrate-spring-boot-35-applications-to-boot-4-with-staged-agent-checks/
 

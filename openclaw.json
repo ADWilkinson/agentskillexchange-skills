@@ -22,7 +22,7 @@
       "description": "Use the named Spring Boot migration skill to prepare a focused upgrade diff and verify dependency, configuration, JSON and startup behavior.",
       "category": "Developer Tools",
       "framework": "Multi-Framework",
-      "verification": "security_reviewed",
+      "verification": "listed",
       "source_url": "https://github.com/rrezartprebreza/spring-boot-skills/tree/main/skills/spring-boot-4/spring-boot-migration",
       "github_repo": "rrezartprebreza/spring-boot-skills"
     },

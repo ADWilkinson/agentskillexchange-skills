@@ -2,7 +2,7 @@
 name: "Migrate Spring Boot 3.5 applications to Boot 4 with staged agent checks"
 slug: "migrate-spring-boot-35-applications-to-boot-4-with-staged-agent-checks"
 description: "Use the named Spring Boot migration skill to prepare a focused upgrade diff and verify dependency, configuration, JSON and startup behavior."
-verification: "security_reviewed"
+verification: "listed"
 source: "https://github.com/rrezartprebreza/spring-boot-skills/tree/main/skills/spring-boot-4/spring-boot-migration"
 author: "rrezartprebreza"
 publisher_type: "community"

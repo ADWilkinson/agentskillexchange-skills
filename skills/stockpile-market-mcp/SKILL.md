@@ -2,11 +2,12 @@
 name: "Stockpile Market MCP"
 slug: "stockpile-market-mcp"
 description: "Autonomous e-commerce operations, store inventory curation, collectible valuations, and order fulfillment via Stockpile MCP."
+verification: "listed"
+source: "https://github.com/casualbrooks/mcp-stockpile"
 category: "Integrations & Connectors"
 framework: "Multi-Framework"
-verification: listed
-license: MIT
-source: "https://github.com/casualbrooks/mcp-stockpile"
+tool_ecosystem:
+  github_repo: "casualbrooks/mcp-stockpile"
 ---
 
 # Stockpile Market MCP
@@ -109,3 +110,9 @@ docker run -i --rm -e STOCKPILE_API_KEY="${STOCKPILE_API_KEY:?Set STOCKPILE_API_
 Get your agent credentials at [https://stockpile.market/agents?tab=api](https://stockpile.market/agents?tab=api).
 
 After connecting, start with `list_my_stores` and `get_store_limits` to verify authenticated access without changing inventory. If authentication fails, correct the local server environment and reconnect; do not print the key or retry consequential operations automatically.
+
+## Installation
+
+No source-backed install or usage instructions could be extracted automatically. Review the upstream project before running this skill in a sensitive workflow.
+
+- Source: https://github.com/casualbrooks/mcp-stockpile
