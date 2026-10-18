@@ -1,8 +1,30 @@
 {
   "version": "2.0",
-  "total": 3159,
+  "total": 3161,
   "generated": "2026-10-18",
   "skills": [
+    {
+      "slug": "solidping-uptime-monitoring",
+      "name": "SolidPing Uptime Monitoring",
+      "title": "SolidPing Uptime Monitoring",
+      "description": "Manage SolidPing uptime monitoring from a coding agent through the SolidPing MCP server: list and create checks across 40+ check types, read results and…",
+      "category": "Monitoring & Alerts",
+      "framework": "Claude Code",
+      "verification": "listed",
+      "source_url": "https://github.com/fclairamb/solidping-plugin",
+      "github_repo": "fclairamb/solidping-plugin"
+    },
+    {
+      "slug": "healthcare-job-search-carejobs-now",
+      "name": "Healthcare Job Search (US) with CareJobs.Now",
+      "title": "Healthcare Job Search (US) with CareJobs.Now",
+      "description": "Lets an agent find open US healthcare jobs and the hourly pay employers post, through the free CareJobs.Now remote MCP server or its public…",
+      "category": "Library & API Reference",
+      "framework": "MCP",
+      "verification": "listed",
+      "source_url": "https://github.com/yumaheymans/carejobs-mcp/tree/main/skills/healthcare-job-search",
+      "github_repo": "yumaheymans/carejobs-mcp"
+    },
     {
       "slug": "stockpile-market-mcp",
       "name": "Stockpile Market MCP",

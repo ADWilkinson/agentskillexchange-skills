@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3159 published skills** across **17 categories** · 2,621 security reviewed · Updated 2026-10-18 13:26 UTC
+> **3161 published skills** across **17 categories** · 2,621 security reviewed · Updated 2026-10-18 19:26 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -2121,7 +2121,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Runb
 | [Tune Supabase Postgres queries, indexing, and RLS with Supabase Postgres Best Practices](skills/tune-supabase-postgres-queries-indexing-and-rls-with-supabase-postgres-best-practices/) | Review Supabase Postgres work for query performance, schema design, indexing, connection handling, and RLS pitfalls… | Security Reviewed | — | — |
 
 
-### 📊 Monitoring & Alerts (162 skills)
+### 📊 Monitoring & Alerts (163 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Monitoring%20%26%20Alerts) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Monitoring%20%26%20Alerts&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Monitoring%20%26%20Alerts&sort=downloads)
 
@@ -2286,6 +2286,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Moni
 | [New Relic NRQL Query Agent](skills/new-relic-nrql-query-agent/) | Executes NRQL queries against New Relic's GraphQL NerdGraph API for application performance monitoring. Generates… | Security Reviewed | — | — |
 | [New Relic SLO Compliance Monitor](skills/new-relic-slo-compliance-monitor/) | Tracks SLO compliance using the New Relic NerdGraph GraphQL API and NRQL queries. Calculates error budgets, burn… | Security Reviewed | — | — |
 | [OpenTelemetry Trace Aggregator](skills/opentelemetry-trace-aggregator/) | Aggregates OpenTelemetry trace spans from Jaeger and Zipkin backends into unified flame graphs. Uses the OTLP gRPC… | Security Reviewed | — | — |
+| [SolidPing Uptime Monitoring](skills/solidping-uptime-monitoring/) | Manage SolidPing uptime monitoring from a coding agent through the SolidPing MCP server: list and create checks… | Published | — | — |
 | [StatsD Metrics Aggregation Pipeline](skills/statsd-metrics-aggregation-pipeline/) | Configures StatsD metric collection with custom aggregation rules and flush intervals. Routes metrics to Graphite… | Published | — | — |
 | [Uptime Robot Multi-Check Coordinator](skills/uptime-robot-multi-check-coordinator/) | Manages bulk uptime monitoring via the Uptime Robot API v2. Creates HTTP, keyword, and port monitors with alert… | Published | — | — |
 | [Uptime Robot Status Page Webhook Alerter](skills/uptime-robot-status-page-webhook-alerter/) | Integrates with the Uptime Robot API to monitor status page changes and push webhook alerts to Slack or PagerDuty.… | Published | — | — |
@@ -2440,7 +2441,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Rese
 | [Xquik X Actors on Apify](skills/xquik-apify-x-actors/) | Run Xquik's public Apify Actors for X tweet collection, timelines, search, followers, lists, communities, and… | Published | — | — |
 
 
-### 📚 Library & API Reference (131 skills)
+### 📚 Library & API Reference (132 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Library%20%26%20API%20Reference) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Library%20%26%20API%20Reference&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Library%20%26%20API%20Reference&sort=downloads)
 
@@ -2539,6 +2540,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Libr
 | [AShareHub Chinese Market Data](skills/asharehub/) | Query Chinese A-share, ETF, index, financial statement, valuation, capital-flow, and technical-indicator data… | Published | — | — |
 | [AsyncAPI Event Catalog Builder](skills/asyncapi-event-catalog-builder/) | Generates event-driven architecture documentation from AsyncAPI 3.0 specifications. Uses the AsyncAPI parser-js… | Published | — | — |
 | [AsyncAPI Event Catalog Generator](skills/asyncapi-event-catalog-generator/) | Parses AsyncAPI 2.x/3.x specifications to generate event-driven architecture catalogs using the AsyncAPI Generator.… | Published | — | — |
+| [Healthcare Job Search (US) with CareJobs.Now](skills/healthcare-job-search-carejobs-now/) | Lets an agent find open US healthcare jobs and the hourly pay employers post, through the free CareJobs.Now remote… | Published | — | — |
 | [Implement, review, and optimize SwiftUI code with trace-backed diagnostics](skills/implement-review-and-optimize-swiftui-code-with-trace-backed-diagnostics/) | Guide SwiftUI implementation and refactoring with current Apple patterns, then analyze Instruments traces to… | Security Reviewed | — | — |
 | [MDN Web API Reference Fetcher](skills/mdn-web-api-reference-fetcher/) | Fetches and indexes Mozilla Developer Network Web API documentation using the MDN Yari content API. Provides… | Security Reviewed | — | — |
 | [MDN Web Docs Fetcher](skills/mdn-web-docs-fetcher/) | Queries the MDN Web Docs content API (Yari) and the MDN search index to retrieve browser compatibility data, Web API… | Security Reviewed | — | — |

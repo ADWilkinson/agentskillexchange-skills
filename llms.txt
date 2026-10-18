@@ -1,7 +1,23 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-18
-# Total: 3159 skills
+# Total: 3161 skills
+
+## SolidPing Uptime Monitoring
+slug: solidping-uptime-monitoring
+category: Monitoring & Alerts
+framework: Claude Code
+verification: Published
+description: Manage SolidPing uptime monitoring from a coding agent through the SolidPing MCP server: list and create checks across 40+ check types, read results and…
+url: https://agentskillexchange.com/skills/solidping-uptime-monitoring/
+
+## Healthcare Job Search (US) with CareJobs.Now
+slug: healthcare-job-search-carejobs-now
+category: Library & API Reference
+framework: MCP
+verification: Published
+description: Lets an agent find open US healthcare jobs and the hourly pay employers post, through the free CareJobs.Now remote MCP server or its public…
+url: https://agentskillexchange.com/skills/healthcare-job-search-carejobs-now/
 
 ## Stockpile Market MCP
 slug: stockpile-market-mcp

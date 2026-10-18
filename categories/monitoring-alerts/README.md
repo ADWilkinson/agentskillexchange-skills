@@ -199,6 +199,7 @@ Metrics collection, alerting rules, observability setup, and system monitoring.
 | [New Relic NRQL Query Agent](../../skills/new-relic-nrql-query-agent/) | — | — |
 | [New Relic SLO Compliance Monitor](../../skills/new-relic-slo-compliance-monitor/) | — | — |
 | [OpenTelemetry Trace Aggregator](../../skills/opentelemetry-trace-aggregator/) | — | — |
+| [SolidPing Uptime Monitoring](../../skills/solidping-uptime-monitoring/) | — | — |
 | [StatsD Metrics Aggregation Pipeline](../../skills/statsd-metrics-aggregation-pipeline/) | — | — |
 | [Uptime Robot Multi-Check Coordinator](../../skills/uptime-robot-multi-check-coordinator/) | — | — |
 | [Uptime Robot Status Page Webhook Alerter](../../skills/uptime-robot-status-page-webhook-alerter/) | — | — |
