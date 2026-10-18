@@ -12,6 +12,8 @@ framework: "Codex"
 tool_ecosystem:
   github_repo: "roy-tong/AgentMeasure"
   github_stars: 218
+  npm_package: "@agentmeasure/mcp"
+  npm_weekly_downloads: 0
 ---
 
 # Audit Codex session duplicates and retry chains with AgentMeasure

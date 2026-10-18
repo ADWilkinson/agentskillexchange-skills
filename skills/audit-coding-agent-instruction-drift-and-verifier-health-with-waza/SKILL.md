@@ -12,6 +12,8 @@ framework: "Multi-Framework"
 tool_ecosystem:
   github_repo: "tw93/Waza"
   github_stars: 7307
+  npm_package: "@tw93/waza"
+  npm_weekly_downloads: 0
 ---
 
 # Audit coding-agent instruction drift and verifier health with Waza
