@@ -51,7 +51,7 @@ npm exec --package=skills@1.5.7 -- skills add agentskillexchange/skills --skill 
 
 ## Skill of the Day
 
-**[Run continuous workflow agents with AutoGPT](skills/run-continuous-workflow-agents-with-autogpt/)** — Self-host AutoGPT to build, test, deploy, and operate continuous AI agents for repeatable multi-step workflows.
+**[MarkItDown Document-to-Markdown Converter by Microsoft](skills/markitdown-document-to-markdown-converter-microsoft/)** — MarkItDown is a Python utility by Microsoft that converts PDF, Word, PowerPoint, Excel, images, audio, HTML, and other files into Markdown for LLM consumption. It preserves headings, lists,…
 
 _Rotates daily across downloaded, starred, recent, verified, and industry-curated skills._
 
