@@ -2,8 +2,30 @@
   "schema": "openclaw-skills/1.0",
   "source": "https://agentskillexchange.com",
   "generated": "2026-10-18",
-  "total": 3157,
+  "total": 3159,
   "skills": [
+    {
+      "slug": "stockpile-market-mcp",
+      "name": "Stockpile Market MCP",
+      "title": "Stockpile Market MCP",
+      "description": "Autonomous e-commerce operations, store inventory curation, collectible valuations, and order fulfillment via Stockpile MCP.",
+      "category": "Integrations & Connectors",
+      "framework": "Multi-Framework",
+      "verification": "listed",
+      "source_url": "https://github.com/casualbrooks/mcp-stockpile",
+      "github_repo": "casualbrooks/mcp-stockpile"
+    },
+    {
+      "slug": "generate-dated-a-share-research-reports-with-tradingagents-ashare",
+      "name": "Generate dated A-share research reports with TradingAgents-AShare",
+      "title": "Generate dated A-share research reports with TradingAgents-AShare",
+      "description": "Submit a bounded A-share research job from OpenClaw, follow its status, and summarize the resulting analyst debate and risk report for human review.",
+      "category": "Research & Scraping",
+      "framework": "OpenClaw",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/KylinMountain/TradingAgents-AShare/tree/main/skills/tradingagents-analysis",
+      "github_repo": "KylinMountain/TradingAgents-AShare"
+    },
     {
       "slug": "answer-anthropic-documentation-questions-from-a-versioned-local-archive",
       "name": "Answer Anthropic documentation questions from a versioned local archive",

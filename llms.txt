@@ -1,7 +1,23 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-18
-# Total: 3157 skills
+# Total: 3159 skills
+
+## Stockpile Market MCP
+slug: stockpile-market-mcp
+category: Integrations & Connectors
+framework: Multi-Framework
+verification: Published
+description: Autonomous e-commerce operations, store inventory curation, collectible valuations, and order fulfillment via Stockpile MCP.
+url: https://agentskillexchange.com/skills/stockpile-market-mcp/
+
+## Generate dated A-share research reports with TradingAgents-AShare
+slug: generate-dated-a-share-research-reports-with-tradingagents-ashare
+category: Research & Scraping
+framework: OpenClaw
+verification: Security Reviewed
+description: Submit a bounded A-share research job from OpenClaw, follow its status, and summarize the resulting analyst debate and risk report for human review.
+url: https://agentskillexchange.com/skills/generate-dated-a-share-research-reports-with-tradingagents-ashare/
 
 ## Answer Anthropic documentation questions from a versioned local archive
 slug: answer-anthropic-documentation-questions-from-a-versioned-local-archive

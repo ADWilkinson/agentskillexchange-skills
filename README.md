@@ -4,7 +4,7 @@
 
 ### Curated and trusted AI agent skills
 
-[![Published](https://img.shields.io/badge/published-3%2C157-6366f1?style=for-the-badge)](CATALOG.md)
+[![Published](https://img.shields.io/badge/published-3%2C159-6366f1?style=for-the-badge)](CATALOG.md)
 [![Industry%20Collections](https://img.shields.io/badge/industry--collections-15-14b8a6?style=for-the-badge)](industries/README.md)
 [![Categories](https://img.shields.io/badge/categories-17-0ea5e9?style=for-the-badge)](categories/README.md)
 [![Security%20Reviewed](https://img.shields.io/badge/security--reviewed-2%2C621-10b981?style=for-the-badge)](verification/)
@@ -12,7 +12,7 @@
 
 **[Catalog](CATALOG.md) · [Live Browse](https://agentskillexchange.com/browse-skills/) · [Categories](categories/README.md) · [Industry Collections](industries/README.md) · [Top Starred](TOP-STARS.md) · [Top Downloaded](TOP-DOWNLOADS.md) · [Submit a Skill](#submit-a-skill)**
 
-*3,157 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
+*3,159 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
 
 *Star this repo to keep the agent skill catalog handy and follow new additions.*
 
@@ -87,6 +87,8 @@ See the full overlay index in [industries/README.md](industries/README.md).
 
 | Skill | What it helps with | Stars | Category |
 |---|---|---:|---|
+| [Stockpile Market MCP](skills/stockpile-market-mcp/) | Autonomous e-commerce operations, store inventory curation, collectible valuations, and order fulfillment via Stockpile MCP | - | Integrations & Connectors |
+| [Generate dated A-share research reports with TradingAgents-AShare](skills/generate-dated-a-share-research-reports-with-tradingagents-ashare/) | Submit a bounded A-share research job from OpenClaw, follow its status, and summarize the resulting analyst debate and... | 868 | Research & Scraping |
 | [Answer Anthropic documentation questions from a versioned local archive](skills/answer-anthropic-documentation-questions-from-a-versioned-local-archive/) | Use Claude Code to investigate one API, Claude Code or MCP question against a local documentation snapshot with... | 154 | Library & API Reference |
 | [Migrate Spring Boot 3.5 applications to Boot 4 with staged agent checks](skills/migrate-spring-boot-35-applications-to-boot-4-with-staged-agent-checks/) | Use the named Spring Boot migration skill to prepare a focused upgrade diff and verify dependency, configuration, JSON... | 311 | Developer Tools |
 | [Goal Instruction Writer](skills/goal-instruction-writer/) | Preview, draft, refine, and audit durable Goal instructions in Codex. Define observable acceptance evidence, bounded execution loops, checkpoints... | - | Templates & Workflows |
@@ -95,8 +97,6 @@ See the full overlay index in [industries/README.md](industries/README.md).
 | [CurlShot Website Screenshots Over MCP](skills/curlshot-website-screenshots-over-mcp/) | Gives an agent a remote MCP server that takes screenshots of web pages: a public URL in, a... | - | Browser Automation |
 | [Resolve coding questions from upstream evidence with Firecrawl Developer Index](skills/resolve-coding-questions-with-firecrawl-developer-index/) | Find public issues, merged fixes and API-contract passages with Firecrawl’s named Developer Index skill, then return a cited... | 653 | Research & Scraping |
 | [Triage failed Ruby automation jobs with Resque](skills/triage-failed-ruby-automation-jobs-with-resque/) | Inspect a bounded set of Resque failures, correlate exception evidence and failure IDs, and prepare a recovery plan... | 9.5k | Runbooks & Diagnostics |
-| [Suspend and resume stateful agent sandbox jobs with SPACE](skills/suspend-and-resume-stateful-agent-sandbox-jobs-with-space/) | Run a stateful job in self-hosted SPACE, preserve sandbox state across suspension, and reconcile operation IDs, readiness and... | 1.1k | Security & Verification |
-| [Model and verify bounded LP and MILP problems with NVIDIA cuOpt](skills/model-and-verify-bounded-lp-and-milp-problems-with-nvidia-cuopt/) | Use NVIDIA’s portable optimization skill to formulate a bounded LP or MILP, run cuOpt, and check solver status... | 3.6k | Developer Tools |
 
 ---
 
@@ -104,6 +104,7 @@ See the full overlay index in [industries/README.md](industries/README.md).
 
 | Contributor | Skill | What it helps with | Category |
 |---|---|---|---|
+| [casualbrooks](https://github.com/casualbrooks) | [Stockpile Market MCP](skills/stockpile-market-mcp/) | Autonomous e-commerce operations, store inventory curation, collectible valuations, and order fulfillment via Stockpile MCP | Integrations & Connectors |
 | [wu736139669](https://github.com/wu736139669) | [Goal Instruction Writer](skills/goal-instruction-writer/) | Preview, draft, refine, and audit durable Goal instructions in Codex. Define observable acceptance evidence, bounded execution loops, checkpoints... | Templates & Workflows |
 | [SergiuPogor](https://github.com/SergiuPogor) | [CurlShot Website Screenshots Over MCP](skills/curlshot-website-screenshots-over-mcp/) | Gives an agent a remote MCP server that takes screenshots of web pages: a public URL in, a... | Browser Automation |
 | [mozzie49](https://github.com/mozzie49) | [Jira Import Doctor](skills/jira-import-doctor/) | Diagnose a failed or partial Jira CSV import from a local source CSV, one attempt's log, and explicit... | Runbooks & Diagnostics |
@@ -113,7 +114,6 @@ See the full overlay index in [industries/README.md](industries/README.md).
 | [ianwieds](https://github.com/ianwieds) | [Run GitHub Issues as a Spec, Build, Review and Ship Pipeline with workkit](skills/run-github-issues-as-a-spec-build-review-ship-pipeline-with-workkit/) | Use workkit when Claude Code should work a repository's GitHub Issues as a labeled pipeline: capture, triage, spec... | Templates & Workflows |
 | [yuvalsuede](https://github.com/yuvalsuede) | [Agent Media UGC Video](skills/agent-media-ugc-video/) | Use Agent Media when an agent needs to create captioned vertical UGC videos, narrated b-roll overlays, reusable characters... | Image & Creative Automation |
 | [jiveshkalra](https://github.com/jiveshkalra) | [Reach Google Business Profile Optimization](skills/reach-google-business-profile-optimization/) | Audit and fix Google Business Profile gaps through the Reach Google Business Profile MCP (GBP MCP). Use get_recommendations... | Content Writing & SEO |
-| [KKKKhazix](https://github.com/KKKKhazix) | [AIHOT News](skills/aihot-news/) | Retrieve Chinese AI news, recent topic search, event timelines and briefs from AIHOT's anonymous read-only Agent API. Use... | Research & Scraping |
 
 ---
 
@@ -130,9 +130,9 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 | [Run owned terminal coding-agent workflows with Zero](skills/run-owned-terminal-coding-agent-workflows-with-zero/) | Use Zero to run local, scriptable coding-agent sessions with operator-controlled models, permissions, tools, skills, MCP servers, and durable... | 1.7k | Developer Tools |
 | [Schedule Node Agent Jobs with node-cron](skills/schedule-node-agent-jobs-with-node-cron/) | Use node-cron to add recurring background jobs to Node.js agent services with overlap prevention, distributed coordination, background task... | 3.3k | Templates & Workflows |
 | [Run a Docling API server for agent document conversion](skills/run-a-docling-api-server-for-agent-document-conversion/) | Deploy Docling API so agents can convert PDFs, Office files, images, HTML, CSV, and other documents into Markdown... | 1.7k | Data Extraction & Transformation |
-| [Compile agent-ready documentation bundles with docmd](skills/compile-agent-ready-documentation-bundles-with-docmd/) | Use docmd when a project needs one Markdown documentation source to produce a site, search index, llms.txt, MCP... | 2.5k | Library & API Reference |
-| [Build TypeScript spreadsheet import and export workflows with hucre](skills/build-typescript-spreadsheet-import-and-export-workflows-with-hucre/) | Use hucre when a coding agent needs to add zero-dependency XLSX, CSV, ODS, JSON, NDJSON, or XML spreadsheet... | 2.2k | Data Extraction & Transformation |
 | [Run agentic quality engineering checks with Agentic QE](skills/run-agentic-quality-engineering-checks-with-agentic-qe/) | Configure Agentic QE in a repository so a coding agent can generate tests, inspect coverage gaps, investigate flaky... | 495 | Code Quality & Review |
+| [Compile agent-ready documentation bundles with docmd](skills/compile-agent-ready-documentation-bundles-with-docmd/) | Use docmd when a project needs one Markdown documentation source to produce a site, search index, llms.txt, MCP... | 2.5k | Library & API Reference |
+| [Audit and fix website QA issues with Squirrelscan](skills/audit-and-fix-website-qa-issues-with-squirrelscan/) | Run Squirrelscan from a coding agent to audit SEO, performance, security, accessibility, and agent-experience issues, then feed exact... | 272 | Security & Verification |
 
 ---
 
@@ -146,10 +146,10 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 | 🔄 | [**Data Extraction & Transformation**](categories/data-extraction-transformation/) | 230 | ETL pipelines, parsing, format conversion |
 | ✅ | [**Code Quality & Review**](categories/code-quality-review/) | 207 | Linting, code review, test generators, coverage |
 | 🔧 | [**CI/CD Integrations**](categories/ci-cd-integrations/) | 193 | Pipeline configs, deployment automation, build tooling |
-| 🔗 | [**Integrations & Connectors**](categories/integrations-connectors/) | 183 | Third-party API bridges, webhooks, service connectors |
+| 🔗 | [**Integrations & Connectors**](categories/integrations-connectors/) | 184 | Third-party API bridges, webhooks, service connectors |
 | 📋 | [**Runbooks & Diagnostics**](categories/runbooks-diagnostics/) | 182 | Incident response, troubleshooting, system diagnostics |
 | 📊 | [**Monitoring & Alerts**](categories/monitoring-alerts/) | 162 | Metrics, alerting rules, observability |
-| 🔍 | [**Research & Scraping**](categories/research-scraping/) | 140 | Web research, content discovery, data collection |
+| 🔍 | [**Research & Scraping**](categories/research-scraping/) | 141 | Web research, content discovery, data collection |
 | 📚 | [**Library & API Reference**](categories/library-api-reference/) | 131 | SDK docs, API parsers, symbol resolvers |
 | 🌐 | [**Browser Automation**](categories/browser-automation/) | 128 | Web scraping, UI testing, headless browser control |
 | 📅 | [**Calendar, Email & Productivity**](categories/calendar-email-productivity/) | 128 | Email automation, calendar management, task coordination |
@@ -219,7 +219,7 @@ Every skill is backed by a real tool, repo, or package. New skills require real 
 
 | Tier | Count | Meaning |
 |------|------:|---|
-| 📋 **Published** | 3,157 | In the catalog — every skill is backed by a real tool, repo, or package |
+| 📋 **Published** | 3,159 | In the catalog — every skill is backed by a real tool, repo, or package |
 | 🛡️ **Security Reviewed** | 2,621 | Scanned for malicious patterns, prompt injection, and unsafe instructions |
 
 More: [verification/](verification/)
