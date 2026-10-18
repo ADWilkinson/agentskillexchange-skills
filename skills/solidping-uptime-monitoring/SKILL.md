@@ -2,11 +2,12 @@
 name: "SolidPing Uptime Monitoring"
 slug: "solidping-uptime-monitoring"
 description: "Manage SolidPing uptime monitoring from a coding agent through the SolidPing MCP server: list and create checks across 40+ check types, read results and incidents, diagnose a failing check, and manage status pages and maintenance windows."
+verification: "listed"
+source: "https://github.com/fclairamb/solidping-plugin"
 category: "Monitoring & Alerts"
 framework: "Claude Code"
-verification: listed
-license: MIT
-source: "https://github.com/fclairamb/solidping-plugin"
+tool_ecosystem:
+  github_repo: "fclairamb/solidping-plugin"
 ---
 
 # SolidPing Uptime Monitoring
@@ -19,53 +20,9 @@ Reading starts with `list_checks` and `get_check`. For a failing check, `diagnos
 
 ## Installation
 
-### Claude Code
+No source-backed install or usage instructions could be extracted automatically. Review the upstream project before running this skill in a sensitive workflow.
 
-```text
-/plugin marketplace add fclairamb/solidping-plugin
-/plugin install solidping@solidping
-```
-
-### Codex
-
-```bash
-codex plugin marketplace add fclairamb/solidping-plugin
-codex plugin add solidping@solidping
-codex mcp login solidping
-```
-
-On a Codex CLI without the `codex plugin` commands, connect the MCP server directly:
-
-```bash
-codex mcp add solidping --url https://solidping.io/api/v1/mcp
-codex mcp login solidping
-```
-
-### Any MCP client
-
-```bash
-claude mcp add --transport http solidping https://solidping.io/api/v1/mcp
-```
-
-The first tool call opens the OAuth sign-in in the browser. The hosted service at https://www.solidping.io has a free tier. To self-host:
-
-```bash
-docker run -p 4000:4000 --hostname solidping -v solidping-data:/data ghcr.io/fclairamb/solidping
-```
-
-`--hostname solidping` is required (the node name must match `^[a-z][a-z0-9-]{2,20}$`, Docker's random hostname often does not), and the named volume keeps the data. First login and changing the default credentials: https://github.com/fclairamb/solidping#default-credentials.
-
-### Direct repo/manual install
-
-This installs the skill file only. The MCP server is connected separately (see above).
-
-For a Codex personal installation:
-
-```bash
-git clone https://github.com/agentskillexchange/skills.git
-mkdir -p ~/.agents/skills
-[ -e ~/.agents/skills/solidping-uptime-monitoring ] || cp -R skills/skills/solidping-uptime-monitoring ~/.agents/skills/solidping-uptime-monitoring
-```
+- Source: https://github.com/fclairamb/solidping-plugin
 
 ## Licensing
 
