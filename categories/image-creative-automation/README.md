@@ -116,6 +116,7 @@ Image generation, asset processing, design automation, and creative tooling.
 | [Create voiceover-synced explainer videos with video-talkcraft](../../skills/create-voiceover-synced-explainer-videos-with-video-talkcraft/) | 1.2k | — |
 | [Generate Template-Matched PPTX Decks with gpt-image2-ppt-skills](../../skills/generate-template-matched-pptx-decks-with-gpt-image2-ppt-skills/) | 1.1k | — |
 | [Rive Runtime Animation Controller](../../skills/rive-runtime-animation-controller/) | 1.1k | 19.7k/wk |
+| [Plan, generate and review Gemini images in Claude Code with Banana Claude](../../skills/plan-generate-and-review-gemini-images-with-banana-claude/) | 1.1k | — |
 | [Create sourced explainer videos with anything2explainer](../../skills/create-sourced-explainer-videos-with-anything2explainer/) | 1.1k | — |
 | [Design, render, and visually QA editable PowerPoint decks with PPT Design Skill](../../skills/design-render-and-visually-qa-editable-powerpoint-decks-with-ppt-design-skill/) | 1k | — |
 | [CairoSVG SVG to PNG PDF and PostScript Converter](../../skills/cairosvg-svg-to-png-pdf-converter/) | 917 | — |

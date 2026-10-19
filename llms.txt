@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
-# Generated: 2026-10-18
-# Total: 3161 skills
+# Generated: 2026-10-19
+# Total: 3162 skills
+
+## Plan, generate and review Gemini images in Claude Code with Banana Claude
+slug: plan-generate-and-review-gemini-images-with-banana-claude
+category: Image & Creative Automation
+framework: Claude Code
+verification: Security Reviewed
+description: Turn a visual brief into an approved Gemini image or edit from Claude Code, then inspect the saved pixels against explicit acceptance checks.
+url: https://agentskillexchange.com/skills/plan-generate-and-review-gemini-images-with-banana-claude/
 
 ## SolidPing Uptime Monitoring
 slug: solidping-uptime-monitoring

@@ -1,8 +1,19 @@
 {
   "version": "2.0",
-  "total": 3161,
-  "generated": "2026-10-18",
+  "total": 3162,
+  "generated": "2026-10-19",
   "skills": [
+    {
+      "slug": "plan-generate-and-review-gemini-images-with-banana-claude",
+      "name": "Plan, generate and review Gemini images in Claude Code with Banana Claude",
+      "title": "Plan, generate and review Gemini images in Claude Code with Banana Claude",
+      "description": "Turn a visual brief into an approved Gemini image or edit from Claude Code, then inspect the saved pixels against explicit acceptance checks.",
+      "category": "Image & Creative Automation",
+      "framework": "Claude Code",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/AgriciDaniel/banana-claude/tree/main/skills/banana",
+      "github_repo": "AgriciDaniel/banana-claude"
+    },
     {
       "slug": "solidping-uptime-monitoring",
       "name": "SolidPing Uptime Monitoring",

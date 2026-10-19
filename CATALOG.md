@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3161 published skills** across **17 categories** · 2,622 security reviewed · Updated 2026-10-18 19:26 UTC
+> **3162 published skills** across **17 categories** · 2,622 security reviewed · Updated 2026-10-19 01:26 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -2853,7 +2853,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Cale
 | [Todoist Sync API Task Orchestrator](skills/todoist-sync-api-task-orchestrator/) | Orchestrates complex task workflows using the Todoist Sync API v9 with incremental sync via sync_token. Uses… | Security Reviewed | — | — |
 
 
-### 🎨 Image & Creative Automation (117 skills)
+### 🎨 Image & Creative Automation (118 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Image%20%26%20Creative%20Automation) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Image%20%26%20Creative%20Automation&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Image%20%26%20Creative%20Automation&sort=downloads)
 
@@ -2935,6 +2935,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Imag
 | [Create voiceover-synced explainer videos with video-talkcraft](skills/create-voiceover-synced-explainer-videos-with-video-talkcraft/) | Use video-talkcraft when a coding agent needs to turn a script and finished voiceover into a Remotion-rendered… | Security Reviewed | 1.2k | — |
 | [Generate Template-Matched PPTX Decks with gpt-image2-ppt-skills](skills/generate-template-matched-pptx-decks-with-gpt-image2-ppt-skills/) | Use gpt-image2-ppt-skills to have an agent create image-first or editable PowerPoint decks with gpt-image-2, bundled… | Security Reviewed | 1.1k | — |
 | [Rive Runtime Animation Controller](skills/rive-runtime-animation-controller/) | Controls Rive (.riv) interactive animations at runtime using @rive-app/canvas-advanced, manages state machine… | Security Reviewed | 1.1k | 19.7k/wk |
+| [Plan, generate and review Gemini images in Claude Code with Banana Claude](skills/plan-generate-and-review-gemini-images-with-banana-claude/) | Turn a visual brief into an approved Gemini image or edit from Claude Code, then inspect the saved pixels against… | Security Reviewed | 1.1k | — |
 | [Create sourced explainer videos with anything2explainer](skills/create-sourced-explainer-videos-with-anything2explainer/) | Use anything2explainer as an agent workflow for turning a topic or document into a sourced Remotion explainer video… | Security Reviewed | 1.1k | — |
 | [Design, render, and visually QA editable PowerPoint decks with PPT Design Skill](skills/design-render-and-visually-qa-editable-powerpoint-decks-with-ppt-design-skill/) | Run a presentation-design workflow that turns a confirmed brief into editable PPTX output, rendered PNG previews,… | Security Reviewed | 1k | — |
 | [CairoSVG SVG to PNG PDF and PostScript Converter](skills/cairosvg-svg-to-png-pdf-converter/) | CairoSVG is a Python-based SVG converter built on the Cairo 2D graphics library. It converts SVG files to PNG, PDF,… | Published | 917 | — |
