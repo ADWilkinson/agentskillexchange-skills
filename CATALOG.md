@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3162 published skills** across **17 categories** · 2,623 security reviewed · Updated 2026-10-19 07:26 UTC
+> **3163 published skills** across **17 categories** · 2,623 security reviewed · Updated 2026-10-19 13:26 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -1085,7 +1085,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Secu
 | [TLS Certificate Chain Validator](skills/tls-certificate-chain-validator/) | Validates TLS/SSL certificate chains using OpenSSL x509 verification and checks OCSP stapling status. Integrates… | Security Reviewed | — | — |
 
 
-### 🔄 Data Extraction & Transformation (230 skills)
+### 🔄 Data Extraction & Transformation (231 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Data%20Extraction%20%26%20Transformation) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Data%20Extraction%20%26%20Transformation&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Data%20Extraction%20%26%20Transformation&sort=downloads)
 
@@ -1300,6 +1300,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Data
 | [Parquet Column Pruning Optimizer](skills/parquet-column-pruning-optimizer/) | Optimizes Apache Parquet file reads using PyArrow column pruning and predicate pushdown. Analyzes query patterns to… | Security Reviewed | 387 | 170.7k/wk |
 | [Parquet Column Statistics Profiler](skills/parquet-column-statistics-profiler/) | Profiles Apache Parquet files using pyarrow metadata APIs to extract column statistics, row group distributions, and… | Security Reviewed | 387 | 170.7k/wk |
 | [Parquet Schema Extractor for S3](skills/parquet-schema-extractor-for-s3/) | Extracts and validates Parquet file schemas from Amazon S3 using the PyArrow library and AWS S3 SDK (boto3).… | Security Reviewed | 387 | 170.7k/wk |
+| [Extract PDF statement transactions and verify balance tie-outs](skills/extract-pdf-statement-transactions-and-verify-balance-tie-outs/) | Extract bank and card statement PDFs into CSV or XLSX, check balances and totals, and return a reconciliation report… | Security Reviewed | 354 | — |
 | [Operate Airflow and warehouse workflows through agent-safe data engineering skills with Astronomer Agents](skills/operate-airflow-and-warehouse-workflows-through-agent-safe-data-engineering-skills-with-astronomer-agents/) | Give agents structured Airflow, lineage, dbt, and warehouse workflows through installable skills and an Airflow MCP… | Security Reviewed | 337 | — |
 | [Compare recurring CSV, TSV, or JSON exports and emit row-level change sets before syncs](skills/compare-recurring-csv-tsv-or-json-exports-and-emit-row-level-change-sets-before-syncs/) | Use csv-diff when an agent needs to explain what changed between two structured exports, not just that the files… | Security Reviewed | 330 | — |
 | [Query cross-connector business data for agents with Dinobase](skills/query-cross-connector-business-data-for-agents-with-dinobase/) | Use Dinobase to give agents a SQL layer over SaaS APIs, databases, files, and MCP servers so they can answer… | Security Reviewed | 252 | — |

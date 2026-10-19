@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-19
-# Total: 3162 skills
+# Total: 3163 skills
+
+## Extract PDF statement transactions and verify balance tie-outs
+slug: extract-pdf-statement-transactions-and-verify-balance-tie-outs
+category: Data Extraction & Transformation
+framework: Multi-Framework
+verification: Security Reviewed
+description: Extract bank and card statement PDFs into CSV or XLSX, check balances and totals, and return a reconciliation report with unresolved rows.
+url: https://agentskillexchange.com/skills/extract-pdf-statement-transactions-and-verify-balance-tie-outs/
 
 ## Plan, generate and review Gemini images in Claude Code with Banana Claude
 slug: plan-generate-and-review-gemini-images-with-banana-claude

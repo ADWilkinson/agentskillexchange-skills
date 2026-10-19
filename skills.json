@@ -1,8 +1,19 @@
 {
   "version": "2.0",
-  "total": 3162,
+  "total": 3163,
   "generated": "2026-10-19",
   "skills": [
+    {
+      "slug": "extract-pdf-statement-transactions-and-verify-balance-tie-outs",
+      "name": "Extract PDF statement transactions and verify balance tie-outs",
+      "title": "Extract PDF statement transactions and verify balance tie-outs",
+      "description": "Extract bank and card statement PDFs into CSV or XLSX, check balances and totals, and return a reconciliation report with unresolved rows.",
+      "category": "Data Extraction & Transformation",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/OneWave-AI/claude-skills/tree/main/statement-extract-and-prove",
+      "github_repo": "OneWave-AI/claude-skills"
+    },
     {
       "slug": "plan-generate-and-review-gemini-images-with-banana-claude",
       "name": "Plan, generate and review Gemini images in Claude Code with Banana Claude",
