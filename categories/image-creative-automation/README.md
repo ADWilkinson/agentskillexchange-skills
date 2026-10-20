@@ -79,7 +79,7 @@ Image generation, asset processing, design automation, and creative tooling.
 | [Satori HTML and CSS to SVG Image Generator by Vercel](../../skills/satori-html-css-svg-image-generator/) | 13.2k | 1.3M/wk |
 | [Apply an anti-AI-slop design workflow to pages, components, audits, and redesigns with Hallmark](../../skills/apply-an-anti-ai-slop-design-workflow-to-pages-components-audits-and-redesigns-with-hallmark/) | 13.1k | — |
 | [libvips High-Performance Image Processing Library and CLI](../../skills/libvips-high-performance-image-processing-library-cli/) | 11.2k | — |
-| [OpenAI Image Gen](../../skills/openai-image-gen/) | 10.9k | 25.9M/wk |
+| [OpenAI Image Gen](../../skills/openai-image-gen/) | 10.9k | 25.3M/wk |
 | [DALL-E 3 Batch Asset Generator](../../skills/dalle-3-batch-asset-generator/) | 10.8k | 18.1M/wk |
 | [DALL-E Batch Image Generator](../../skills/dalle-batch-image-generator/) | 10.8k | 18.1M/wk |
 | [DALL-E Image Variation Generator](../../skills/dalle-image-variation-generator/) | 10.8k | 18.1M/wk |
@@ -104,6 +104,7 @@ Image generation, asset processing, design automation, and creative tooling.
 | [Oxipng Multithreaded Lossless PNG Compression Optimizer](../../skills/oxipng-png-compression-optimizer/) | 3.9k | — |
 | [resvg High-Performance SVG Rendering Library in Rust](../../skills/resvg-svg-rendering-library-rust/) | 3.8k | — |
 | [Run Claude Design-style UI prototyping locally with baoyu-design](../../skills/run-claude-design-style-ui-prototyping-locally-with-baoyu-design/) | 3.6k | — |
+| [Transfer clothed character poses from mannequin renders with Qwen Pose](../../skills/transfer-clothed-character-poses-from-mannequin-renders-with-qwen-pose/) | 3.5k | — |
 | [Turn a plain-language brief into a multi-step video production pipeline with OpenMontage](../../skills/turn-a-plain-language-brief-into-a-multi-step-video-production-pipeline-with-openmontage/) | 3k | — |
 | [Draw and verify Excalidraw diagrams through an agent canvas](../../skills/draw-and-verify-excalidraw-diagrams-through-an-agent-canvas/) | 2.4k | 11.7k/wk |
 | [Produce cinematic product videos with Video Shotcraft](../../skills/produce-cinematic-product-videos-with-video-shotcraft/) | 2.1k | — |

@@ -2,8 +2,19 @@
   "schema": "codex-skills/1.0",
   "source": "https://agentskillexchange.com",
   "generated": "2026-10-20",
-  "total": 3164,
+  "total": 3165,
   "skills": [
+    {
+      "slug": "transfer-clothed-character-poses-from-mannequin-renders-with-qwen-pose",
+      "name": "Transfer clothed character poses from mannequin renders with Qwen Pose",
+      "title": "Transfer clothed character poses from mannequin renders with Qwen Pose",
+      "description": "Apply an existing textureless 3D mannequin pose to a clothed character image through a repeatable local ComfyUI edit, with PNG and JSON artifacts.",
+      "category": "Image & Creative Automation",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "github_repo": "Arekejoker/qwen21-nsfw-pose-skill"
+    },
     {
       "slug": "extract-relationship-timelines-from-chat-exports-with-afterglow",
       "name": "Extract reviewable relationship timelines from chat exports with Afterglow",

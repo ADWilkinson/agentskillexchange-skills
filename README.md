@@ -4,7 +4,7 @@
 
 ### Curated and trusted AI agent skills
 
-[![Published](https://img.shields.io/badge/published-3%2C164-6366f1?style=for-the-badge)](CATALOG.md)
+[![Published](https://img.shields.io/badge/published-3%2C165-6366f1?style=for-the-badge)](CATALOG.md)
 [![Industry%20Collections](https://img.shields.io/badge/industry--collections-15-14b8a6?style=for-the-badge)](industries/README.md)
 [![Categories](https://img.shields.io/badge/categories-17-0ea5e9?style=for-the-badge)](categories/README.md)
 [![Security%20Reviewed](https://img.shields.io/badge/security--reviewed-2%2C625-10b981?style=for-the-badge)](verification/)
@@ -12,7 +12,7 @@
 
 **[Catalog](CATALOG.md) · [Live Browse](https://agentskillexchange.com/browse-skills/) · [Categories](categories/README.md) · [Industry Collections](industries/README.md) · [Top Starred](TOP-STARS.md) · [Top Downloaded](TOP-DOWNLOADS.md) · [Submit a Skill](#submit-a-skill)**
 
-*3,164 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
+*3,165 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
 
 *Star this repo to keep the agent skill catalog handy and follow new additions.*
 
@@ -87,6 +87,7 @@ See the full overlay index in [industries/README.md](industries/README.md).
 
 | Skill | What it helps with | Stars | Category |
 |---|---|---:|---|
+| [Transfer clothed character poses from mannequin renders with Qwen Pose](skills/transfer-clothed-character-poses-from-mannequin-renders-with-qwen-pose/) | Apply an existing textureless 3D mannequin pose to a clothed character image through a repeatable local ComfyUI edit... | 3.5k | Image & Creative Automation |
 | [Extract reviewable relationship timelines from chat exports with Afterglow](skills/extract-relationship-timelines-from-chat-exports-with-afterglow/) | Analyze supplied chat exports into resumable JSON and Markdown relationship timelines, with block coverage and skipped-input diagnostics | 317 | Data Extraction & Transformation |
 | [Extract PDF statement transactions and verify balance tie-outs](skills/extract-pdf-statement-transactions-and-verify-balance-tie-outs/) | Extract bank and card statement PDFs into CSV or XLSX, check balances and totals, and return a reconciliation... | 354 | Data Extraction & Transformation |
 | [Plan, generate and review Gemini images in Claude Code with Banana Claude](skills/plan-generate-and-review-gemini-images-with-banana-claude/) | Turn a visual brief into an approved Gemini image or edit from Claude Code, then inspect the saved... | 1.1k | Image & Creative Automation |
@@ -96,7 +97,6 @@ See the full overlay index in [industries/README.md](industries/README.md).
 | [Generate dated A-share research reports with TradingAgents-AShare](skills/generate-dated-a-share-research-reports-with-tradingagents-ashare/) | Submit a bounded A-share research job from OpenClaw, follow its status, and summarize the resulting analyst debate and... | 868 | Research & Scraping |
 | [Answer Anthropic documentation questions from a versioned local archive](skills/answer-anthropic-documentation-questions-from-a-versioned-local-archive/) | Use Claude Code to investigate one API, Claude Code or MCP question against a local documentation snapshot with... | 154 | Library & API Reference |
 | [Migrate Spring Boot 3.5 applications to Boot 4 with staged agent checks](skills/migrate-spring-boot-35-applications-to-boot-4-with-staged-agent-checks/) | Use the named Spring Boot migration skill to prepare a focused upgrade diff and verify dependency, configuration, JSON... | 311 | Developer Tools |
-| [Goal Instruction Writer](skills/goal-instruction-writer/) | Preview, draft, refine, and audit durable Goal instructions in Codex. Define observable acceptance evidence, bounded execution loops, checkpoints... | - | Templates & Workflows |
 
 ---
 
@@ -128,11 +128,11 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 | [Reverse-engineer apps and binaries with REA](skills/reverse-engineer-apps-and-binaries-with-rea/) | Connect coding agents to REA's MCP tools so they can inspect apps, binaries, websites, APKs, and runtime behavior... | 17.1k | Security & Verification |
 | [Resolve coding questions from upstream evidence with Firecrawl Developer Index](skills/resolve-coding-questions-with-firecrawl-developer-index/) | Find public issues, merged fixes and API-contract passages with Firecrawl’s named Developer Index skill, then return a cited... | 653 | Research & Scraping |
 | [Run owned terminal coding-agent workflows with Zero](skills/run-owned-terminal-coding-agent-workflows-with-zero/) | Use Zero to run local, scriptable coding-agent sessions with operator-controlled models, permissions, tools, skills, MCP servers, and durable... | 1.7k | Developer Tools |
+| [Run code-generated short-film workflows with Lemo-Opuscar](skills/direct-code-generated-short-films-with-lemo-opuscar-styles/) | Use a Claude Code plugin to turn a story brief into a short film project built from reusable... | 1.5k | Image & Creative Automation |
 | [Schedule Node Agent Jobs with node-cron](skills/schedule-node-agent-jobs-with-node-cron/) | Use node-cron to add recurring background jobs to Node.js agent services with overlap prevention, distributed coordination, background task... | 3.3k | Templates & Workflows |
 | [Run a Docling API server for agent document conversion](skills/run-a-docling-api-server-for-agent-document-conversion/) | Deploy Docling API so agents can convert PDFs, Office files, images, HTML, CSV, and other documents into Markdown... | 1.7k | Data Extraction & Transformation |
 | [Run agentic quality engineering checks with Agentic QE](skills/run-agentic-quality-engineering-checks-with-agentic-qe/) | Configure Agentic QE in a repository so a coding agent can generate tests, inspect coverage gaps, investigate flaky... | 495 | Code Quality & Review |
 | [Compile agent-ready documentation bundles with docmd](skills/compile-agent-ready-documentation-bundles-with-docmd/) | Use docmd when a project needs one Markdown documentation source to produce a site, search index, llms.txt, MCP... | 2.5k | Library & API Reference |
-| [Build TypeScript spreadsheet import and export workflows with hucre](skills/build-typescript-spreadsheet-import-and-export-workflows-with-hucre/) | Use hucre when a coding agent needs to add zero-dependency XLSX, CSV, ODS, JSON, NDJSON, or XML spreadsheet... | 2.2k | Data Extraction & Transformation |
 
 ---
 
@@ -153,7 +153,7 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 | 📚 | [**Library & API Reference**](categories/library-api-reference/) | 132 | SDK docs, API parsers, symbol resolvers |
 | 🌐 | [**Browser Automation**](categories/browser-automation/) | 128 | Web scraping, UI testing, headless browser control |
 | 📅 | [**Calendar, Email & Productivity**](categories/calendar-email-productivity/) | 128 | Email automation, calendar management, task coordination |
-| 🎨 | [**Image & Creative Automation**](categories/image-creative-automation/) | 118 | Image generation, asset processing, design automation |
+| 🎨 | [**Image & Creative Automation**](categories/image-creative-automation/) | 119 | Image generation, asset processing, design automation |
 | 🎙️ | [**Media & Transcription**](categories/media-transcription/) | 110 | Audio/video processing, speech-to-text |
 | ✍️ | [**Content Writing & SEO**](categories/content-writing-seo/) | 98 | SEO content, blog automation, editorial workflows |
 | 📰 | [**WordPress & CMS**](categories/wordpress-cms/) | 96 | Theme/plugin dev, WP-CLI automation, CMS management |
@@ -219,7 +219,7 @@ Every skill is backed by a real tool, repo, or package. New skills require real 
 
 | Tier | Count | Meaning |
 |------|------:|---|
-| 📋 **Published** | 3,164 | In the catalog — every skill is backed by a real tool, repo, or package |
+| 📋 **Published** | 3,165 | In the catalog — every skill is backed by a real tool, repo, or package |
 | 🛡️ **Security Reviewed** | 2,625 | Scanned for malicious patterns, prompt injection, and unsafe instructions |
 
 More: [verification/](verification/)

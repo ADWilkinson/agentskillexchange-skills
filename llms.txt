@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-20
-# Total: 3164 skills
+# Total: 3165 skills
+
+## Transfer clothed character poses from mannequin renders with Qwen Pose
+slug: transfer-clothed-character-poses-from-mannequin-renders-with-qwen-pose
+category: Image & Creative Automation
+framework: Multi-Framework
+verification: Security Reviewed
+description: Apply an existing textureless 3D mannequin pose to a clothed character image through a repeatable local ComfyUI edit, with PNG and JSON artifacts.
+url: https://agentskillexchange.com/skills/transfer-clothed-character-poses-from-mannequin-renders-with-qwen-pose/
 
 ## Extract reviewable relationship timelines from chat exports with Afterglow
 slug: extract-relationship-timelines-from-chat-exports-with-afterglow
