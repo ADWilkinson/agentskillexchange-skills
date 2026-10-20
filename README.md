@@ -4,7 +4,7 @@
 
 ### Curated and trusted AI agent skills
 
-[![Published](https://img.shields.io/badge/published-3%2C163-6366f1?style=for-the-badge)](CATALOG.md)
+[![Published](https://img.shields.io/badge/published-3%2C164-6366f1?style=for-the-badge)](CATALOG.md)
 [![Industry%20Collections](https://img.shields.io/badge/industry--collections-15-14b8a6?style=for-the-badge)](industries/README.md)
 [![Categories](https://img.shields.io/badge/categories-17-0ea5e9?style=for-the-badge)](categories/README.md)
 [![Security%20Reviewed](https://img.shields.io/badge/security--reviewed-2%2C624-10b981?style=for-the-badge)](verification/)
@@ -12,7 +12,7 @@
 
 **[Catalog](CATALOG.md) · [Live Browse](https://agentskillexchange.com/browse-skills/) · [Categories](categories/README.md) · [Industry Collections](industries/README.md) · [Top Starred](TOP-STARS.md) · [Top Downloaded](TOP-DOWNLOADS.md) · [Submit a Skill](#submit-a-skill)**
 
-*3,163 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
+*3,164 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
 
 *Star this repo to keep the agent skill catalog handy and follow new additions.*
 
@@ -51,7 +51,7 @@ npm exec --package=skills@1.5.7 -- skills add agentskillexchange/skills --skill 
 
 ## Skill of the Day
 
-**[Suspend and resume stateful agent sandbox jobs with SPACE](skills/suspend-and-resume-stateful-agent-sandbox-jobs-with-space/)** — Run a stateful job in self-hosted SPACE, preserve sandbox state across suspension, and reconcile operation IDs, readiness and command transcripts before continuing.
+**[Keep agent retrieval current as documents change with Serviette](skills/keep-agent-retrieval-current-as-documents-change-with-serviette/)** — Configure a watched document corpus, serve source-backed retrieval to agents, and verify that additions, edits, and deletions reach the index without manual re-ingestion.
 
 _Rotates daily across downloaded, starred, recent, verified, and industry-curated skills._
 
@@ -87,6 +87,7 @@ See the full overlay index in [industries/README.md](industries/README.md).
 
 | Skill | What it helps with | Stars | Category |
 |---|---|---:|---|
+| [Extract reviewable relationship timelines from chat exports with Afterglow](skills/extract-relationship-timelines-from-chat-exports-with-afterglow/) | Analyze supplied chat exports into resumable JSON and Markdown relationship timelines, with block coverage and skipped-input diagnostics | 317 | Data Extraction & Transformation |
 | [Extract PDF statement transactions and verify balance tie-outs](skills/extract-pdf-statement-transactions-and-verify-balance-tie-outs/) | Extract bank and card statement PDFs into CSV or XLSX, check balances and totals, and return a reconciliation... | 354 | Data Extraction & Transformation |
 | [Plan, generate and review Gemini images in Claude Code with Banana Claude](skills/plan-generate-and-review-gemini-images-with-banana-claude/) | Turn a visual brief into an approved Gemini image or edit from Claude Code, then inspect the saved... | 1.1k | Image & Creative Automation |
 | [SolidPing Uptime Monitoring](skills/solidping-uptime-monitoring/) | Manage SolidPing uptime monitoring from a coding agent through the SolidPing MCP server: list and create checks across... | - | Monitoring & Alerts |
@@ -96,7 +97,6 @@ See the full overlay index in [industries/README.md](industries/README.md).
 | [Answer Anthropic documentation questions from a versioned local archive](skills/answer-anthropic-documentation-questions-from-a-versioned-local-archive/) | Use Claude Code to investigate one API, Claude Code or MCP question against a local documentation snapshot with... | 154 | Library & API Reference |
 | [Migrate Spring Boot 3.5 applications to Boot 4 with staged agent checks](skills/migrate-spring-boot-35-applications-to-boot-4-with-staged-agent-checks/) | Use the named Spring Boot migration skill to prepare a focused upgrade diff and verify dependency, configuration, JSON... | 311 | Developer Tools |
 | [Goal Instruction Writer](skills/goal-instruction-writer/) | Preview, draft, refine, and audit durable Goal instructions in Codex. Define observable acceptance evidence, bounded execution loops, checkpoints... | - | Templates & Workflows |
-| [Openhook](skills/openhook/) | Creates webhook inboxes, receives callbacks, and forwards events for AI agents with Openhook. Use when testing local webhook... | - | Integrations & Connectors |
 
 ---
 
@@ -124,15 +124,15 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 | Skill | What it helps with | Stars | Category |
 |---|---|---:|---|
 | [Coordinate agent teams and governed work in Paperclip](skills/coordinate-agent-teams-and-governed-work-in-paperclip/) | Use Paperclip as a self-hosted control plane for assigning goals, tasks, budgets, approvals, routines, and run history across... | 98.2k | Templates & Workflows |
-| [Monitor Claude Code sessions with ccstatusline](skills/monitor-claude-code-sessions-with-ccstatusline/) | Configure Claude Code's status line with live model, token, cost, git, sandbox, cache, CI, and session health signals... | 13.2k | Developer Tools |
 | [Reverse-engineer apps and binaries with REA](skills/reverse-engineer-apps-and-binaries-with-rea/) | Connect coding agents to REA's MCP tools so they can inspect apps, binaries, websites, APKs, and runtime behavior... | 17.1k | Security & Verification |
+| [Monitor Claude Code sessions with ccstatusline](skills/monitor-claude-code-sessions-with-ccstatusline/) | Configure Claude Code's status line with live model, token, cost, git, sandbox, cache, CI, and session health signals... | 13.2k | Developer Tools |
 | [Resolve coding questions from upstream evidence with Firecrawl Developer Index](skills/resolve-coding-questions-with-firecrawl-developer-index/) | Find public issues, merged fixes and API-contract passages with Firecrawl’s named Developer Index skill, then return a cited... | 653 | Research & Scraping |
 | [Run owned terminal coding-agent workflows with Zero](skills/run-owned-terminal-coding-agent-workflows-with-zero/) | Use Zero to run local, scriptable coding-agent sessions with operator-controlled models, permissions, tools, skills, MCP servers, and durable... | 1.7k | Developer Tools |
 | [Schedule Node Agent Jobs with node-cron](skills/schedule-node-agent-jobs-with-node-cron/) | Use node-cron to add recurring background jobs to Node.js agent services with overlap prevention, distributed coordination, background task... | 3.3k | Templates & Workflows |
 | [Run a Docling API server for agent document conversion](skills/run-a-docling-api-server-for-agent-document-conversion/) | Deploy Docling API so agents can convert PDFs, Office files, images, HTML, CSV, and other documents into Markdown... | 1.7k | Data Extraction & Transformation |
-| [Compile agent-ready documentation bundles with docmd](skills/compile-agent-ready-documentation-bundles-with-docmd/) | Use docmd when a project needs one Markdown documentation source to produce a site, search index, llms.txt, MCP... | 2.5k | Library & API Reference |
 | [Run agentic quality engineering checks with Agentic QE](skills/run-agentic-quality-engineering-checks-with-agentic-qe/) | Configure Agentic QE in a repository so a coding agent can generate tests, inspect coverage gaps, investigate flaky... | 495 | Code Quality & Review |
 | [Audit and fix website QA issues with Squirrelscan](skills/audit-and-fix-website-qa-issues-with-squirrelscan/) | Run Squirrelscan from a coding agent to audit SEO, performance, security, accessibility, and agent-experience issues, then feed exact... | 272 | Security & Verification |
+| [Compile agent-ready documentation bundles with docmd](skills/compile-agent-ready-documentation-bundles-with-docmd/) | Use docmd when a project needs one Markdown documentation source to produce a site, search index, llms.txt, MCP... | 2.5k | Library & API Reference |
 
 ---
 
@@ -143,7 +143,7 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 | 🛠️ | [**Developer Tools**](categories/developer-tools/) | 529 | CLI tools, scaffolders, dev environment setup |
 | 📄 | [**Templates & Workflows**](categories/templates-workflows/) | 267 | Scaffolders, boilerplate generators, workflow templates |
 | 🔒 | [**Security & Verification**](categories/security-verification/) | 257 | Vulnerability scanning, auth setup, compliance |
-| 🔄 | [**Data Extraction & Transformation**](categories/data-extraction-transformation/) | 231 | ETL pipelines, parsing, format conversion |
+| 🔄 | [**Data Extraction & Transformation**](categories/data-extraction-transformation/) | 232 | ETL pipelines, parsing, format conversion |
 | ✅ | [**Code Quality & Review**](categories/code-quality-review/) | 207 | Linting, code review, test generators, coverage |
 | 🔧 | [**CI/CD Integrations**](categories/ci-cd-integrations/) | 193 | Pipeline configs, deployment automation, build tooling |
 | 🔗 | [**Integrations & Connectors**](categories/integrations-connectors/) | 184 | Third-party API bridges, webhooks, service connectors |
@@ -219,7 +219,7 @@ Every skill is backed by a real tool, repo, or package. New skills require real 
 
 | Tier | Count | Meaning |
 |------|------:|---|
-| 📋 **Published** | 3,163 | In the catalog — every skill is backed by a real tool, repo, or package |
+| 📋 **Published** | 3,164 | In the catalog — every skill is backed by a real tool, repo, or package |
 | 🛡️ **Security Reviewed** | 2,624 | Scanned for malicious patterns, prompt injection, and unsafe instructions |
 
 More: [verification/](verification/)

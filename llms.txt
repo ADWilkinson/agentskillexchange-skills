@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
-# Generated: 2026-10-19
-# Total: 3163 skills
+# Generated: 2026-10-20
+# Total: 3164 skills
+
+## Extract reviewable relationship timelines from chat exports with Afterglow
+slug: extract-relationship-timelines-from-chat-exports-with-afterglow
+category: Data Extraction & Transformation
+framework: Multi-Framework
+verification: Security Reviewed
+description: Analyze supplied chat exports into resumable JSON and Markdown relationship timelines, with block coverage and skipped-input diagnostics.
+url: https://agentskillexchange.com/skills/extract-relationship-timelines-from-chat-exports-with-afterglow/
 
 ## Extract PDF statement transactions and verify balance tie-outs
 slug: extract-pdf-statement-transactions-and-verify-balance-tie-outs
