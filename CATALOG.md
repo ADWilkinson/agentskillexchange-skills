@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3165 published skills** across **17 categories** · 2,626 security reviewed · Updated 2026-10-20 13:26 UTC
+> **3166 published skills** across **17 categories** · 2,626 security reviewed · Updated 2026-10-20 19:26 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -1085,7 +1085,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Secu
 | [TLS Certificate Chain Validator](skills/tls-certificate-chain-validator/) | Validates TLS/SSL certificate chains using OpenSSL x509 verification and checks OCSP stapling status. Integrates… | Security Reviewed | — | — |
 
 
-### 🔄 Data Extraction & Transformation (232 skills)
+### 🔄 Data Extraction & Transformation (233 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Data%20Extraction%20%26%20Transformation) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Data%20Extraction%20%26%20Transformation&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Data%20Extraction%20%26%20Transformation&sort=downloads)
 
@@ -1290,6 +1290,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Data
 | [Snowflake Query Profiler](skills/snowflake-query-profiler/) | Profiles and optimizes Snowflake SQL queries using the Snowflake Information Schema and Query History views.… | Security Reviewed | 724 | — |
 | [Parse documents into structured content for agent ingestion with Dedoc](skills/parse-documents-into-structured-content-for-agent-ingestion-with-dedoc/) | Extract document text, tables, logical structure, and metadata into normalized output before RAG, review, or… | Security Reviewed | 712 | — |
 | [Give agents governed semantic data context with Wren Engine](skills/give-agents-governed-semantic-data-context-with-wren-engine/) | Give agents governed semantic data context so data questions map to trusted metrics and schemas. | Published | 661 | — |
+| [Convert iWork documents to Office files with fidelity checks through OfficeIMO](skills/convert-iwork-documents-to-office-files-with-fidelity-checks-through-officeimo/) | Convert Pages, Numbers, and Keynote files into Office artifacts over MCP, retaining source hashes, strict acceptance… | Security Reviewed | 616 | — |
 | [Run natural-language BI analysis with OpenChatBI agents](skills/run-natural-language-bi-analysis-with-openchatbi-agents/) | Deploy OpenChatBI when an agent needs to turn business questions into SQL, charts, anomaly analysis, and explainable… | Security Reviewed | 595 | — |
 | [Run local document RAG with citations over MCP using Haiku.RAG](skills/run-local-document-rag-with-citations-over-mcp-using-haiku-rag/) | Index local or self-hosted documents, search them with hybrid and multimodal retrieval, and answer agent questions… | Security Reviewed | 581 | — |
 | [Query Postgres databases through read-only MCP workflows with PGMCP](skills/query-postgres-databases-through-read-only-mcp-workflows-with-pgmcp/) | Connect an MCP-compatible assistant to an existing PostgreSQL database for safe natural-language querying,… | Security Reviewed | 529 | — |

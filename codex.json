@@ -2,8 +2,19 @@
   "schema": "codex-skills/1.0",
   "source": "https://agentskillexchange.com",
   "generated": "2026-10-20",
-  "total": 3165,
+  "total": 3166,
   "skills": [
+    {
+      "slug": "convert-iwork-documents-to-office-files-with-fidelity-checks-through-officeimo",
+      "name": "Convert iWork documents to Office files with fidelity checks through OfficeIMO",
+      "title": "Convert iWork documents to Office files with fidelity checks through OfficeIMO",
+      "description": "Convert Pages, Numbers, and Keynote files into Office artifacts over MCP, retaining source hashes, strict acceptance results, and fidelity diagnostics.",
+      "category": "Data Extraction & Transformation",
+      "framework": "MCP",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/EvotecIT/OfficeIMO",
+      "github_repo": "EvotecIT/OfficeIMO"
+    },
     {
       "slug": "transfer-clothed-character-poses-from-mannequin-renders-with-qwen-pose",
       "name": "Transfer clothed character poses from mannequin renders with Qwen Pose",

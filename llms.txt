@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-20
-# Total: 3165 skills
+# Total: 3166 skills
+
+## Convert iWork documents to Office files with fidelity checks through OfficeIMO
+slug: convert-iwork-documents-to-office-files-with-fidelity-checks-through-officeimo
+category: Data Extraction & Transformation
+framework: MCP
+verification: Security Reviewed
+description: Convert Pages, Numbers, and Keynote files into Office artifacts over MCP, retaining source hashes, strict acceptance results, and fidelity diagnostics.
+url: https://agentskillexchange.com/skills/convert-iwork-documents-to-office-files-with-fidelity-checks-through-officeimo/
 
 ## Transfer clothed character poses from mannequin renders with Qwen Pose
 slug: transfer-clothed-character-poses-from-mannequin-renders-with-qwen-pose
