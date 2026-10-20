@@ -5,11 +5,14 @@ description: "Access 2,000+ AI models and API tools through one MCP interface fo
 github_stars: 88
 verification: "listed"
 source: "https://github.com/sandbaseai/cli"
+author: "sandbaseai"
 category: "Integrations & Connectors"
 framework: "MCP"
 tool_ecosystem:
   github_repo: "sandbaseai/cli"
   github_stars: 88
+  npm_package: "@sandbaseai/cli"
+  npm_weekly_downloads: 328
 ---
 
 # SandBase MCP
@@ -20,23 +23,11 @@ This is distinct from the cross-validate research entry: that entry is a focused
 
 ## Installation
 
-If the six `sandbase_*` MCP tools are not already available, connect the current machine with the immutable v0.1.17 release. Run remote packages only in an environment you trust; use the checksum-verified path below when provenance matters:
+Install or set up from the source-backed instructions:
 
-```sh
-npx -y https://github.com/sandbaseai/cli/releases/download/v0.1.17/sandbaseai-cli-0.1.17.tgz connect
-```
+npx -y @sandbaseai/cli@latest connect
 
-For a checksum-verified install, download the same immutable asset first and verify the SHA-256 published with the GitHub Release:
-
-```sh
-curl -fLO https://github.com/sandbaseai/cli/releases/download/v0.1.17/sandbaseai-cli-0.1.17.tgz
-printf '%s  %s\n' '1ad535b2899ca460b57b3c268aef278fee28fd28e649a89b92951514fd71fffa' 'sandbaseai-cli-0.1.17.tgz' | shasum -a 256 -c -
-npx -y ./sandbaseai-cli-0.1.17.tgz connect
-```
-
-Approve the browser sign-in once. Authentication happens with SandBase in the browser; the CLI stores the resulting local session record with restricted file permissions. The CLI detects supported clients, installs the local MCP bridge and this managed Skill, and verifies the resulting configuration. No provider API keys are required. Invoke the same release URL with `doctor` to inspect the connection or `unregister` to remove only SandBase-managed state.
-
-This file is managed by SandBase CLI and may be replaced during a later CLI-managed update, so keep custom instructions in a separate Skill. Check the [official repository](https://github.com/sandbaseai/cli) for newer releases before copying it independently.
+- Source: https://github.com/sandbaseai/cli
 
 ## When to Use SandBase
 

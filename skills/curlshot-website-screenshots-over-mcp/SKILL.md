@@ -2,6 +2,7 @@
 name: "CurlShot Website Screenshots Over MCP"
 slug: "curlshot-website-screenshots-over-mcp"
 description: "Gives an agent a remote MCP server that takes screenshots of web pages: a public URL in, a PNG, JPEG, WebP, PDF or scrolling video out, as a phone, tablet or desktop would show it. Use it when the agent needs to see a page it built or changed, capture a full page or one element, or save a page as a PDF."
+github_stars: 0
 verification: "listed"
 source: "https://github.com/SergiuPogor/curlshot-mcp"
 author: "CurlShot"
@@ -9,6 +10,7 @@ category: "Browser Automation"
 framework: "MCP"
 tool_ecosystem:
   github_repo: "sergiupogor/curlshot-mcp"
+  github_stars: 0
 ---
 
 # CurlShot Website Screenshots Over MCP
@@ -24,7 +26,9 @@ Auth is an API key sent as `Authorization: Bearer YOUR_API_KEY`. The free plan h
 
 ## Installation
 
-No source-backed install or usage instructions could be extracted automatically. Review the upstream project before running this skill in a sensitive workflow.
+Install or set up from the source-backed instructions:
+
+claude mcp add --transport http curlshot https://curlshot.com/api/mcp --header "Authorization: Bearer YOUR_API_KEY"
 
 - Source: https://github.com/SergiuPogor/curlshot-mcp
 
