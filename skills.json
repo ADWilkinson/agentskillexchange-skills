@@ -2920,7 +2920,8 @@
       "framework": "MCP",
       "verification": "listed",
       "signals": {
-        "github_stars": 88
+        "github_stars": 88,
+        "npm_weekly_downloads": 328
       },
       "source_url": "https://github.com/sandbaseai/cli",
       "github_repo": "sandbaseai/cli"

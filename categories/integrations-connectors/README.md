@@ -184,7 +184,7 @@ Third-party API bridges, webhook handlers, service connectors, and platform inte
 | [Expose Haystack pipelines as webhook endpoints with Hayhooks](../../skills/expose-haystack-pipelines-as-webhook-endpoints-with-hayhooks/) | 138 | — |
 | [Query Eventhouse and manage Fabric RTI resources from MCP-compatible agents with Fabric RTI MCP](../../skills/query-eventhouse-and-manage-fabric-rti-resources-from-mcp-compatible-agents-with-fabric-rti-mcp/) | 111 | — |
 | [Connect MCP agents to Zendesk ticket and Help Center workflows](../../skills/connect-mcp-agents-to-zendesk-ticket-and-help-center-workflows/) | 95 | — |
-| [SandBase MCP](../../skills/sandbase-mcp/) | 88 | — |
+| [SandBase MCP](../../skills/sandbase-mcp/) | 88 | 328/wk |
 | [Search and automate X/Twitter from OpenClaw with TweetClaw](../../skills/search-and-automate-x-twitter-from-openclaw-with-tweetclaw/) | 84 | 90/wk |
 | [Expose FHIR healthcare data resources to MCP agents with review boundaries](../../skills/expose-fhir-healthcare-data-resources-to-mcp-agents-with-review-boundaries/) | 80 | — |
 | [Let MCP agents inspect and update Freshdesk tickets safely](../../skills/let-mcp-agents-inspect-and-update-freshdesk-tickets-safely/) | 59 | — |

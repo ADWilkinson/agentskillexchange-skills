@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3164 published skills** across **17 categories** · 2,624 security reviewed · Updated 2026-10-20 01:54 UTC
+> **3164 published skills** across **17 categories** · 2,624 security reviewed · Updated 2026-10-20 07:26 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -1891,7 +1891,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Inte
 | [Expose Haystack pipelines as webhook endpoints with Hayhooks](skills/expose-haystack-pipelines-as-webhook-endpoints-with-hayhooks/) | Turn an existing Haystack pipeline into an HTTP or MCP endpoint without building and maintaining a custom wrapper… | Security Reviewed | 138 | — |
 | [Query Eventhouse and manage Fabric RTI resources from MCP-compatible agents with Fabric RTI MCP](skills/query-eventhouse-and-manage-fabric-rti-resources-from-mcp-compatible-agents-with-fabric-rti-mcp/) | Use Fabric RTI MCP when an agent needs tool-callable access to Microsoft Fabric Real-Time Intelligence services such… | Security Reviewed | 111 | — |
 | [Connect MCP agents to Zendesk ticket and Help Center workflows](skills/connect-mcp-agents-to-zendesk-ticket-and-help-center-workflows/) | Expose Zendesk tickets, comments, and Help Center context to MCP-capable agents for supervised support workflow… | Security Reviewed | 95 | — |
-| [SandBase MCP](skills/sandbase-mcp/) | Access 2,000+ AI models and API tools through one MCP interface for inference, media generation, search, scraping,… | Published | 88 | — |
+| [SandBase MCP](skills/sandbase-mcp/) | Access 2,000+ AI models and API tools through one MCP interface for inference, media generation, search, scraping,… | Published | 88 | 328/wk |
 | [Search and automate X/Twitter from OpenClaw with TweetClaw](skills/search-and-automate-x-twitter-from-openclaw-with-tweetclaw/) | Install and configure TweetClaw, the OpenClaw plugin for X/Twitter automation through Xquik. Use it when an agent… | Published | 84 | 90/wk |
 | [Expose FHIR healthcare data resources to MCP agents with review boundaries](skills/expose-fhir-healthcare-data-resources-to-mcp-agents-with-review-boundaries/) | Use a FHIR MCP server to query healthcare data resources for documentation and integration workflows while keeping… | Security Reviewed | 80 | — |
 | [Let MCP agents inspect and update Freshdesk tickets safely](skills/let-mcp-agents-inspect-and-update-freshdesk-tickets-safely/) | Connect Freshdesk modules to MCP clients so agents can retrieve ticket context and prepare supervised support actions. | Security Reviewed | 59 | — |
