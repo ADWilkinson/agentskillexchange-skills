@@ -2,12 +2,15 @@
 name: "Stockpile Market MCP"
 slug: "stockpile-market-mcp"
 description: "Autonomous e-commerce operations, store inventory curation, collectible valuations, and order fulfillment via Stockpile MCP."
+github_stars: 0
 verification: "listed"
 source: "https://github.com/casualbrooks/mcp-stockpile"
+author: "casualbrooks"
 category: "Integrations & Connectors"
 framework: "Multi-Framework"
 tool_ecosystem:
   github_repo: "casualbrooks/mcp-stockpile"
+  github_stars: 0
 ---
 
 # Stockpile Market MCP
@@ -116,3 +119,4 @@ After connecting, start with `list_my_stores` and `get_store_limits` to verify a
 No source-backed install or usage instructions could be extracted automatically. Review the upstream project before running this skill in a sensitive workflow.
 
 - Source: https://github.com/casualbrooks/mcp-stockpile
+
