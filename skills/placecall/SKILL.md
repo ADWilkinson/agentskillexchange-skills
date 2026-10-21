@@ -8,7 +8,6 @@ category: "Integrations & Connectors"
 framework: "MCP"
 tool_ecosystem:
   github_repo: "voygr-tech/placecall"
-  license: "MIT"
 ---
 
 # PlaceCall Phone Calls to Businesses
