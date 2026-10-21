@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-21
-# Total: 3168 skills
+# Total: 3169 skills
+
+## PlaceCall Phone Calls to Businesses
+slug: placecall
+category: Integrations & Connectors
+framework: MCP
+verification: Published
+description: Lets an agent place real outbound phone calls to US businesses through the PlaceCall remote MCP server or REST API: reservations, appointments, inquiries and…
+url: https://agentskillexchange.com/skills/placecall/
 
 ## Preview and verify token-saving coding-harness wiring with Tokless
 slug: preview-and-verify-token-saving-coding-harness-wiring-with-tokless

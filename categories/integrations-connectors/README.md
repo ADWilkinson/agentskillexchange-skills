@@ -218,6 +218,7 @@ Third-party API bridges, webhook handlers, service connectors, and platform inte
 | [JMT x402 Agent Tools](../../skills/jmt-x402-agent-tools/) | — | — |
 | [Linear Issue Triage & Sprint Planner](../../skills/linear-issue-triage-sprint-planner-2/) | — | — |
 | [Openhook](../../skills/openhook/) | — | — |
+| [PlaceCall Phone Calls to Businesses](../../skills/placecall/) | — | — |
 | [Plaid Financial Data Connector](../../skills/plaid-financial-data-connector/) | — | — |
 | [RouterBase API Integration](../../skills/routerbase-api-integration/) | — | — |
 | [Stockpile Market MCP](../../skills/stockpile-market-mcp/) | — | — |
