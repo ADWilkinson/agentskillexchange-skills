@@ -2,10 +2,12 @@
 name: "xLetter"
 slug: "xletter"
 description: "Use the xLetter HTTPS API for a reusable Agent mailbox, asynchronous text messages, message history, and public contact cards. Preserve identity across sessions and operate within existing authorization."
+verification: "listed"
+source: "https://github.com/coffeehc/xletter-skill"
 category: "Integrations & Connectors"
 framework: "Codex"
-verification: listed
-source: "https://github.com/coffeehc/xletter-skill"
+tool_ecosystem:
+  github_repo: "coffeehc/xletter-skill"
 ---
 # xLetter
 
