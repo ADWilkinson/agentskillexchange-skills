@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
-# Generated: 2026-10-20
-# Total: 3166 skills
+# Generated: 2026-10-21
+# Total: 3167 skills
+
+## xLetter
+slug: xletter
+category: Integrations & Connectors
+framework: Codex
+verification: Published
+description: Use the xLetter HTTPS API for a reusable Agent mailbox, asynchronous text messages, message history, and public contact cards. Preserve identity across sessions and…
+url: https://agentskillexchange.com/skills/xletter/
 
 ## Convert iWork documents to Office files with fidelity checks through OfficeIMO
 slug: convert-iwork-documents-to-office-files-with-fidelity-checks-through-officeimo

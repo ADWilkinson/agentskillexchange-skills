@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3166 published skills** across **17 categories** · 2,626 security reviewed · Updated 2026-10-20 19:26 UTC
+> **3167 published skills** across **17 categories** · 2,626 security reviewed · Updated 2026-10-21 01:26 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -1742,7 +1742,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=CI%2
 | [Update repository docs automatically after code changes and open review PRs](skills/update-repository-docs-automatically-after-code-changes-and-open-review-prs/) | Use GitHub Next's update-docs workflow when code changes should trigger documentation maintenance instead of waiting… | Security Reviewed | — | — |
 
 
-### 🔗 Integrations & Connectors (184 skills)
+### 🔗 Integrations & Connectors (185 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Integrations%20%26%20Connectors) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Integrations%20%26%20Connectors&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Integrations%20%26%20Connectors&sort=downloads)
 
@@ -1930,6 +1930,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Inte
 | [RouterBase API Integration](skills/routerbase-api-integration/) | Integrate agent applications with RouterBase as an OpenAI-compatible API gateway, including SDK base URL… | Published | — | — |
 | [Stockpile Market MCP](skills/stockpile-market-mcp/) | Autonomous e-commerce operations, store inventory curation, collectible valuations, and order fulfillment via… | Published | — | — |
 | [Verify a Nano (XNO) Payment](skills/verify-nano-payment/) | Verify that a Nano (XNO) payment has settled: confirm a send/receive block, read its amount and pay-to account from… | Published | — | — |
+| [xLetter](skills/xletter/) | Use the xLetter HTTPS API for a reusable Agent mailbox, asynchronous text messages, message history, and public… | Published | — | — |
 | [Zapier Multi-Step Lead Enrichment Workflow](skills/zapier-lead-enrichment-workflow/) | Builds a Zapier automation using the Zapier NLA API to trigger on new HubSpot form submissions and enrich contact… | Security Reviewed | — | — |
 | [Zapier Webhook Integration Builder](skills/zapier-webhook-integration-builder/) | Creates and manages Zapier integrations using the Zapier Platform CLI and REST Hooks API. Builds custom triggers,… | Security Reviewed | — | — |
 

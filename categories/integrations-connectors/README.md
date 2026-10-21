@@ -222,6 +222,7 @@ Third-party API bridges, webhook handlers, service connectors, and platform inte
 | [RouterBase API Integration](../../skills/routerbase-api-integration/) | — | — |
 | [Stockpile Market MCP](../../skills/stockpile-market-mcp/) | — | — |
 | [Verify a Nano (XNO) Payment](../../skills/verify-nano-payment/) | — | — |
+| [xLetter](../../skills/xletter/) | — | — |
 | [Zapier Multi-Step Lead Enrichment Workflow](../../skills/zapier-lead-enrichment-workflow/) | — | — |
 | [Zapier Webhook Integration Builder](../../skills/zapier-webhook-integration-builder/) | — | — |
 
