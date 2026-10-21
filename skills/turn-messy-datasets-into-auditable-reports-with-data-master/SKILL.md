@@ -8,6 +8,8 @@ author: "MAGA2010"
 publisher_type: "individual"
 category: "Data Extraction & Transformation"
 framework: "Codex"
+tool_ecosystem:
+  github_repo: "maga2010/data-master"
 ---
 
 # Turn messy datasets into auditable reports with data-master
@@ -27,54 +29,9 @@ the dataset owner; do not silently replace them with weaker assumptions.
 
 ## Installation
 
-Requires Python 3.11 or newer. The GitHub npm launcher also requires Node.js 20
-or newer and does not run installation hooks.
+No source-backed install or usage instructions could be extracted automatically. Review the upstream project before running this skill in a sensitive workflow.
 
-```bash
-npm install -g github:MAGA2010/data-master#v0.3.0
-data-master setup
-data-master doctor
-data-master skill install
-```
-
-To install from Python source instead:
-
-```bash
-git clone --branch v0.3.0 --depth 1 https://github.com/MAGA2010/data-master.git
-cd data-master
-python -m pip install .
-data-master doctor
-data-master skill install
-```
-
-`data-master skill install` registers the bundled skill in the Codex skills directory
-(`$CODEX_HOME/skills/data-master`, or `~/.codex/skills/data-master` by default).
-Restart Codex after installation so it discovers the skill. The installer refuses
-to overwrite an existing copy; use `--target <directory>` for a separate install.
-
-Run the bundled synthetic demonstration, then inspect both the report and audit:
-
-```bash
-data-master demo --out outputs/first-demo
-data-master verify outputs/first-demo --json
-```
-
-Analyze supplied data by declaring the grouping, independent-unit and outcome
-columns when they are known:
-
-```bash
-data-master analyze measurements.csv --out outputs/study \
-  --group treatment --unit-key participant_id \
-  --outcomes response_time,accuracy
-```
-
-If the run writes `answers.template.json`, obtain the missing study or cleaning
-decision from the user, fill the template using its stable decision IDs, and save
-the completed file as `outputs/study/answers.json`. Resume the saved run with:
-
-```bash
-data-master resume outputs/study/state.json --answers outputs/study/answers.json
-```
+- Source: https://github.com/MAGA2010/data-master
 
 ## Documentation
 
