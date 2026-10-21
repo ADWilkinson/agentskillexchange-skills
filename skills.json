@@ -1,8 +1,19 @@
 {
   "version": "2.0",
-  "total": 3169,
+  "total": 3170,
   "generated": "2026-10-21",
   "skills": [
+    {
+      "slug": "turn-messy-datasets-into-auditable-reports-with-data-master",
+      "name": "Turn messy datasets into auditable reports with data-master",
+      "title": "Turn messy datasets into auditable reports with data-master",
+      "description": "Use data-master to preserve raw tabular data, hold ambiguous cleaning decisions for review, run unit-aware statistics and sensitivity checks, and produce Markdown, HTML and…",
+      "category": "Data Extraction & Transformation",
+      "framework": "Codex",
+      "verification": "listed",
+      "source_url": "https://github.com/MAGA2010/data-master",
+      "github_repo": "maga2010/data-master"
+    },
     {
       "slug": "placecall",
       "name": "PlaceCall Phone Calls to Businesses",

@@ -271,6 +271,7 @@ Parsing, ETL pipelines, format conversion, data wrangling, and transformation ut
 | [Parquet to PostgreSQL Loader](../../skills/parquet-to-postgresql-loader/) | — | — |
 | [QuickBooks Online Invoice Reconciliation Agent](../../skills/quickbooks-invoice-reconciliation/) | — | — |
 | [Reddit Subreddit Sentiment Tracker](../../skills/reddit-subreddit-sentiment-tracker/) | — | — |
+| [Turn messy datasets into auditable reports with data-master](../../skills/turn-messy-datasets-into-auditable-reports-with-data-master/) | — | — |
 | [WebAsk Results Digest](../../skills/webask-results-digest/) | — | — |
 | [Weights & Biases Run Monitor](../../skills/wandb-run-monitor/) | — | — |
 

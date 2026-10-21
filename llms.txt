@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-21
-# Total: 3169 skills
+# Total: 3170 skills
+
+## Turn messy datasets into auditable reports with data-master
+slug: turn-messy-datasets-into-auditable-reports-with-data-master
+category: Data Extraction & Transformation
+framework: Codex
+verification: Published
+description: Use data-master to preserve raw tabular data, hold ambiguous cleaning decisions for review, run unit-aware statistics and sensitivity checks, and produce Markdown, HTML and…
+url: https://agentskillexchange.com/skills/turn-messy-datasets-into-auditable-reports-with-data-master/
 
 ## PlaceCall Phone Calls to Businesses
 slug: placecall
