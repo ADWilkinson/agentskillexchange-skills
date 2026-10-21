@@ -1,8 +1,22 @@
 {
   "version": "2.0",
-  "total": 3167,
+  "total": 3168,
   "generated": "2026-10-21",
   "skills": [
+    {
+      "slug": "preview-and-verify-token-saving-coding-harness-wiring-with-tokless",
+      "name": "Preview and verify token-saving coding-harness wiring with Tokless",
+      "title": "Preview and verify token-saving coding-harness wiring with Tokless",
+      "description": "Preview selected tool and harness configuration, apply Tokless-managed token-saving wiring, and return a versioned diagnostic report across coding agents.",
+      "category": "Developer Tools",
+      "framework": "Multi-Framework",
+      "verification": "listed",
+      "signals": {
+        "github_stars": 295
+      },
+      "source_url": "https://github.com/HoangP8/tokless",
+      "github_repo": "HoangP8/tokless"
+    },
     {
       "slug": "xletter",
       "name": "xLetter",

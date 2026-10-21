@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3167 published skills** across **17 categories** · 2,626 security reviewed · Updated 2026-10-21 01:26 UTC
+> **3168 published skills** across **17 categories** · 2,626 security reviewed · Updated 2026-10-21 07:26 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -8,7 +8,7 @@
 
 ## Skills by Category
 
-### 🛠️ Developer Tools (529 skills)
+### 🛠️ Developer Tools (530 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=downloads)
 
@@ -479,6 +479,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [Run declarative multi-agent CLI workflows with Comanda](skills/run-declarative-multi-agent-cli-workflows-with-comanda/) | Turns repeatable AI work into versioned YAML pipelines that can call Claude Code, Codex, Gemini CLI, Kimi Code, API… | Security Reviewed | 315 | — |
 | [Migrate Spring Boot 3.5 applications to Boot 4 with staged agent checks](skills/migrate-spring-boot-35-applications-to-boot-4-with-staged-agent-checks/) | Use the named Spring Boot migration skill to prepare a focused upgrade diff and verify dependency, configuration,… | Published | 311 | — |
 | [Connect RStudio to MCP Agents with ClaudeR](skills/connect-rstudio-to-mcp-agents-with-clauder/) | Use ClaudeR to expose an active RStudio session to MCP-capable coding and research agents for R execution, plots,… | Security Reviewed | 305 | — |
+| [Preview and verify token-saving coding-harness wiring with Tokless](skills/preview-and-verify-token-saving-coding-harness-wiring-with-tokless/) | Preview selected tool and harness configuration, apply Tokless-managed token-saving wiring, and return a versioned… | Published | 295 | — |
 | [Run Autoprompt coordination loops across coding agents](skills/run-autoprompt-coordination-loops-across-coding-agents/) | Use Autoprompt when an operator wants a coding agent to turn one goal into a planned, delegated, reviewed, and… | Security Reviewed | 293 | 122/wk |
 | [Install focused Claude Code workflow plugins from Claude Night Market](skills/install-focused-claude-code-workflow-plugins-from-claude-night-market/) | Review and install only the Claude Night Market plugins needed for a specific Claude Code workflow, such as PR prep,… | Security Reviewed | 291 | — |
 | [Carry Coding-Agent Memory Across Tools with Engrim](skills/carry-coding-agent-memory-across-tools-engrim/) | Use Engrim to give Codex CLI, Claude Code, Cursor, OpenCode, GitHub Copilot CLI, and Google Antigravity a shared… | Security Reviewed | 282 | — |

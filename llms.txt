@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-21
-# Total: 3167 skills
+# Total: 3168 skills
+
+## Preview and verify token-saving coding-harness wiring with Tokless
+slug: preview-and-verify-token-saving-coding-harness-wiring-with-tokless
+category: Developer Tools
+framework: Multi-Framework
+verification: Published
+description: Preview selected tool and harness configuration, apply Tokless-managed token-saving wiring, and return a versioned diagnostic report across coding agents.
+url: https://agentskillexchange.com/skills/preview-and-verify-token-saving-coding-harness-wiring-with-tokless/
 
 ## xLetter
 slug: xletter

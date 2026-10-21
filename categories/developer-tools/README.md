@@ -505,6 +505,7 @@ CLI helpers, dev environment setup, productivity utilities, and developer workfl
 | [Run declarative multi-agent CLI workflows with Comanda](../../skills/run-declarative-multi-agent-cli-workflows-with-comanda/) | 315 | — |
 | [Migrate Spring Boot 3.5 applications to Boot 4 with staged agent checks](../../skills/migrate-spring-boot-35-applications-to-boot-4-with-staged-agent-checks/) | 311 | — |
 | [Connect RStudio to MCP Agents with ClaudeR](../../skills/connect-rstudio-to-mcp-agents-with-clauder/) | 305 | — |
+| [Preview and verify token-saving coding-harness wiring with Tokless](../../skills/preview-and-verify-token-saving-coding-harness-wiring-with-tokless/) | 295 | — |
 | [Run Autoprompt coordination loops across coding agents](../../skills/run-autoprompt-coordination-loops-across-coding-agents/) | 293 | 122/wk |
 | [Install focused Claude Code workflow plugins from Claude Night Market](../../skills/install-focused-claude-code-workflow-plugins-from-claude-night-market/) | 291 | — |
 | [Carry Coding-Agent Memory Across Tools with Engrim](../../skills/carry-coding-agent-memory-across-tools-engrim/) | 282 | — |
