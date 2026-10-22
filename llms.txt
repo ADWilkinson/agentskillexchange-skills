@@ -1,7 +1,31 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-22
-# Total: 3173 skills
+# Total: 3176 skills
+
+## PaperPilot CSV Preflight
+slug: paperpilot-csv-preflight
+category: Data Extraction & Transformation
+framework: Codex
+verification: Published
+description: Inspect up to 32 KiB of UTF-8 CSV locally with dependency-free Node.js, detecting inconsistent column widths, quoted-field errors, blank headers, duplicates and spreadsheet-formula-shaped values…
+url: https://agentskillexchange.com/skills/paperpilot-csv-preflight/
+
+## Recover Playwright selectors after UI refactors with QA Skills
+slug: recover-playwright-selectors-after-ui-refactors-with-qa-skills
+category: Code Quality & Review
+framework: Multi-Framework
+verification: Security Reviewed
+description: Compare old and new UI evidence, repair confirmed locator drift in existing Playwright tests, and return a validated diff with per-change evidence.
+url: https://agentskillexchange.com/skills/recover-playwright-selectors-after-ui-refactors-with-qa-skills/
+
+## Co-edit and verify a live spreadsheet session through GridCraft MCP
+slug: co-edit-and-verify-a-live-spreadsheet-session-through-gridcraft-mcp
+category: Data Extraction & Transformation
+framework: MCP
+verification: Security Reviewed
+description: Connect an agent to the GridCraft workbook open on a user’s desktop, make scoped edits, and return formula readbacks plus a screenshot for review.
+url: https://agentskillexchange.com/skills/co-edit-and-verify-a-live-spreadsheet-session-through-gridcraft-mcp/
 
 ## Install and write Faber Romanus
 slug: install-and-write-faber-romanus

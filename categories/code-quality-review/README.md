@@ -209,6 +209,7 @@ Linting rules, review checklists, code standards enforcement, and quality gates.
 | [Run focused accessibility review agents against coding-tool output with Accessibility Agents](../../skills/run-focused-accessibility-review-agents-with-accessibility-agents/) | 235 | — |
 | [Render pull request architecture diagrams with PR Lens](../../skills/render-pull-request-architecture-diagrams-with-pr-lens/) | 212 | 672/wk |
 | [Validate Python Docstrings Against Function Signatures with pydoclint](../../skills/validate-python-docstrings-against-function-signatures-with-pydoclint/) | 208 | — |
+| [Recover Playwright selectors after UI refactors with QA Skills](../../skills/recover-playwright-selectors-after-ui-refactors-with-qa-skills/) | 203 | — |
 | [Run independent multi-agent build and review flows with OPC](../../skills/run-independent-multi-agent-build-and-review-flows-with-opc/) | 192 | 315/wk |
 | [Lint reStructuredText docs and release notes before Sphinx publishing with doc8](../../skills/lint-restructuredtext-docs-and-release-notes-before-sphinx-publishing-with-doc8/) | 176 | — |
 | [Serve codebase impact context to agents with Trace MCP](../../skills/serve-codebase-impact-context-to-agents-with-trace-mcp/) | 154 | 6.6k/wk |

@@ -155,6 +155,7 @@ Parsing, ETL pipelines, format conversion, data wrangling, and transformation ut
 | [Migrate MySQL, SQLite, or CSV data into PostgreSQL with repeatable load files before cutover with pgloader](../../skills/migrate-mysql-sqlite-or-csv-data-into-postgresql-with-repeatable-load-files-before-cutover-with-pgloader/) | 6.4k | — |
 | [Sync cloud and SaaS inventory into SQL tables for audits with CloudQuery](../../skills/sync-cloud-and-saas-inventory-into-sql-tables-for-audits-with-cloudquery/) | 6.4k | — |
 | [csvkit Python CSV Utility Suite](../../skills/csvkit-python-csv-utility-suite/) | 6.4k | — |
+| [Co-edit and verify a live spreadsheet session through GridCraft MCP](../../skills/co-edit-and-verify-a-live-spreadsheet-session-through-gridcraft-mcp/) | 6.2k | — |
 | [Apache Camel Route Data Mapper](../../skills/apache-camel-route-data-mapper/) | 6.2k | — |
 | [Convert DOCX documents into clean HTML for publishing workflows with Mammoth](../../skills/convert-docx-documents-into-clean-html-for-publishing-workflows-mammoth/) | 6.2k | 18.3M/wk |
 | [Evidence BI-as-Code SQL and Markdown Analytics Framework](../../skills/evidence-bi-as-code-sql-markdown-analytics/) | 6.1k | — |
@@ -268,6 +269,7 @@ Parsing, ETL pipelines, format conversion, data wrangling, and transformation ut
 | [Live Search Console Data](../../skills/live-search-console-data/) | — | — |
 | [looot Business Data Lookups Over MCP](../../skills/looot-business-data-lookups-over-mcp/) | — | — |
 | [Metabase Dashboard Snapshot & Alerting](../../skills/metabase-dashboard-snapshot-alerting-2/) | — | — |
+| [PaperPilot CSV Preflight](../../skills/paperpilot-csv-preflight/) | — | — |
 | [Parquet to PostgreSQL Loader](../../skills/parquet-to-postgresql-loader/) | — | — |
 | [QuickBooks Online Invoice Reconciliation Agent](../../skills/quickbooks-invoice-reconciliation/) | — | — |
 | [Reddit Subreddit Sentiment Tracker](../../skills/reddit-subreddit-sentiment-tracker/) | — | — |

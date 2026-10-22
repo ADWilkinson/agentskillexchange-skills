@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3173 published skills** across **17 categories** · 2,630 security reviewed · Updated 2026-10-22 07:27 UTC
+> **3176 published skills** across **17 categories** · 2,630 security reviewed · Updated 2026-10-22 13:26 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -1088,7 +1088,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Secu
 | [TLS Certificate Chain Validator](skills/tls-certificate-chain-validator/) | Validates TLS/SSL certificate chains using OpenSSL x509 verification and checks OCSP stapling status. Integrates… | Security Reviewed | — | — |
 
 
-### 🔄 Data Extraction & Transformation (234 skills)
+### 🔄 Data Extraction & Transformation (236 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Data%20Extraction%20%26%20Transformation) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Data%20Extraction%20%26%20Transformation&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Data%20Extraction%20%26%20Transformation&sort=downloads)
 
@@ -1209,6 +1209,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Data
 | [Migrate MySQL, SQLite, or CSV data into PostgreSQL with repeatable load files before cutover with pgloader](skills/migrate-mysql-sqlite-or-csv-data-into-postgresql-with-repeatable-load-files-before-cutover-with-pgloader/) | Move data into PostgreSQL with declarative load files, built-in type conversion, and repeatable migration runs… | Security Reviewed | 6.4k | — |
 | [Sync cloud and SaaS inventory into SQL tables for audits with CloudQuery](skills/sync-cloud-and-saas-inventory-into-sql-tables-for-audits-with-cloudquery/) | Extract cloud and SaaS configuration data into queryable tables so agents can run audits, drift checks, and evidence… | Security Reviewed | 6.4k | — |
 | [csvkit Python CSV Utility Suite](skills/csvkit-python-csv-utility-suite/) | csvkit is a suite of Python command-line utilities for converting to, working with, and analyzing CSV files. It… | Security Reviewed | 6.4k | — |
+| [Co-edit and verify a live spreadsheet session through GridCraft MCP](skills/co-edit-and-verify-a-live-spreadsheet-session-through-gridcraft-mcp/) | Connect an agent to the GridCraft workbook open on a user’s desktop, make scoped edits, and return formula readbacks… | Security Reviewed | 6.2k | — |
 | [Apache Camel Route Data Mapper](skills/apache-camel-route-data-mapper/) | Maps and transforms data between systems using Apache Camel route definitions and the Camel Component API. Supports… | Security Reviewed | 6.2k | — |
 | [Convert DOCX documents into clean HTML for publishing workflows with Mammoth](skills/convert-docx-documents-into-clean-html-for-publishing-workflows-mammoth/) | Use Mammoth when an agent needs to turn a .docx file into simple HTML that preserves semantic structure instead of… | Security Reviewed | 6.2k | 18.3M/wk |
 | [Evidence BI-as-Code SQL and Markdown Analytics Framework](skills/evidence-bi-as-code-sql-markdown-analytics/) | Evidence is an open-source framework for building data products with SQL and Markdown. It generates interactive… | Security Reviewed | 6.1k | — |
@@ -1322,6 +1323,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Data
 | [Live Search Console Data](skills/live-search-console-data/) | Give Claude Code, Codex, or OpenCode live access to Google Search Console and GA4 data through RefreshAgent.… | Published | — | — |
 | [looot Business Data Lookups Over MCP](skills/looot-business-data-lookups-over-mcp/) | Gives an agent one MCP connection to about 2,500 data endpoints from 90+ providers: find a work email or phone,… | Published | — | — |
 | [Metabase Dashboard Snapshot & Alerting](skills/metabase-dashboard-snapshot-alerting-2/) | Uses the Metabase REST API to export question results as CSV and render dashboard PNGs on schedule. Compares key… | Security Reviewed | — | — |
+| [PaperPilot CSV Preflight](skills/paperpilot-csv-preflight/) | Inspect up to 32 KiB of UTF-8 CSV locally with dependency-free Node.js, detecting inconsistent column widths,… | Published | — | — |
 | [Parquet to PostgreSQL Loader](skills/parquet-to-postgresql-loader/) | Reads Apache Parquet files using PyArrow and bulk-loads them into PostgreSQL via psycopg2 COPY protocol. Handles… | Published | — | — |
 | [QuickBooks Online Invoice Reconciliation Agent](skills/quickbooks-invoice-reconciliation/) | Connects to the QuickBooks Online Accounting API using OAuth 2.0 via the intuit-oauth Node.js SDK to fetch unpaid… | Published | — | — |
 | [Reddit Subreddit Sentiment Tracker](skills/reddit-subreddit-sentiment-tracker/) | Uses the Reddit OAuth2 API via PRAW to collect top posts and comments from subreddits on a rolling 24-hour window,… | Security Reviewed | — | — |
@@ -1330,7 +1332,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Data
 | [Weights & Biases Run Monitor](skills/wandb-run-monitor/) | Uses the W&B Python SDK and Public API to stream live training metrics, system stats, and gradients from active… | Security Reviewed | — | — |
 
 
-### ✅ Code Quality & Review (207 skills)
+### ✅ Code Quality & Review (208 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Code%20Quality%20%26%20Review) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Code%20Quality%20%26%20Review&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Code%20Quality%20%26%20Review&sort=downloads)
 
@@ -1505,6 +1507,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Code
 | [Run focused accessibility review agents against coding-tool output with Accessibility Agents](skills/run-focused-accessibility-review-agents-with-accessibility-agents/) | Dispatch specialized WCAG review agents to inspect code or content before inaccessible patterns ship. | Published | 235 | — |
 | [Render pull request architecture diagrams with PR Lens](skills/render-pull-request-architecture-diagrams-with-pr-lens/) | Have an agent turn a code diff into validated architecture and data-flow diagrams, then attach the rendered SVGs to… | Security Reviewed | 212 | 672/wk |
 | [Validate Python Docstrings Against Function Signatures with pydoclint](skills/validate-python-docstrings-against-function-signatures-with-pydoclint/) | Check that Python docstrings stay consistent with parameters, returns, and raised exceptions as code evolves. | Security Reviewed | 208 | — |
+| [Recover Playwright selectors after UI refactors with QA Skills](skills/recover-playwright-selectors-after-ui-refactors-with-qa-skills/) | Compare old and new UI evidence, repair confirmed locator drift in existing Playwright tests, and return a validated… | Security Reviewed | 203 | — |
 | [Run independent multi-agent build and review flows with OPC](skills/run-independent-multi-agent-build-and-review-flows-with-opc/) | Use OPC as a Claude Code skill to select a task flow, dispatch specialist roles, enforce independent review, and… | Security Reviewed | 192 | 315/wk |
 | [Lint reStructuredText docs and release notes before Sphinx publishing with doc8](skills/lint-restructuredtext-docs-and-release-notes-before-sphinx-publishing-with-doc8/) | Catch structural and line-style problems in reStructuredText docs before release notes and Sphinx pages go out… | Security Reviewed | 176 | — |
 | [Serve codebase impact context to agents with Trace MCP](skills/serve-codebase-impact-context-to-agents-with-trace-mcp/) | Use Trace MCP to index a repository once and let MCP-capable coding agents query framework-aware code, dependency,… | Security Reviewed | 154 | 6.6k/wk |

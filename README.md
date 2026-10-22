@@ -4,7 +4,7 @@
 
 ### Curated and trusted AI agent skills
 
-[![Published](https://img.shields.io/badge/published-3%2C173-6366f1?style=for-the-badge)](CATALOG.md)
+[![Published](https://img.shields.io/badge/published-3%2C176-6366f1?style=for-the-badge)](CATALOG.md)
 [![Industry%20Collections](https://img.shields.io/badge/industry--collections-15-14b8a6?style=for-the-badge)](industries/README.md)
 [![Categories](https://img.shields.io/badge/categories-17-0ea5e9?style=for-the-badge)](categories/README.md)
 [![Security%20Reviewed](https://img.shields.io/badge/security--reviewed-2%2C630-10b981?style=for-the-badge)](verification/)
@@ -12,7 +12,7 @@
 
 **[Catalog](CATALOG.md) · [Live Browse](https://agentskillexchange.com/browse-skills/) · [Categories](categories/README.md) · [Industry Collections](industries/README.md) · [Top Starred](TOP-STARS.md) · [Top Downloaded](TOP-DOWNLOADS.md) · [Submit a Skill](#submit-a-skill)**
 
-*3,173 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
+*3,176 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
 
 *Star this repo to keep the agent skill catalog handy and follow new additions.*
 
@@ -87,6 +87,9 @@ See the full overlay index in [industries/README.md](industries/README.md).
 
 | Skill | What it helps with | Stars | Category |
 |---|---|---:|---|
+| [PaperPilot CSV Preflight](skills/paperpilot-csv-preflight/) | Inspect up to 32 KiB of UTF-8 CSV locally with dependency-free Node.js, detecting inconsistent column widths, quoted-field errors... | - | Data Extraction & Transformation |
+| [Recover Playwright selectors after UI refactors with QA Skills](skills/recover-playwright-selectors-after-ui-refactors-with-qa-skills/) | Compare old and new UI evidence, repair confirmed locator drift in existing Playwright tests, and return a validated... | 203 | Code Quality & Review |
+| [Co-edit and verify a live spreadsheet session through GridCraft MCP](skills/co-edit-and-verify-a-live-spreadsheet-session-through-gridcraft-mcp/) | Connect an agent to the GridCraft workbook open on a user’s desktop, make scoped edits, and return formula... | 6.2k | Data Extraction & Transformation |
 | [Install and write Faber Romanus](skills/install-and-write-faber-romanus/) | Download the Faber CLI and write Faber Romanus programs using the official agent skill guides (install, English reader... | - | Developer Tools |
 | [Retrieve permission-scoped workplace evidence through Onyx MCP](skills/retrieve-permission-scoped-workplace-evidence-through-onyx-mcp/) | Search an existing Onyx workspace within an explicit document-set or agent scope, then return source-linked evidence for a... | 32.8k | Integrations & Connectors |
 | [Supervise and reconcile persistent coding-agent crews with Firstmate](skills/supervise-and-reconcile-persistent-coding-agent-crews-with-firstmate/) | Dispatch scoped coding tasks into isolated worktrees, supervise durable task events, and reconcile the same crew after a... | 8.1k | Developer Tools |
@@ -94,9 +97,6 @@ See the full overlay index in [industries/README.md](industries/README.md).
 | [PlaceCall Phone Calls to Businesses](skills/placecall/) | Lets an agent place real outbound phone calls to US businesses through the PlaceCall remote MCP server or... | - | Integrations & Connectors |
 | [Preview and verify token-saving coding-harness wiring with Tokless](skills/preview-and-verify-token-saving-coding-harness-wiring-with-tokless/) | Preview selected tool and harness configuration, apply Tokless-managed token-saving wiring, and return a versioned diagnostic report across coding... | 295 | Developer Tools |
 | [xLetter](skills/xletter/) | Use the xLetter HTTPS API for a reusable Agent mailbox, asynchronous text messages, message history, and public contact... | - | Integrations & Connectors |
-| [Convert iWork documents to Office files with fidelity checks through OfficeIMO](skills/convert-iwork-documents-to-office-files-with-fidelity-checks-through-officeimo/) | Convert Pages, Numbers, and Keynote files into Office artifacts over MCP, retaining source hashes, strict acceptance results, and... | 616 | Data Extraction & Transformation |
-| [Transfer clothed character poses from mannequin renders with Qwen Pose](skills/transfer-clothed-character-poses-from-mannequin-renders-with-qwen-pose/) | Apply an existing textureless 3D mannequin pose to a clothed character image through a repeatable local ComfyUI edit... | 3.5k | Image & Creative Automation |
-| [Extract reviewable relationship timelines from chat exports with Afterglow](skills/extract-relationship-timelines-from-chat-exports-with-afterglow/) | Analyze supplied chat exports into resumable JSON and Markdown relationship timelines, with block coverage and skipped-input diagnostics | 317 | Data Extraction & Transformation |
 
 ---
 
@@ -104,6 +104,7 @@ See the full overlay index in [industries/README.md](industries/README.md).
 
 | Contributor | Skill | What it helps with | Category |
 |---|---|---|---|
+| [livastic-vm1-primary](https://github.com/livastic-vm1-primary) | [PaperPilot CSV Preflight](skills/paperpilot-csv-preflight/) | Inspect up to 32 KiB of UTF-8 CSV locally with dependency-free Node.js, detecting inconsistent column widths, quoted-field errors... | Data Extraction & Transformation |
 | [gagankcai-jpg](https://github.com/gagankcai-jpg) | [Install and write Faber Romanus](skills/install-and-write-faber-romanus/) | Download the Faber CLI and write Faber Romanus programs using the official agent skill guides (install, English reader... | Developer Tools |
 | [MAGA2010](https://github.com/MAGA2010) | [Turn messy datasets into auditable reports with data-master](skills/turn-messy-datasets-into-auditable-reports-with-data-master/) | Use data-master to preserve raw tabular data, hold ambiguous cleaning decisions for review, run unit-aware statistics and sensitivity... | Data Extraction & Transformation |
 | [borzelo](https://github.com/borzelo) | [PlaceCall Phone Calls to Businesses](skills/placecall/) | Lets an agent place real outbound phone calls to US businesses through the PlaceCall remote MCP server or... | Integrations & Connectors |
@@ -113,7 +114,6 @@ See the full overlay index in [industries/README.md](industries/README.md).
 | [yumaheymans](https://github.com/yumaheymans) | [Healthcare Job Search (US) with CareJobs.Now](skills/healthcare-job-search-carejobs-now/) | Lets an agent find open US healthcare jobs and the hourly pay employers post, through the free CareJobs.Now... | Library & API Reference |
 | [casualbrooks](https://github.com/casualbrooks) | [Stockpile Market MCP](skills/stockpile-market-mcp/) | Autonomous e-commerce operations, store inventory curation, collectible valuations, and order fulfillment via Stockpile MCP | Integrations & Connectors |
 | [SergiuPogor](https://github.com/SergiuPogor) | [CurlShot Website Screenshots Over MCP](skills/curlshot-website-screenshots-over-mcp/) | Gives an agent a remote MCP server that takes screenshots of web pages: a public URL in, a... | Browser Automation |
-| [mozzie49](https://github.com/mozzie49) | [Jira Import Doctor](skills/jira-import-doctor/) | Diagnose a failed or partial Jira CSV import from a local source CSV, one attempt's log, and explicit... | Runbooks & Diagnostics |
 
 ---
 
@@ -132,7 +132,7 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 | [Schedule Node Agent Jobs with node-cron](skills/schedule-node-agent-jobs-with-node-cron/) | Use node-cron to add recurring background jobs to Node.js agent services with overlap prevention, distributed coordination, background task... | 3.3k | Templates & Workflows |
 | [Retrieve permission-scoped workplace evidence through Onyx MCP](skills/retrieve-permission-scoped-workplace-evidence-through-onyx-mcp/) | Search an existing Onyx workspace within an explicit document-set or agent scope, then return source-linked evidence for a... | 32.8k | Integrations & Connectors |
 | [Run a Docling API server for agent document conversion](skills/run-a-docling-api-server-for-agent-document-conversion/) | Deploy Docling API so agents can convert PDFs, Office files, images, HTML, CSV, and other documents into Markdown... | 1.7k | Data Extraction & Transformation |
-| [Run agentic quality engineering checks with Agentic QE](skills/run-agentic-quality-engineering-checks-with-agentic-qe/) | Configure Agentic QE in a repository so a coding agent can generate tests, inspect coverage gaps, investigate flaky... | 495 | Code Quality & Review |
+| [Co-edit and verify a live spreadsheet session through GridCraft MCP](skills/co-edit-and-verify-a-live-spreadsheet-session-through-gridcraft-mcp/) | Connect an agent to the GridCraft workbook open on a user’s desktop, make scoped edits, and return formula... | 6.2k | Data Extraction & Transformation |
 
 ---
 
@@ -143,8 +143,8 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 | 🛠️ | [**Developer Tools**](categories/developer-tools/) | 532 | CLI tools, scaffolders, dev environment setup |
 | 📄 | [**Templates & Workflows**](categories/templates-workflows/) | 267 | Scaffolders, boilerplate generators, workflow templates |
 | 🔒 | [**Security & Verification**](categories/security-verification/) | 257 | Vulnerability scanning, auth setup, compliance |
-| 🔄 | [**Data Extraction & Transformation**](categories/data-extraction-transformation/) | 234 | ETL pipelines, parsing, format conversion |
-| ✅ | [**Code Quality & Review**](categories/code-quality-review/) | 207 | Linting, code review, test generators, coverage |
+| 🔄 | [**Data Extraction & Transformation**](categories/data-extraction-transformation/) | 236 | ETL pipelines, parsing, format conversion |
+| ✅ | [**Code Quality & Review**](categories/code-quality-review/) | 208 | Linting, code review, test generators, coverage |
 | 🔧 | [**CI/CD Integrations**](categories/ci-cd-integrations/) | 193 | Pipeline configs, deployment automation, build tooling |
 | 🔗 | [**Integrations & Connectors**](categories/integrations-connectors/) | 187 | Third-party API bridges, webhooks, service connectors |
 | 📋 | [**Runbooks & Diagnostics**](categories/runbooks-diagnostics/) | 182 | Incident response, troubleshooting, system diagnostics |
@@ -219,7 +219,7 @@ Every skill is backed by a real tool, repo, or package. New skills require real 
 
 | Tier | Count | Meaning |
 |------|------:|---|
-| 📋 **Published** | 3,173 | In the catalog — every skill is backed by a real tool, repo, or package |
+| 📋 **Published** | 3,176 | In the catalog — every skill is backed by a real tool, repo, or package |
 | 🛡️ **Security Reviewed** | 2,630 | Scanned for malicious patterns, prompt injection, and unsafe instructions |
 
 More: [verification/](verification/)
