@@ -2,10 +2,10 @@
 name: "PaperPilot CSV Preflight"
 slug: "paperpilot-csv-preflight"
 description: "Inspect up to 32 KiB of UTF-8 CSV locally with dependency-free Node.js, detecting inconsistent column widths, quoted-field errors, blank headers, duplicates and spreadsheet-formula-shaped values before any import. Never uploads input. A separate optional x402 Base USDC API is only explained if the user explicitly requests paid hosted checking."
+verification: "listed"
+source: "https://github.com/livastic-vm1-primary/paperpilot-tools/tree/main/.agents/skills/paperpilot-csv-preflight"
 category: "Data Extraction & Transformation"
 framework: "Codex"
-verification: listed
-source: "https://github.com/livastic-vm1-primary/paperpilot-tools/tree/main/.agents/skills/paperpilot-csv-preflight"
 ---
 
 # PaperPilot CSV Preflight
@@ -14,37 +14,9 @@ This skill provides a **free, deterministic, strictly local** structural preview
 
 ## Installation
 
-### Published catalog or original source
+No source-backed install or usage instructions could be extracted automatically. Review the upstream project before running this skill in a sensitive workflow.
 
-Once this proposed Agent Skill Exchange directory entry is accepted, an agent can install the copy from the catalog with:
-
-```sh
-npm exec --package=skills@1.5.7 -- skills add agentskillexchange/skills --skill "PaperPilot CSV Preflight"
-```
-
-**Why the quoted name matters:** the pinned third-party Skills CLI matches the
-`name` in the skill frontmatter, **not** this directory's AgentSkillExchange
-`slug`. In this proposed catalog entry, `name` is exactly
-`PaperPilot CSV Preflight` and `slug` remains
-`paperpilot-csv-preflight`. Catalog installation will become available
-**only if maintainers merge this entry**; a draft pull request is not an
-installed/published skill. Do not interpret an unresolved catalog lookup as a
-paid or deployed service.
-
-The independently tested original skill is **already** available directly without relying on catalog acceptance:
-
-```sh
-npm exec --package=skills@1.5.7 -- skills add livastic-vm1-primary/paperpilot-tools --skill paperpilot-csv-preflight
-```
-
-The upstream source uses `name: paperpilot-csv-preflight`, so its selector
-intentionally differs. `skills@1.5.7` is a **pinned optional third-party
-installer**, not a mandatory runtime dependency. Verify the installer and
-installed directory before running user-owned files; for a manual installation,
-copy this catalog skill's `SKILL.md`, `scripts/`, and `tests/` together under
-your own agent's supported skills directory. The **free CLI itself requires only Node.js**.
-
-Use Node.js 18 or newer. Inspect the public source before installing code. The skill is free, and its local scripts require no third-party packages, network credentials, or wallet.
+- Source: https://github.com/livastic-vm1-primary/paperpilot-tools/tree/main/.agents/skills/paperpilot-csv-preflight
 
 ## Reproducible local regression checks
 
