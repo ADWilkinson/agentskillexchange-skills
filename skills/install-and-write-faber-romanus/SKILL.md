@@ -2,12 +2,12 @@
 name: "Install and write Faber Romanus"
 slug: "install-and-write-faber-romanus"
 description: "Download the Faber CLI and write Faber Romanus programs using the official agent skill guides (install, English reader spelling, packages, corpus)."
-category: "Developer Tools"
-framework: "Multi-Framework"
-verification: listed
+verification: "listed"
 source: "https://github.com/faberlang/faber"
 author: "faberlang"
 publisher_type: "organization"
+category: "Developer Tools"
+framework: "Multi-Framework"
 tool_ecosystem:
   github_repo: "faberlang/faber"
 ---
@@ -42,34 +42,9 @@ Require both commands to exit successfully and the runner to print `Hello, world
 
 ## Installation
 
-### OpenClaw
+No source-backed install or usage instructions could be extracted automatically. Review the upstream project before running this skill in a sensitive workflow.
 
-```bash
-clawhub install install-and-write-faber-romanus
-```
-
-### Direct repo/manual install
-
-Set `skill_root` to a skill folder your agent runtime loads (the path below is an example), then clone and copy the entry. Stop if the destination already exists and review it before replacing anything:
-
-```bash
-git clone https://github.com/agentskillexchange/skills.git
-skill_root="$HOME/.agent-skills"
-mkdir -p "$skill_root"
-if [ -e "$skill_root/install-and-write-faber-romanus" ] || [ -L "$skill_root/install-and-write-faber-romanus" ]; then
-  echo "Destination exists; review it before replacing the skill."
-else
-  cp -R skills/skills/install-and-write-faber-romanus "$skill_root/"
-fi
-```
-
-### Optional Third-Party Installer
-
-The `skills` npm package is maintained by Vercel Labs / third parties, not AgentSkillExchange. If you choose to use it, pin the package version:
-
-```bash
-npm exec --package=skills@1.5.7 -- skills add agentskillexchange/skills --skill install-and-write-faber-romanus
-```
+- Source: https://github.com/faberlang/faber
 
 ## Reviewed provenance
 
