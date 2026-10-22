@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
-# Generated: 2026-10-21
-# Total: 3170 skills
+# Generated: 2026-10-22
+# Total: 3171 skills
+
+## Supervise and reconcile persistent coding-agent crews with Firstmate
+slug: supervise-and-reconcile-persistent-coding-agent-crews-with-firstmate
+category: Developer Tools
+framework: Multi-Framework
+verification: Security Reviewed
+description: Dispatch scoped coding tasks into isolated worktrees, supervise durable task events, and reconcile the same crew after a primary-session restart.
+url: https://agentskillexchange.com/skills/supervise-and-reconcile-persistent-coding-agent-crews-with-firstmate/
 
 ## Turn messy datasets into auditable reports with data-master
 slug: turn-messy-datasets-into-auditable-reports-with-data-master

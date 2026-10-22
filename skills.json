@@ -1,8 +1,22 @@
 {
   "version": "2.0",
-  "total": 3170,
-  "generated": "2026-10-21",
+  "total": 3171,
+  "generated": "2026-10-22",
   "skills": [
+    {
+      "slug": "supervise-and-reconcile-persistent-coding-agent-crews-with-firstmate",
+      "name": "Supervise and reconcile persistent coding-agent crews with Firstmate",
+      "title": "Supervise and reconcile persistent coding-agent crews with Firstmate",
+      "description": "Dispatch scoped coding tasks into isolated worktrees, supervise durable task events, and reconcile the same crew after a primary-session restart.",
+      "category": "Developer Tools",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "signals": {
+        "github_stars": 8149
+      },
+      "source_url": "https://github.com/kunchenguid/firstmate",
+      "github_repo": "kunchenguid/firstmate"
+    },
     {
       "slug": "turn-messy-datasets-into-auditable-reports-with-data-master",
       "name": "Turn messy datasets into auditable reports with data-master",

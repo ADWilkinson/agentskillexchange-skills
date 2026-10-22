@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3170 published skills** across **17 categories** · 2,627 security reviewed · Updated 2026-10-21 19:27 UTC
+> **3171 published skills** across **17 categories** · 2,627 security reviewed · Updated 2026-10-22 01:26 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -8,7 +8,7 @@
 
 ## Skills by Category
 
-### 🛠️ Developer Tools (530 skills)
+### 🛠️ Developer Tools (531 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=downloads)
 
@@ -246,6 +246,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [Run multi-session coding-agent workflows with jcode](skills/run-multi-session-coding-agent-workflows-with-jcode/) | Use jcode as a local coding-agent harness for long-running, multi-session repository work with custom provider and… | Security Reviewed | 8.2k | — |
 | [Starlight Documentation Framework for Astro](skills/starlight-documentation-framework-astro/) | Starlight is a documentation website framework built on Astro that generates beautiful, accessible, and… | Published | 8.2k | — |
 | [Mockoon Local Mock API Server and CLI for API Development](skills/mockoon-mock-api-server-cli/) | Mockoon is the fastest way to run mock REST APIs locally. It provides a desktop application and a CLI for creating… | Security Reviewed | 8.2k | — |
+| [Supervise and reconcile persistent coding-agent crews with Firstmate](skills/supervise-and-reconcile-persistent-coding-agent-crews-with-firstmate/) | Dispatch scoped coding tasks into isolated worktrees, supervise durable task events, and reconcile the same crew… | Security Reviewed | 8.1k | — |
 | [grex Regular Expression Generator from Test Cases](skills/grex-regex-generator-from-test-cases/) | grex is a command-line tool and library that automatically generates regular expressions from user-provided test… | Security Reviewed | 8.1k | — |
 | [Compile Deterministic Python Lock Files from Requirements Inputs with pip-tools](skills/compile-deterministic-python-lock-files-from-requirements-inputs-with-pip-tools/) | Resolve Python dependency inputs into deterministic lock files and sync environments without hand-editing transitive… | Security Reviewed | 8k | — |
 | [Lefthook Git Hooks Manager](skills/lefthook-git-hooks-manager/) | Lefthook is a fast, dependency-free Git hooks manager written in Go that runs pre-commit, pre-push, and custom hook… | Security Reviewed | 7.9k | 1.6M/wk |
