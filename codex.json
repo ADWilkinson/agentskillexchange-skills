@@ -2,8 +2,19 @@
   "schema": "codex-skills/1.0",
   "source": "https://agentskillexchange.com",
   "generated": "2026-10-22",
-  "total": 3176,
+  "total": 3177,
   "skills": [
+    {
+      "slug": "verify-scoped-kafka-tool-access-through-zilla-mcp",
+      "name": "Verify scoped Kafka tool access through Zilla MCP",
+      "title": "Verify scoped Kafka tool access through Zilla MCP",
+      "description": "Review scoped MCP access to native Kafka, Schema Registry and Kafka Connect tools in Zilla, then return a tool-and-scope evidence matrix.",
+      "category": "Integrations & Connectors",
+      "framework": "MCP",
+      "verification": "listed",
+      "source_url": "https://github.com/aklivity/zilla",
+      "github_repo": "aklivity/zilla"
+    },
     {
       "slug": "paperpilot-csv-preflight",
       "name": "PaperPilot CSV Preflight",

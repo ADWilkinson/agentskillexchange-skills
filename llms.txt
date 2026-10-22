@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-22
-# Total: 3176 skills
+# Total: 3177 skills
+
+## Verify scoped Kafka tool access through Zilla MCP
+slug: verify-scoped-kafka-tool-access-through-zilla-mcp
+category: Integrations & Connectors
+framework: MCP
+verification: Published
+description: Review scoped MCP access to native Kafka, Schema Registry and Kafka Connect tools in Zilla, then return a tool-and-scope evidence matrix.
+url: https://agentskillexchange.com/skills/verify-scoped-kafka-tool-access-through-zilla-mcp/
 
 ## PaperPilot CSV Preflight
 slug: paperpilot-csv-preflight

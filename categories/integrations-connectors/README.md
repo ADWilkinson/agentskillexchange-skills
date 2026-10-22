@@ -134,6 +134,7 @@ Third-party API bridges, webhook handlers, service connectors, and platform inte
 | [Run local coding agents from Feishu or Lark with Lark Coding Agent Bridge](../../skills/run-local-coding-agents-from-feishu-or-lark-with-lark-coding-agent-bridge/) | 2.1k | — |
 | [Give agents persistent shared memory with mcp-memory-service](../../skills/give-agents-persistent-shared-memory-with-mcp-memory-service/) | 2k | — |
 | [Connect Azure DevOps projects, work items, repos, and pipelines to MCP agents](../../skills/connect-azure-devops-projects-work-items-repos-and-pipelines-to-mcp-agents/) | 1.7k | 334.3k/wk |
+| [Verify scoped Kafka tool access through Zilla MCP](../../skills/verify-scoped-kafka-tool-access-through-zilla-mcp/) | 1.7k | — |
 | [Sync skills across Claude Code, Codex, OpenClaw, and other AI CLIs with Skillshare](../../skills/sync-skills-across-ai-coding-clis-with-skillshare/) | 1.6k | — |
 | [Twilio MCP Server](../../skills/twilio-mcp-server/) | 1.5k | 3.7M/wk |
 | [Twilio Programmable SMS Gateway](../../skills/twilio-programmable-sms-gateway/) | 1.5k | 3.7M/wk |

@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3176 published skills** across **17 categories** · 2,630 security reviewed · Updated 2026-10-22 13:26 UTC
+> **3177 published skills** across **17 categories** · 2,630 security reviewed · Updated 2026-10-22 19:26 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -1749,7 +1749,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=CI%2
 | [Update repository docs automatically after code changes and open review PRs](skills/update-repository-docs-automatically-after-code-changes-and-open-review-prs/) | Use GitHub Next's update-docs workflow when code changes should trigger documentation maintenance instead of waiting… | Security Reviewed | — | — |
 
 
-### 🔗 Integrations & Connectors (187 skills)
+### 🔗 Integrations & Connectors (188 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Integrations%20%26%20Connectors) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Integrations%20%26%20Connectors&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Integrations%20%26%20Connectors&sort=downloads)
 
@@ -1849,6 +1849,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Inte
 | [Run local coding agents from Feishu or Lark with Lark Coding Agent Bridge](skills/run-local-coding-agents-from-feishu-or-lark-with-lark-coding-agent-bridge/) | Use Lark Coding Agent Bridge to connect Feishu or Lark chat threads to a local Claude Code or Codex CLI session with… | Security Reviewed | 2.1k | — |
 | [Give agents persistent shared memory with mcp-memory-service](skills/give-agents-persistent-shared-memory-with-mcp-memory-service/) | Run a self-hosted MCP and REST memory layer so agents can store decisions, retrieve project context, and share… | Security Reviewed | 2k | — |
 | [Connect Azure DevOps projects, work items, repos, and pipelines to MCP agents](skills/connect-azure-devops-projects-work-items-repos-and-pipelines-to-mcp-agents/) | Use Azure DevOps MCP when an agent needs governed access to ADO projects, work items, builds, repos, test plans,… | Security Reviewed | 1.7k | 334.3k/wk |
+| [Verify scoped Kafka tool access through Zilla MCP](skills/verify-scoped-kafka-tool-access-through-zilla-mcp/) | Review scoped MCP access to native Kafka, Schema Registry and Kafka Connect tools in Zilla, then return a… | Published | 1.7k | — |
 | [Sync skills across Claude Code, Codex, OpenClaw, and other AI CLIs with Skillshare](skills/sync-skills-across-ai-coding-clis-with-skillshare/) | Keep one canonical skills and agents source in sync across multiple coding CLIs instead of hand-copying files… | Security Reviewed | 1.6k | — |
 | [Twilio MCP Server](skills/twilio-mcp-server/) | Twilio MCP Server is built around Twilio communications APIs. The underlying ecosystem is represented by… | Security Reviewed | 1.5k | 3.7M/wk |
 | [Twilio Programmable SMS Gateway](skills/twilio-programmable-sms-gateway/) | Sends and receives SMS/MMS messages via Twilio REST API with webhook handler generation. Supports message… | Security Reviewed | 1.5k | 3.7M/wk |
