@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3171 published skills** across **17 categories** · 2,628 security reviewed · Updated 2026-10-22 01:26 UTC
+> **3173 published skills** across **17 categories** · 2,628 security reviewed · Updated 2026-10-22 07:27 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -8,7 +8,7 @@
 
 ## Skills by Category
 
-### 🛠️ Developer Tools (531 skills)
+### 🛠️ Developer Tools (532 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=downloads)
 
@@ -530,6 +530,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [Git Diff Complexity Analyzer](skills/git-diff-complexity-analyzer/) | Analyzes git diffs using libgit2 and radon to compute cyclomatic complexity changes per function. Flags complexity… | Security Reviewed | — | — |
 | [GitHub Copilot — AI-Powered Code Completion and Chat Assistant](skills/github-copilot-ai-code-assistant/) | GitHub Copilot is an AI pair programmer providing real-time code suggestions, multi-line completions, and chat-based… | Security Reviewed | — | — |
 | [Google Cloud CLI (gcloud) — Command-Line Interface for GCP](skills/google-cloud-cli-gcloud/) | The Google Cloud CLI provides command-line access to 200+ GCP services including Compute Engine, Cloud Run, GKE,… | Published | — | — |
+| [Install and write Faber Romanus](skills/install-and-write-faber-romanus/) | Download the Faber CLI and write Faber Romanus programs using the official agent skill guides (install, English… | Published | — | — |
 | [Jira Advanced Query Agent](skills/jira-advanced-query-agent/) | Jira Advanced Query Agent is built around Jira issue tracking platform. It gives an agent a more technical and… | Published | — | — |
 | [Linear Issue Manager](skills/linear-issue-manager/) | Linear Issue Manager is built around GraphQL API ecosystem. The underlying ecosystem is represented by… | Security Reviewed | — | — |
 | [LLDB Debug Session Automator](skills/lldb-debug-session-automator/) | Automates LLDB debugging sessions with scripted breakpoint management and expression evaluation. Uses the LLDB… | Security Reviewed | — | — |
@@ -1745,7 +1746,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=CI%2
 | [Update repository docs automatically after code changes and open review PRs](skills/update-repository-docs-automatically-after-code-changes-and-open-review-prs/) | Use GitHub Next's update-docs workflow when code changes should trigger documentation maintenance instead of waiting… | Security Reviewed | — | — |
 
 
-### 🔗 Integrations & Connectors (186 skills)
+### 🔗 Integrations & Connectors (187 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Integrations%20%26%20Connectors) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Integrations%20%26%20Connectors&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Integrations%20%26%20Connectors&sort=downloads)
 
@@ -1763,6 +1764,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Inte
 | [LiteLLM Unified LLM Gateway and Proxy Server](skills/litellm-unified-llm-gateway-proxy/) | LiteLLM is an open-source Python SDK and proxy server that provides a unified OpenAI-compatible interface to call… | Security Reviewed | 41.8k | — |
 | [Novu Open-Source Notification Infrastructure Platform](skills/novu-open-source-notification-infrastructure-platform/) | Novu is an open-source notification infrastructure platform that provides a unified API for sending notifications… | Security Reviewed | 38.7k | 6.2k/wk |
 | [Expose CLI agent accounts through an API-compatible local proxy with CLIProxyAPI](skills/expose-cli-agent-accounts-through-api-compatible-local-proxy-with-cliproxyapi/) | Run CLIProxyAPI when an operator needs a local OpenAI, Gemini, Claude, Codex, or Grok-compatible API facade over… | Published | 38.3k | — |
+| [Retrieve permission-scoped workplace evidence through Onyx MCP](skills/retrieve-permission-scoped-workplace-evidence-through-onyx-mcp/) | Search an existing Onyx workspace within an explicit document-set or agent scope, then return source-linked evidence… | Security Reviewed | 32.8k | — |
 | [Medusa Commerce API and Store Operations Automation Skill](skills/medusa-commerce-api-store-operations-automation-skill/) | Medusa is an open-source commerce platform with modular backend services, an admin app, and API-first store… | Security Reviewed | 32.6k | 117.8k/wk |
 | [Wrap ordinary CLIs so agents can invoke them through a normalized agent-native interface with CLI-Anything](skills/wrap-ordinary-clis-so-agents-can-invoke-them-through-a-normalized-agent-native-interface-with-cli-anything/) | Lets an agent install or build a harness around an existing tool so the tool becomes callable through a predictable… | Security Reviewed | 31.2k | — |
 | [ntfy Self-Hosted Push Notification Server](skills/ntfy-self-hosted-push-notification-server/) | ntfy is an open-source HTTP-based pub-sub notification service that lets you send push notifications to phones and… | Published | 29.5k | — |

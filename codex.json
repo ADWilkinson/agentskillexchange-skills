@@ -2,8 +2,30 @@
   "schema": "codex-skills/1.0",
   "source": "https://agentskillexchange.com",
   "generated": "2026-10-22",
-  "total": 3171,
+  "total": 3173,
   "skills": [
+    {
+      "slug": "install-and-write-faber-romanus",
+      "name": "Install and write Faber Romanus",
+      "title": "Install and write Faber Romanus",
+      "description": "Download the Faber CLI and write Faber Romanus programs using the official agent skill guides (install, English reader spelling, packages, corpus).",
+      "category": "Developer Tools",
+      "framework": "Multi-Framework",
+      "verification": "listed",
+      "source_url": "https://github.com/faberlang/faber",
+      "github_repo": "faberlang/faber"
+    },
+    {
+      "slug": "retrieve-permission-scoped-workplace-evidence-through-onyx-mcp",
+      "name": "Retrieve permission-scoped workplace evidence through Onyx MCP",
+      "title": "Retrieve permission-scoped workplace evidence through Onyx MCP",
+      "description": "Search an existing Onyx workspace within an explicit document-set or agent scope, then return source-linked evidence for a coding or operations task.",
+      "category": "Integrations & Connectors",
+      "framework": "MCP",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/onyx-dot-app/onyx",
+      "github_repo": "onyx-dot-app/onyx"
+    },
     {
       "slug": "supervise-and-reconcile-persistent-coding-agent-crews-with-firstmate",
       "name": "Supervise and reconcile persistent coding-agent crews with Firstmate",

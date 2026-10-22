@@ -1,7 +1,23 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-22
-# Total: 3171 skills
+# Total: 3173 skills
+
+## Install and write Faber Romanus
+slug: install-and-write-faber-romanus
+category: Developer Tools
+framework: Multi-Framework
+verification: Published
+description: Download the Faber CLI and write Faber Romanus programs using the official agent skill guides (install, English reader spelling, packages, corpus).
+url: https://agentskillexchange.com/skills/install-and-write-faber-romanus/
+
+## Retrieve permission-scoped workplace evidence through Onyx MCP
+slug: retrieve-permission-scoped-workplace-evidence-through-onyx-mcp
+category: Integrations & Connectors
+framework: MCP
+verification: Security Reviewed
+description: Search an existing Onyx workspace within an explicit document-set or agent scope, then return source-linked evidence for a coding or operations task.
+url: https://agentskillexchange.com/skills/retrieve-permission-scoped-workplace-evidence-through-onyx-mcp/
 
 ## Supervise and reconcile persistent coding-agent crews with Firstmate
 slug: supervise-and-reconcile-persistent-coding-agent-crews-with-firstmate
