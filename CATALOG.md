@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3178 published skills** across **17 categories** · 2,626 security reviewed · Updated 2026-10-23 01:26 UTC
+> **3179 published skills** across **17 categories** · 2,626 security reviewed · Updated 2026-10-23 07:27 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -202,7 +202,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [pgcli Interactive PostgreSQL Client with Autocompletion](skills/pgcli-interactive-postgresql-client/) | pgcli is an interactive PostgreSQL CLI with context-aware autocompletion, syntax highlighting, and multi-line query… | Security Reviewed | 13.1k | — |
 | [Control Remote Agent CLI Sessions with CloudCLI](skills/control-remote-agent-cli-sessions-with-cloudcli/) | Run Claude Code, Cursor CLI, Codex, and OpenCode sessions from a web or mobile UI when an operator needs remote… | Security Reviewed | 12.9k | 5.1k/wk |
 | [Volta JavaScript Toolchain Version Manager](skills/volta-javascript-toolchain-manager/) | Volta is a JavaScript toolchain manager written in Rust that pins Node.js, npm, and yarn versions per project. It… | Security Reviewed | 12.9k | — |
-| [Rspack High-Performance Rust-Based JavaScript Bundler](skills/rspack-rust-based-javascript-bundler/) | Rspack is a blazing-fast JavaScript bundler written in Rust with full webpack API compatibility. It provides drop-in… | Published | 12.6k | — |
+| [Rspack High-Performance Rust-Based JavaScript Bundler](skills/rspack-rust-based-javascript-bundler/) | Rspack is a blazing-fast JavaScript bundler written in Rust with full webpack API compatibility. It provides drop-in… | Published | 12.6k | 4.6M/wk |
 | [broot Interactive Tree-View File Navigator](skills/broot-interactive-tree-view-file-navigator/) | broot is a Rust-based terminal tool that provides a new way to see and navigate directory trees. It offers fuzzy… | Security Reviewed | 12.5k | — |
 | [grpcurl Command-Line gRPC Client](skills/grpcurl-command-line-grpc-client/) | Like cURL but for gRPC servers. A command-line tool for interacting with gRPC services using server reflection or… | Security Reviewed | 12.5k | — |
 | [Run secure IronClaw Reborn agent sessions](skills/run-secure-ironclaw-reborn-agent-sessions/) | Use IronClaw Reborn as a secure local agent runtime for model-routed CLI, REPL, and WebUI sessions with explicit… | Published | 12.5k | — |
@@ -245,7 +245,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [pdfcpu Go PDF Processor and Manipulation CLI](skills/pdfcpu-go-pdf-processor-cli/) | pdfcpu is a Go-based PDF processing library and CLI tool that handles validation, optimization, merging, splitting,… | Published | 8.6k | — |
 | [Run multi-session coding-agent workflows with jcode](skills/run-multi-session-coding-agent-workflows-with-jcode/) | Use jcode as a local coding-agent harness for long-running, multi-session repository work with custom provider and… | Security Reviewed | 8.2k | — |
 | [Starlight Documentation Framework for Astro](skills/starlight-documentation-framework-astro/) | Starlight is a documentation website framework built on Astro that generates beautiful, accessible, and… | Published | 8.2k | — |
-| [Mockoon Local Mock API Server and CLI for API Development](skills/mockoon-mock-api-server-cli/) | Mockoon is the fastest way to run mock REST APIs locally. It provides a desktop application and a CLI for creating… | Security Reviewed | 8.2k | — |
+| [Mockoon Local Mock API Server and CLI for API Development](skills/mockoon-mock-api-server-cli/) | Mockoon is the fastest way to run mock REST APIs locally. It provides a desktop application and a CLI for creating… | Security Reviewed | 8.2k | 23.8k/wk |
 | [Supervise and reconcile persistent coding-agent crews with Firstmate](skills/supervise-and-reconcile-persistent-coding-agent-crews-with-firstmate/) | Dispatch scoped coding tasks into isolated worktrees, supervise durable task events, and reconcile the same crew… | Security Reviewed | 8.1k | — |
 | [grex Regular Expression Generator from Test Cases](skills/grex-regex-generator-from-test-cases/) | grex is a command-line tool and library that automatically generates regular expressions from user-provided test… | Security Reviewed | 8.1k | — |
 | [Compile Deterministic Python Lock Files from Requirements Inputs with pip-tools](skills/compile-deterministic-python-lock-files-from-requirements-inputs-with-pip-tools/) | Resolve Python dependency inputs into deterministic lock files and sync environments without hand-editing transitive… | Security Reviewed | 8k | — |
@@ -298,7 +298,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [gptme — Terminal AI Agent with Local Tools](skills/gptme-terminal-ai-agent-with-local-tools/) | gptme is an open-source Python framework for running LLM-powered agents in your terminal with access to shell… | Published | 4.4k | — |
 | [Operate a persistent local terminal agent with gptme](skills/operate-a-persistent-local-terminal-agent-with-gptme/) | Run gptme as a terminal-first autonomous agent that can edit files, execute commands, browse the web, and keep local… | Security Reviewed | 4.4k | — |
 | [Build enterprise-ready JVM agents with JetBrains Koog](skills/build-enterprise-ready-jvm-agents-with-jetbrains-koog/) | Use JetBrains Koog to define typed, fault-tolerant AI agents that run inside JVM, Kotlin, backend, mobile, or… | Security Reviewed | 4.3k | — |
-| [pdfme Open Source TypeScript PDF Generation Library with WYSIWYG Designer](skills/pdfme-typescript-pdf-generation-library/) | pdfme is an open-source TypeScript and React library for generating PDFs programmatically. It includes a WYSIWYG… | Published | 4.3k | — |
+| [pdfme Open Source TypeScript PDF Generation Library with WYSIWYG Designer](skills/pdfme-typescript-pdf-generation-library/) | pdfme is an open-source TypeScript and React library for generating PDFs programmatically. It includes a WYSIWYG… | Published | 4.3k | 97.3k/wk |
 | [Tera Jinja2-Inspired Template Engine for Rust](skills/tera-rust-template-engine/) | Tera is a powerful template engine for Rust inspired by Jinja2 and Django templates. It provides template… | Published | 4.2k | — |
 | [Run persistent multi-agent terminal workspaces with TUIOS](skills/run-persistent-multi-agent-terminal-workspaces-with-tuios/) | Use TUIOS to keep coding agents in persistent tiled terminal sessions, monitor their state, route Inbox items, and… | Security Reviewed | 4.1k | — |
 | [Run structured multi-perspective decisions with Council of High Intelligence](skills/run-structured-multi-perspective-decisions-with-council-of-high-intelligence/) | Use Council of High Intelligence when an agent should convene a structured panel, force disagreement, and return a… | Security Reviewed | 4.1k | — |
@@ -1186,7 +1186,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Data
 | [Grist Self-Hosted Relational Spreadsheet and Database Platform](skills/grist-self-hosted-relational-spreadsheet-database/) | Grist is an open-source modern relational spreadsheet that combines the flexibility of a spreadsheet with the… | Security Reviewed | 10.8k | — |
 | [xsv High-Performance CSV Toolkit](skills/xsv-high-performance-csv-toolkit/) | xsv is a fast CSV command-line toolkit written in Rust by Andrew Gallant (BurntSushi). It provides indexing,… | Security Reviewed | 10.8k | — |
 | [Jina Reader URL-to-Markdown Converter and Web Search API](skills/jina-reader-url-to-markdown-web-search/) | Jina Reader converts any URL to LLM-friendly markdown by prefixing https://r.jina.ai/ to any web address. It also… | Security Reviewed | 10.6k | — |
-| [Orama Embeddable Search Engine and RAG Pipeline for JavaScript](skills/orama-embeddable-search-engine-rag-pipeline/) | Orama is a full-text, vector, and hybrid search engine that runs in the browser, on a server, or at the edge in… | Security Reviewed | 10.3k | — |
+| [Orama Embeddable Search Engine and RAG Pipeline for JavaScript](skills/orama-embeddable-search-engine-rag-pipeline/) | Orama is a full-text, vector, and hybrid search engine that runs in the browser, on a server, or at the edge in… | Security Reviewed | 10.3k | 883.6k/wk |
 | [pdfplumber Python PDF Text and Table Extraction Library](skills/pdfplumber-python-pdf-text-table-extraction/) | pdfplumber is a Python library for extracting detailed information from PDFs — text, tables, lines, rectangles, and… | Security Reviewed | 10.1k | — |
 | [Prepare agent-ready PDF and document extraction with PyMuPDF](skills/prepare-agent-ready-pdf-and-document-extraction-with-pymupdf/) | Use PyMuPDF to extract text, layout metadata, tables, images, Markdown, or JSON from PDFs and documents before an… | Security Reviewed | 10.1k | — |
 | [Miller CSV TSV JSON Data Processor](skills/miller-csv-tsv-json-data-processor/) | Miller (mlr) is a command-line tool for querying, shaping, and reformatting name-indexed data such as CSV, TSV,… | Security Reviewed | 9.8k | — |
@@ -1452,7 +1452,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Code
 | [Escalate risky coding tasks into multi-model debate and consensus gates with Claude Octopus](skills/escalate-risky-coding-tasks-into-multi-model-debate-and-consensus-gates-with-claude-octopus/) | Use Claude Octopus when ordinary Claude Code flows are not enough and a risky coding task needs adversarial… | Security Reviewed | 2.8k | — |
 | [Validate CloudFormation templates before deploy with cfn-lint](skills/validate-cloudformation-templates-before-deploy-with-cfn-lint/) | Catch CloudFormation schema, region, and intrinsic-function mistakes before a stack update fails in review or… | Security Reviewed | 2.6k | — |
 | [Summarize failing Go test runs and rerun flakes before CI repair loops with gotestsum](skills/summarize-failing-go-test-runs-and-rerun-flakes-before-ci-repair-loops-with-gotestsum/) | Use gotestsum to turn noisy `go test` output into compact failure summaries, JUnit or JSON artifacts, and optional… | Security Reviewed | 2.6k | — |
-| [Testcontainers Node Throwaway Docker Integration Testing Library](skills/testcontainers-node-throwaway-docker-integration-testing/) | Testcontainers for Node.js is a library that provides lightweight, throwaway instances of databases, message… | Published | 2.5k | — |
+| [Testcontainers Node Throwaway Docker Integration Testing Library](skills/testcontainers-node-throwaway-docker-integration-testing/) | Testcontainers for Node.js is a library that provides lightweight, throwaway instances of databases, message… | Published | 2.5k | 4.5M/wk |
 | [Complexity Trend Tracker](skills/complexity-trend-tracker-agent/) | Tracks cyclomatic and cognitive complexity trends using lizard CLI and radon for Python analysis. Generates weekly… | Security Reviewed | 2.4k | — |
 | [Enforce coding-agent protocols mechanically with Harmonist](skills/enforce-coding-agent-protocols-mechanically-with-harmonist/) | Drop a multi-agent protocol pack into a project so coding assistants must satisfy reviewer, memory, and supply-chain… | Security Reviewed | 2.4k | — |
 | [Catch common misspellings in code and docs before review churn with codespell](skills/catch-common-misspellings-in-code-and-docs-before-review-churn-with-codespell/) | Run a fast typo pass across source files and documentation so common misspellings are fixed before they spread… | Security Reviewed | 2.4k | — |
@@ -2456,7 +2456,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Rese
 | [Xquik X Actors on Apify](skills/xquik-apify-x-actors/) | Run Xquik's public Apify Actors for X tweet collection, timelines, search, followers, lists, communities, and… | Published | — | — |
 
 
-### 📚 Library & API Reference (132 skills)
+### 📚 Library & API Reference (133 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Library%20%26%20API%20Reference) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Library%20%26%20API%20Reference&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Library%20%26%20API%20Reference&sort=downloads)
 
@@ -2555,6 +2555,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Libr
 | [AShareHub Chinese Market Data](skills/asharehub/) | Query Chinese A-share, ETF, index, financial statement, valuation, capital-flow, and technical-indicator data… | Published | — | — |
 | [AsyncAPI Event Catalog Builder](skills/asyncapi-event-catalog-builder/) | Generates event-driven architecture documentation from AsyncAPI 3.0 specifications. Uses the AsyncAPI parser-js… | Published | — | — |
 | [AsyncAPI Event Catalog Generator](skills/asyncapi-event-catalog-generator/) | Parses AsyncAPI 2.x/3.x specifications to generate event-driven architecture catalogs using the AsyncAPI Generator.… | Published | — | — |
+| [Datacircle](skills/datacircle/) | Every GTM API plan on datacircle.dev, as one file you download and query. LinkedIn profiles, people and company… | Published | — | — |
 | [Healthcare Job Search (US) with CareJobs.Now](skills/healthcare-job-search-carejobs-now/) | Lets an agent find open US healthcare jobs and the hourly pay employers post, through the free CareJobs.Now remote… | Published | — | — |
 | [Implement, review, and optimize SwiftUI code with trace-backed diagnostics](skills/implement-review-and-optimize-swiftui-code-with-trace-backed-diagnostics/) | Guide SwiftUI implementation and refactoring with current Apple patterns, then analyze Instruments traces to… | Security Reviewed | — | — |
 | [MDN Web API Reference Fetcher](skills/mdn-web-api-reference-fetcher/) | Fetches and indexes Mozilla Developer Network Web API documentation using the MDN Yari content API. Provides… | Security Reviewed | — | — |

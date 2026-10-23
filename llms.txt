@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-23
-# Total: 3178 skills
+# Total: 3179 skills
+
+## Datacircle
+slug: datacircle
+category: Library & API Reference
+framework: Claude Code
+verification: Published
+description: Every GTM API plan on datacircle.dev, as one file you download and query. LinkedIn profiles, people and company search, find and validate email and…
+url: https://agentskillexchange.com/skills/datacircle/
 
 ## Annotate Classical Chinese corpora with HanLP
 slug: annotate-classical-chinese-corpora-with-hanlp

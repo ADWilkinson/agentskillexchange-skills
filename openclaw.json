@@ -2,8 +2,19 @@
   "schema": "openclaw-skills/1.0",
   "source": "https://agentskillexchange.com",
   "generated": "2026-10-23",
-  "total": 3178,
+  "total": 3179,
   "skills": [
+    {
+      "slug": "datacircle",
+      "name": "Datacircle",
+      "title": "Datacircle",
+      "description": "Every GTM API plan on datacircle.dev, as one file you download and query. LinkedIn profiles, people and company search, find and validate email and…",
+      "category": "Library & API Reference",
+      "framework": "Claude Code",
+      "verification": "listed",
+      "source_url": "https://github.com/waynehamadi/datacircle",
+      "github_repo": "waynehamadi/datacircle"
+    },
     {
       "slug": "annotate-classical-chinese-corpora-with-hanlp",
       "name": "Annotate Classical Chinese corpora with HanLP",

@@ -228,7 +228,7 @@ CLI helpers, dev environment setup, productivity utilities, and developer workfl
 | [pgcli Interactive PostgreSQL Client with Autocompletion](../../skills/pgcli-interactive-postgresql-client/) | 13.1k | — |
 | [Control Remote Agent CLI Sessions with CloudCLI](../../skills/control-remote-agent-cli-sessions-with-cloudcli/) | 12.9k | 5.1k/wk |
 | [Volta JavaScript Toolchain Version Manager](../../skills/volta-javascript-toolchain-manager/) | 12.9k | — |
-| [Rspack High-Performance Rust-Based JavaScript Bundler](../../skills/rspack-rust-based-javascript-bundler/) | 12.6k | — |
+| [Rspack High-Performance Rust-Based JavaScript Bundler](../../skills/rspack-rust-based-javascript-bundler/) | 12.6k | 4.6M/wk |
 | [broot Interactive Tree-View File Navigator](../../skills/broot-interactive-tree-view-file-navigator/) | 12.5k | — |
 | [grpcurl Command-Line gRPC Client](../../skills/grpcurl-command-line-grpc-client/) | 12.5k | — |
 | [Run secure IronClaw Reborn agent sessions](../../skills/run-secure-ironclaw-reborn-agent-sessions/) | 12.5k | — |
@@ -271,7 +271,7 @@ CLI helpers, dev environment setup, productivity utilities, and developer workfl
 | [pdfcpu Go PDF Processor and Manipulation CLI](../../skills/pdfcpu-go-pdf-processor-cli/) | 8.6k | — |
 | [Run multi-session coding-agent workflows with jcode](../../skills/run-multi-session-coding-agent-workflows-with-jcode/) | 8.2k | — |
 | [Starlight Documentation Framework for Astro](../../skills/starlight-documentation-framework-astro/) | 8.2k | — |
-| [Mockoon Local Mock API Server and CLI for API Development](../../skills/mockoon-mock-api-server-cli/) | 8.2k | — |
+| [Mockoon Local Mock API Server and CLI for API Development](../../skills/mockoon-mock-api-server-cli/) | 8.2k | 23.8k/wk |
 | [Supervise and reconcile persistent coding-agent crews with Firstmate](../../skills/supervise-and-reconcile-persistent-coding-agent-crews-with-firstmate/) | 8.1k | — |
 | [grex Regular Expression Generator from Test Cases](../../skills/grex-regex-generator-from-test-cases/) | 8.1k | — |
 | [Compile Deterministic Python Lock Files from Requirements Inputs with pip-tools](../../skills/compile-deterministic-python-lock-files-from-requirements-inputs-with-pip-tools/) | 8k | — |
@@ -324,7 +324,7 @@ CLI helpers, dev environment setup, productivity utilities, and developer workfl
 | [gptme — Terminal AI Agent with Local Tools](../../skills/gptme-terminal-ai-agent-with-local-tools/) | 4.4k | — |
 | [Operate a persistent local terminal agent with gptme](../../skills/operate-a-persistent-local-terminal-agent-with-gptme/) | 4.4k | — |
 | [Build enterprise-ready JVM agents with JetBrains Koog](../../skills/build-enterprise-ready-jvm-agents-with-jetbrains-koog/) | 4.3k | — |
-| [pdfme Open Source TypeScript PDF Generation Library with WYSIWYG Designer](../../skills/pdfme-typescript-pdf-generation-library/) | 4.3k | — |
+| [pdfme Open Source TypeScript PDF Generation Library with WYSIWYG Designer](../../skills/pdfme-typescript-pdf-generation-library/) | 4.3k | 97.3k/wk |
 | [Tera Jinja2-Inspired Template Engine for Rust](../../skills/tera-rust-template-engine/) | 4.2k | — |
 | [Run persistent multi-agent terminal workspaces with TUIOS](../../skills/run-persistent-multi-agent-terminal-workspaces-with-tuios/) | 4.1k | — |
 | [Run structured multi-perspective decisions with Council of High Intelligence](../../skills/run-structured-multi-perspective-decisions-with-council-of-high-intelligence/) | 4.1k | — |

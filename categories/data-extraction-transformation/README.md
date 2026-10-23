@@ -32,7 +32,7 @@ Parsing, ETL pipelines, format conversion, data wrangling, and transformation ut
 | [GraphQL Schema Introspection Mapper](../../skills/graphql-schema-introspection-mapper/) | ⬇ 34.2M/wk |
 | [CSV Schema Validator & Auto-Fixer](../../skills/csv-schema-validator-auto-fixer/) | ⬇ 291.1M/wk |
 | [Extract OCR-ready Markdown from documents with Zerox](../../skills/extract-ocr-ready-markdown-from-documents-with-zerox/) | ⬇ 5.3k/wk |
-| [Convert DOCX documents into clean HTML for publishing workflows with Mammoth](../../skills/convert-docx-documents-into-clean-html-for-publishing-workflows-mammoth/) | ⬇ 18.3M/wk |
+| [Orama Embeddable Search Engine and RAG Pipeline for JavaScript](../../skills/orama-embeddable-search-engine-rag-pipeline/) | ⬇ 883.6k/wk |
 
 ---
 
@@ -132,7 +132,7 @@ Parsing, ETL pipelines, format conversion, data wrangling, and transformation ut
 | [Grist Self-Hosted Relational Spreadsheet and Database Platform](../../skills/grist-self-hosted-relational-spreadsheet-database/) | 10.8k | — |
 | [xsv High-Performance CSV Toolkit](../../skills/xsv-high-performance-csv-toolkit/) | 10.8k | — |
 | [Jina Reader URL-to-Markdown Converter and Web Search API](../../skills/jina-reader-url-to-markdown-web-search/) | 10.6k | — |
-| [Orama Embeddable Search Engine and RAG Pipeline for JavaScript](../../skills/orama-embeddable-search-engine-rag-pipeline/) | 10.3k | — |
+| [Orama Embeddable Search Engine and RAG Pipeline for JavaScript](../../skills/orama-embeddable-search-engine-rag-pipeline/) | 10.3k | 883.6k/wk |
 | [pdfplumber Python PDF Text and Table Extraction Library](../../skills/pdfplumber-python-pdf-text-table-extraction/) | 10.1k | — |
 | [Prepare agent-ready PDF and document extraction with PyMuPDF](../../skills/prepare-agent-ready-pdf-and-document-extraction-with-pymupdf/) | 10.1k | — |
 | [Miller CSV TSV JSON Data Processor](../../skills/miller-csv-tsv-json-data-processor/) | 9.8k | — |

@@ -133,6 +133,7 @@ SDK documentation, API guides, framework reference material, and library usage p
 | [AShareHub Chinese Market Data](../../skills/asharehub/) | — | — |
 | [AsyncAPI Event Catalog Builder](../../skills/asyncapi-event-catalog-builder/) | — | — |
 | [AsyncAPI Event Catalog Generator](../../skills/asyncapi-event-catalog-generator/) | — | — |
+| [Datacircle](../../skills/datacircle/) | — | — |
 | [Healthcare Job Search (US) with CareJobs.Now](../../skills/healthcare-job-search-carejobs-now/) | — | — |
 | [Implement, review, and optimize SwiftUI code with trace-backed diagnostics](../../skills/implement-review-and-optimize-swiftui-code-with-trace-backed-diagnostics/) | — | — |
 | [MDN Web API Reference Fetcher](../../skills/mdn-web-api-reference-fetcher/) | — | — |

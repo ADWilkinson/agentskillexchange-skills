@@ -1,8 +1,19 @@
 {
   "version": "2.0",
-  "total": 3178,
+  "total": 3179,
   "generated": "2026-10-23",
   "skills": [
+    {
+      "slug": "datacircle",
+      "name": "Datacircle",
+      "title": "Datacircle",
+      "description": "Every GTM API plan on datacircle.dev, as one file you download and query. LinkedIn profiles, people and company search, find and validate email and…",
+      "category": "Library & API Reference",
+      "framework": "Claude Code",
+      "verification": "listed",
+      "source_url": "https://github.com/waynehamadi/datacircle",
+      "github_repo": "waynehamadi/datacircle"
+    },
     {
       "slug": "annotate-classical-chinese-corpora-with-hanlp",
       "name": "Annotate Classical Chinese corpora with HanLP",
@@ -21917,7 +21928,8 @@
       "framework": "Multi-Framework",
       "verification": "listed",
       "signals": {
-        "github_stars": 4263
+        "github_stars": 4263,
+        "npm_weekly_downloads": 97293
       },
       "source_url": "https://github.com/pdfme/pdfme",
       "github_repo": "pdfme/pdfme"
@@ -22984,7 +22996,8 @@
       "framework": "Multi-Framework",
       "verification": "security_reviewed",
       "signals": {
-        "github_stars": 8196
+        "github_stars": 8196,
+        "npm_weekly_downloads": 23831
       },
       "source_url": "https://github.com/mockoon/mockoon",
       "github_repo": "mockoon/mockoon"
@@ -23099,7 +23112,8 @@
       "framework": "Multi-Framework",
       "verification": "security_reviewed",
       "signals": {
-        "github_stars": 10286
+        "github_stars": 10286,
+        "npm_weekly_downloads": 883586
       },
       "source_url": "https://github.com/oramasearch/orama",
       "github_repo": "oramasearch/orama"
@@ -23172,7 +23186,8 @@
       "framework": "Multi-Framework",
       "verification": "listed",
       "signals": {
-        "github_stars": 12599
+        "github_stars": 12599,
+        "npm_weekly_downloads": 4601633
       },
       "source_url": "https://github.com/web-infra-dev/rspack",
       "github_repo": "web-infra-dev/rspack"
@@ -23272,7 +23287,8 @@
       "framework": "Multi-Framework",
       "verification": "listed",
       "signals": {
-        "github_stars": 2508
+        "github_stars": 2508,
+        "npm_weekly_downloads": 4481121
       },
       "source_url": "https://github.com/testcontainers/testcontainers-node",
       "github_repo": "testcontainers/testcontainers-node"
