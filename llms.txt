@@ -12423,7 +12423,7 @@ url: https://agentskillexchange.com/skills/chartbrew-open-source-reporting-dashb
 slug: pdfme-typescript-pdf-generation-library
 category: Developer Tools
 framework: Multi-Framework
-verification: Security Reviewed
+verification: Published
 description: pdfme is an open-source TypeScript and React library for generating PDFs programmatically. It includes a WYSIWYG template designer, PDF viewer, and CLI tools for…
 url: https://agentskillexchange.com/skills/pdfme-typescript-pdf-generation-library/
 
@@ -12615,7 +12615,7 @@ url: https://agentskillexchange.com/skills/writingtools-system-wide-ai-grammar-a
 slug: lobehub-multi-agent-chat-platform-mcp-plugins
 category: Developer Tools
 framework: Multi-Framework
-verification: Security Reviewed
+verification: Published
 description: LobeHub is an open-source multi-agent chat platform supporting 50+ LLM providers, MCP plugin marketplace, knowledge base management, and multi-agent collaboration. It serves as a…
 url: https://agentskillexchange.com/skills/lobehub-multi-agent-chat-platform-mcp-plugins/
 
@@ -13007,7 +13007,7 @@ url: https://agentskillexchange.com/skills/concurrently-parallel-command-runner/
 slug: pdfcpu-go-pdf-processor-cli
 category: Developer Tools
 framework: Custom Agents
-verification: Security Reviewed
+verification: Published
 description: pdfcpu is a Go-based PDF processing library and CLI tool that handles validation, optimization, merging, splitting, watermarking, encryption, and form filling. It provides a…
 url: https://agentskillexchange.com/skills/pdfcpu-go-pdf-processor-cli/
 
@@ -13127,7 +13127,7 @@ url: https://agentskillexchange.com/skills/pglite-embeddable-wasm-postgres/
 slug: rspack-rust-based-javascript-bundler
 category: Developer Tools
 framework: Multi-Framework
-verification: Security Reviewed
+verification: Published
 description: Rspack is a blazing-fast JavaScript bundler written in Rust with full webpack API compatibility. It provides drop-in webpack replacement with dramatically faster build times,…
 url: https://agentskillexchange.com/skills/rspack-rust-based-javascript-bundler/
 
@@ -13183,7 +13183,7 @@ url: https://agentskillexchange.com/skills/chafa-terminal-image-graphics-rendere
 slug: testcontainers-node-throwaway-docker-integration-testing
 category: Code Quality & Review
 framework: Multi-Framework
-verification: Security Reviewed
+verification: Published
 description: Testcontainers for Node.js is a library that provides lightweight, throwaway instances of databases, message brokers, browsers, and other services as Docker containers for integration…
 url: https://agentskillexchange.com/skills/testcontainers-node-throwaway-docker-integration-testing/
 

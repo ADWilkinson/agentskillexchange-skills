@@ -10,7 +10,6 @@ category: "Library & API Reference"
 framework: "Claude Code"
 tool_ecosystem:
   github_repo: "waynehamadi/datacircle"
-  github_stars: 0
 ---
 
 # Datacircle

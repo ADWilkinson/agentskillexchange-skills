@@ -17059,7 +17059,7 @@
       "description": "pdfme is an open-source TypeScript and React library for generating PDFs programmatically. It includes a WYSIWYG template designer, PDF viewer, and CLI tools for…",
       "category": "Developer Tools",
       "framework": "Multi-Framework",
-      "verification": "security_reviewed",
+      "verification": "listed",
       "source_url": "https://github.com/pdfme/pdfme",
       "github_repo": "pdfme/pdfme"
     },
@@ -17322,7 +17322,7 @@
       "description": "LobeHub is an open-source multi-agent chat platform supporting 50+ LLM providers, MCP plugin marketplace, knowledge base management, and multi-agent collaboration. It serves as a…",
       "category": "Developer Tools",
       "framework": "Multi-Framework",
-      "verification": "security_reviewed",
+      "verification": "listed",
       "source_url": "https://github.com/lobehub/lobehub",
       "github_repo": "lobehub/lobehub"
     },
@@ -17860,7 +17860,7 @@
       "description": "pdfcpu is a Go-based PDF processing library and CLI tool that handles validation, optimization, merging, splitting, watermarking, encryption, and form filling. It provides a…",
       "category": "Developer Tools",
       "framework": "Custom Agents",
-      "verification": "security_reviewed",
+      "verification": "listed",
       "source_url": "https://github.com/pdfcpu/pdfcpu",
       "github_repo": "pdfcpu/pdfcpu"
     },
@@ -18025,7 +18025,7 @@
       "description": "Rspack is a blazing-fast JavaScript bundler written in Rust with full webpack API compatibility. It provides drop-in webpack replacement with dramatically faster build times,…",
       "category": "Developer Tools",
       "framework": "Multi-Framework",
-      "verification": "security_reviewed",
+      "verification": "listed",
       "source_url": "https://github.com/web-infra-dev/rspack",
       "github_repo": "web-infra-dev/rspack"
     },
@@ -18102,7 +18102,7 @@
       "description": "Testcontainers for Node.js is a library that provides lightweight, throwaway instances of databases, message brokers, browsers, and other services as Docker containers for integration…",
       "category": "Code Quality & Review",
       "framework": "Multi-Framework",
-      "verification": "security_reviewed",
+      "verification": "listed",
       "source_url": "https://github.com/testcontainers/testcontainers-node",
       "github_repo": "testcontainers/testcontainers-node"
     },
