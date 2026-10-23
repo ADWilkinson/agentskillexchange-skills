@@ -75,6 +75,7 @@ Parsing, ETL pipelines, format conversion, data wrangling, and transformation ut
 | [Paperless-ngx Document OCR and Archive Management System](../../skills/paperless-ngx-document-ocr-archive-management-system/) | 38.1k | — |
 | [Polars Blazing-Fast DataFrame Query Engine](../../skills/polars-dataframe-query-engine/) | 37.9k | — |
 | [DuckDB SQL Analytics Agent](../../skills/duckdb-sql-analytics-agent/) | 37.1k | — |
+| [Annotate Classical Chinese corpora with HanLP](../../skills/annotate-classical-chinese-corpora-with-hanlp/) | 36.5k | — |
 | [LangExtract LLM-Powered Structured Text Extraction](../../skills/langextract-llm-structured-text-extraction/) | 35k | — |
 | [jq JSON Stream Transformer](../../skills/jq-json-stream-transformer/) | 34.5k | — |
 | [jq Pipeline Builder Agent](../../skills/jq-pipeline-builder-agent/) | 34.5k | — |

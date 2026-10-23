@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3177 published skills** across **17 categories** · 2,631 security reviewed · Updated 2026-10-22 19:26 UTC
+> **3178 published skills** across **17 categories** · 2,631 security reviewed · Updated 2026-10-23 01:26 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -1088,7 +1088,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Secu
 | [TLS Certificate Chain Validator](skills/tls-certificate-chain-validator/) | Validates TLS/SSL certificate chains using OpenSSL x509 verification and checks OCSP stapling status. Integrates… | Security Reviewed | — | — |
 
 
-### 🔄 Data Extraction & Transformation (236 skills)
+### 🔄 Data Extraction & Transformation (237 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Data%20Extraction%20%26%20Transformation) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Data%20Extraction%20%26%20Transformation&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Data%20Extraction%20%26%20Transformation&sort=downloads)
 
@@ -1129,6 +1129,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Data
 | [Paperless-ngx Document OCR and Archive Management System](skills/paperless-ngx-document-ocr-archive-management-system/) | Paperless-ngx is an open source document management system that turns scanned or uploaded paperwork into a… | Security Reviewed | 38.1k | — |
 | [Polars Blazing-Fast DataFrame Query Engine](skills/polars-dataframe-query-engine/) | Polars is an extremely fast DataFrame library written in Rust with Python, Node.js, and R bindings. This skill… | Security Reviewed | 37.9k | — |
 | [DuckDB SQL Analytics Agent](skills/duckdb-sql-analytics-agent/) | Run analytical SQL queries on local files (CSV, Parquet, JSON) using the DuckDB in-process database engine. Enables… | Security Reviewed | 37.1k | — |
+| [Annotate Classical Chinese corpora with HanLP](skills/annotate-classical-chinese-corpora-with-hanlp/) | Produce reviewable token, lemma, POS and dependency annotations for Classical Chinese passages with HanLP’s… | Security Reviewed | 36.5k | — |
 | [LangExtract LLM-Powered Structured Text Extraction](skills/langextract-llm-structured-text-extraction/) | LangExtract by Google is a Python library for extracting structured information from unstructured text using LLMs… | Security Reviewed | 35k | — |
 | [jq JSON Stream Transformer](skills/jq-json-stream-transformer/) | Constructs complex jq filter expressions for transforming JSON/NDJSON streams, including recursive descent, object… | Security Reviewed | 34.5k | — |
 | [jq Pipeline Builder Agent](skills/jq-pipeline-builder-agent/) | Constructs complex jq filter pipelines from natural language queries against JSON/NDJSON data streams. Uses jq… | Security Reviewed | 34.5k | — |

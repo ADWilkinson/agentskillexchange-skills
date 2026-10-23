@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
-# Generated: 2026-10-22
-# Total: 3177 skills
+# Generated: 2026-10-23
+# Total: 3178 skills
+
+## Annotate Classical Chinese corpora with HanLP
+slug: annotate-classical-chinese-corpora-with-hanlp
+category: Data Extraction & Transformation
+framework: Multi-Framework
+verification: Security Reviewed
+description: Produce reviewable token, lemma, POS and dependency annotations for Classical Chinese passages with HanLP’s dedicated Ancient Chinese model.
+url: https://agentskillexchange.com/skills/annotate-classical-chinese-corpora-with-hanlp/
 
 ## Verify scoped Kafka tool access through Zilla MCP
 slug: verify-scoped-kafka-tool-access-through-zilla-mcp
