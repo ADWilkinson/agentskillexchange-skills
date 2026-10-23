@@ -4,7 +4,7 @@
 
 ### Curated and trusted AI agent skills
 
-[![Published](https://img.shields.io/badge/published-3%2C179-6366f1?style=for-the-badge)](CATALOG.md)
+[![Published](https://img.shields.io/badge/published-3%2C180-6366f1?style=for-the-badge)](CATALOG.md)
 [![Industry%20Collections](https://img.shields.io/badge/industry--collections-15-14b8a6?style=for-the-badge)](industries/README.md)
 [![Categories](https://img.shields.io/badge/categories-17-0ea5e9?style=for-the-badge)](categories/README.md)
 [![Security%20Reviewed](https://img.shields.io/badge/security--reviewed-2%2C627-10b981?style=for-the-badge)](verification/)
@@ -12,7 +12,7 @@
 
 **[Catalog](CATALOG.md) · [Live Browse](https://agentskillexchange.com/browse-skills/) · [Categories](categories/README.md) · [Industry Collections](industries/README.md) · [Top Starred](TOP-STARS.md) · [Top Downloaded](TOP-DOWNLOADS.md) · [Submit a Skill](#submit-a-skill)**
 
-*3,179 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
+*3,180 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
 
 *Star this repo to keep the agent skill catalog handy and follow new additions.*
 
@@ -87,6 +87,7 @@ See the full overlay index in [industries/README.md](industries/README.md).
 
 | Skill | What it helps with | Stars | Category |
 |---|---|---:|---|
+| [Compare UI design directions and refine the selected page with Oil UI](skills/compare-ui-design-directions-and-refine-the-selected-page-with-oil-ui/) | Create distinct first-screen designs, compare them in one page, then refine the chosen direction against desktop and mobile... | 2.1k | Image & Creative Automation |
 | [Datacircle](skills/datacircle/) | Every GTM API plan on datacircle.dev, as one file you download and query. LinkedIn profiles, people and company... | - | Library & API Reference |
 | [Annotate Classical Chinese corpora with HanLP](skills/annotate-classical-chinese-corpora-with-hanlp/) | Produce reviewable token, lemma, POS and dependency annotations for Classical Chinese passages with HanLP’s dedicated Ancient Chinese model | 36.5k | Data Extraction & Transformation |
 | [Verify scoped Kafka tool access through Zilla MCP](skills/verify-scoped-kafka-tool-access-through-zilla-mcp/) | Review scoped MCP access to native Kafka, Schema Registry and Kafka Connect tools in Zilla, then return a... | 1.7k | Integrations & Connectors |
@@ -96,7 +97,6 @@ See the full overlay index in [industries/README.md](industries/README.md).
 | [Install and write Faber Romanus](skills/install-and-write-faber-romanus/) | Download the Faber CLI and write Faber Romanus programs using the official agent skill guides (install, English reader... | - | Developer Tools |
 | [Retrieve permission-scoped workplace evidence through Onyx MCP](skills/retrieve-permission-scoped-workplace-evidence-through-onyx-mcp/) | Search an existing Onyx workspace within an explicit document-set or agent scope, then return source-linked evidence for a... | 32.8k | Integrations & Connectors |
 | [Supervise and reconcile persistent coding-agent crews with Firstmate](skills/supervise-and-reconcile-persistent-coding-agent-crews-with-firstmate/) | Dispatch scoped coding tasks into isolated worktrees, supervise durable task events, and reconcile the same crew after a... | 8.1k | Developer Tools |
-| [Turn messy datasets into auditable reports with data-master](skills/turn-messy-datasets-into-auditable-reports-with-data-master/) | Use data-master to preserve raw tabular data, hold ambiguous cleaning decisions for review, run unit-aware statistics and sensitivity... | - | Data Extraction & Transformation |
 
 ---
 
@@ -153,7 +153,7 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 | 📚 | [**Library & API Reference**](categories/library-api-reference/) | 133 | SDK docs, API parsers, symbol resolvers |
 | 🌐 | [**Browser Automation**](categories/browser-automation/) | 128 | Web scraping, UI testing, headless browser control |
 | 📅 | [**Calendar, Email & Productivity**](categories/calendar-email-productivity/) | 128 | Email automation, calendar management, task coordination |
-| 🎨 | [**Image & Creative Automation**](categories/image-creative-automation/) | 119 | Image generation, asset processing, design automation |
+| 🎨 | [**Image & Creative Automation**](categories/image-creative-automation/) | 120 | Image generation, asset processing, design automation |
 | 🎙️ | [**Media & Transcription**](categories/media-transcription/) | 110 | Audio/video processing, speech-to-text |
 | ✍️ | [**Content Writing & SEO**](categories/content-writing-seo/) | 98 | SEO content, blog automation, editorial workflows |
 | 📰 | [**WordPress & CMS**](categories/wordpress-cms/) | 96 | Theme/plugin dev, WP-CLI automation, CMS management |
@@ -219,7 +219,7 @@ Every skill is backed by a real tool, repo, or package. New skills require real 
 
 | Tier | Count | Meaning |
 |------|------:|---|
-| 📋 **Published** | 3,179 | In the catalog — every skill is backed by a real tool, repo, or package |
+| 📋 **Published** | 3,180 | In the catalog — every skill is backed by a real tool, repo, or package |
 | 🛡️ **Security Reviewed** | 2,627 | Scanned for malicious patterns, prompt injection, and unsafe instructions |
 
 More: [verification/](verification/)

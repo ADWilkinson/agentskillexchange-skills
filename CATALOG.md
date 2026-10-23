@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3179 published skills** across **17 categories** · 2,627 security reviewed · Updated 2026-10-23 13:26 UTC
+> **3180 published skills** across **17 categories** · 2,627 security reviewed · Updated 2026-10-23 19:26 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -2869,7 +2869,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Cale
 | [Todoist Sync API Task Orchestrator](skills/todoist-sync-api-task-orchestrator/) | Orchestrates complex task workflows using the Todoist Sync API v9 with incremental sync via sync_token. Uses… | Security Reviewed | — | — |
 
 
-### 🎨 Image & Creative Automation (119 skills)
+### 🎨 Image & Creative Automation (120 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Image%20%26%20Creative%20Automation) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Image%20%26%20Creative%20Automation&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Image%20%26%20Creative%20Automation&sort=downloads)
 
@@ -2943,6 +2943,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Imag
 | [Turn a plain-language brief into a multi-step video production pipeline with OpenMontage](skills/turn-a-plain-language-brief-into-a-multi-step-video-production-pipeline-with-openmontage/) | Use OpenMontage when an agent should take a brief or reference video and run the research, scripting, asset… | Security Reviewed | 3k | — |
 | [Draw and verify Excalidraw diagrams through an agent canvas](skills/draw-and-verify-excalidraw-diagrams-through-an-agent-canvas/) | Use mcp_excalidraw to let coding agents create, inspect, revise, export, and commit editable Excalidraw diagrams… | Published | 2.4k | 11.7k/wk |
 | [Produce cinematic product videos with Video Shotcraft](skills/produce-cinematic-product-videos-with-video-shotcraft/) | Turns Claude Code, Codex, or another skills-aware coding agent into a Remotion-based product video operator with… | Security Reviewed | 2.1k | — |
+| [Compare UI design directions and refine the selected page with Oil UI](skills/compare-ui-design-directions-and-refine-the-selected-page-with-oil-ui/) | Create distinct first-screen designs, compare them in one page, then refine the chosen direction against desktop and… | Security Reviewed | 2.1k | — |
 | [Generate consistent hand-drawn image prompts with Hand Drawn Styles](skills/generate-consistent-hand-drawn-image-prompts-with-hand-drawn-styles/) | Apply verified hand-drawn style recipes to a subject so an agent can output clean, reusable prompts or production… | Security Reviewed | 2k | — |
 | [OpenEXR HDR Compositing Pipeline](skills/openexr-hdr-compositing-pipeline/) | Processes OpenEXR high dynamic range images using the OpenImageIO (oiiotool) CLI and Imath library for multi-layer… | Security Reviewed | 1.8k | — |
 | [Run code-generated short-film workflows with Lemo-Opuscar](skills/direct-code-generated-short-films-with-lemo-opuscar-styles/) | Use a Claude Code plugin to turn a story brief into a short film project built from reusable style prompts,… | Security Reviewed | 1.5k | — |

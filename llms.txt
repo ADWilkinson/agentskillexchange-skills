@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-23
-# Total: 3179 skills
+# Total: 3180 skills
+
+## Compare UI design directions and refine the selected page with Oil UI
+slug: compare-ui-design-directions-and-refine-the-selected-page-with-oil-ui
+category: Image & Creative Automation
+framework: Multi-Framework
+verification: Security Reviewed
+description: Create distinct first-screen designs, compare them in one page, then refine the chosen direction against desktop and mobile screenshots.
+url: https://agentskillexchange.com/skills/compare-ui-design-directions-and-refine-the-selected-page-with-oil-ui/
 
 ## Datacircle
 slug: datacircle

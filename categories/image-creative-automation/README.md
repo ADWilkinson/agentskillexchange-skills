@@ -108,6 +108,7 @@ Image generation, asset processing, design automation, and creative tooling.
 | [Turn a plain-language brief into a multi-step video production pipeline with OpenMontage](../../skills/turn-a-plain-language-brief-into-a-multi-step-video-production-pipeline-with-openmontage/) | 3k | — |
 | [Draw and verify Excalidraw diagrams through an agent canvas](../../skills/draw-and-verify-excalidraw-diagrams-through-an-agent-canvas/) | 2.4k | 11.7k/wk |
 | [Produce cinematic product videos with Video Shotcraft](../../skills/produce-cinematic-product-videos-with-video-shotcraft/) | 2.1k | — |
+| [Compare UI design directions and refine the selected page with Oil UI](../../skills/compare-ui-design-directions-and-refine-the-selected-page-with-oil-ui/) | 2.1k | — |
 | [Generate consistent hand-drawn image prompts with Hand Drawn Styles](../../skills/generate-consistent-hand-drawn-image-prompts-with-hand-drawn-styles/) | 2k | — |
 | [OpenEXR HDR Compositing Pipeline](../../skills/openexr-hdr-compositing-pipeline/) | 1.8k | — |
 | [Run code-generated short-film workflows with Lemo-Opuscar](../../skills/direct-code-generated-short-films-with-lemo-opuscar-styles/) | 1.5k | — |

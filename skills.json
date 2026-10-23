@@ -1,8 +1,22 @@
 {
   "version": "2.0",
-  "total": 3179,
+  "total": 3180,
   "generated": "2026-10-23",
   "skills": [
+    {
+      "slug": "compare-ui-design-directions-and-refine-the-selected-page-with-oil-ui",
+      "name": "Compare UI design directions and refine the selected page with Oil UI",
+      "title": "Compare UI design directions and refine the selected page with Oil UI",
+      "description": "Create distinct first-screen designs, compare them in one page, then refine the chosen direction against desktop and mobile screenshots.",
+      "category": "Image & Creative Automation",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "signals": {
+        "github_stars": 2059
+      },
+      "source_url": "https://github.com/oil-oil/oil-ui",
+      "github_repo": "oil-oil/oil-ui"
+    },
     {
       "slug": "datacircle",
       "name": "Datacircle",
