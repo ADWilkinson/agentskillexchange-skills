@@ -51,7 +51,7 @@ npm exec --package=skills@1.5.7 -- skills add agentskillexchange/skills --skill 
 
 ## Skill of the Day
 
-**[n8n Workflow Webhook Bridge](skills/n8n-workflow-webhook-bridge/)** — Builds integration handoffs around n8n primitives like the Webhook node, HTTP Request node, and execution data inspection. Great for connecting event sources, transforming payloads, and making low-code workflows…
+**[Metabase Open Source Business Intelligence and Embedded Analytics](skills/metabase-open-source-business-intelligence-and-embedded-analytics/)** — Metabase is an open source business intelligence platform for querying data, building dashboards, and embedding analytics. It gives agents a real analytics surface for answering operational questions, creating…
 
 _Rotates daily across downloaded, starred, recent, verified, and industry-curated skills._
 
