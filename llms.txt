@@ -13919,7 +13919,7 @@ url: https://agentskillexchange.com/skills/d2-diagram-scripting-language-cli/
 slug: rclone-cloud-storage-sync-management-cli
 category: Integrations & Connectors
 framework: Multi-Framework
-verification: Security Reviewed
+verification: Published
 description: Rclone is an open-source command-line program to sync files and directories to and from over 70 cloud storage providers including Google Drive, S3, Dropbox,…
 url: https://agentskillexchange.com/skills/rclone-cloud-storage-sync-management-cli/
 
@@ -14087,7 +14087,7 @@ url: https://agentskillexchange.com/skills/paddleocr-multilingual-document-ocr-t
 slug: libvips-high-performance-image-processing-library-cli
 category: Image & Creative Automation
 framework: Multi-Framework
-verification: Security Reviewed
+verification: Published
 description: libvips is a demand-driven, horizontally threaded image processing library with over 300 operations. It processes images faster and with less memory than alternatives like…
 url: https://agentskillexchange.com/skills/libvips-high-performance-image-processing-library-cli/
 
@@ -14759,7 +14759,7 @@ url: https://agentskillexchange.com/skills/wpgraphql-graphql-api-wordpress/
 slug: wp-cli-command-line-interface-wordpress
 category: WordPress & CMS
 framework: Multi-Framework
-verification: Security Reviewed
+verification: Published
 description: Builds repeatable WordPress maintenance and content workflows around WP-CLI, the official command-line interface for WordPress. Useful for plugin management, database tasks, user administration, search-replace…
 url: https://agentskillexchange.com/skills/wp-cli-command-line-interface-wordpress/
 
@@ -15055,7 +15055,7 @@ url: https://agentskillexchange.com/skills/gallery-dl-image-gallery-collection-d
 slug: yt-dlp-feature-rich-audio-video-downloader-cli
 category: Media & Transcription
 framework: Multi-Framework
-verification: Security Reviewed
+verification: Published
 description: yt-dlp is a powerful command-line tool for downloading audio and video from thousands of websites including YouTube, Vimeo, and social media platforms. It supports…
 url: https://agentskillexchange.com/skills/yt-dlp-feature-rich-audio-video-downloader-cli/
 
@@ -15071,7 +15071,7 @@ url: https://agentskillexchange.com/skills/wpscan-wordpress-security-vulnerabili
 slug: google-workspace-mcp-server-gmail-calendar-drive
 category: Calendar, Email & Productivity
 framework: MCP
-verification: Security Reviewed
+verification: Published
 description: The Google Workspace MCP Server provides comprehensive natural language control over Gmail, Google Calendar, Drive, Docs, Sheets, Slides, Forms, Tasks, Contacts, and Chat through…
 url: https://agentskillexchange.com/skills/google-workspace-mcp-server-gmail-calendar-drive/
 
@@ -15095,7 +15095,7 @@ url: https://agentskillexchange.com/skills/desktop-commander-mcp-terminal-file-c
 slug: atlassian-mcp-server-jira-confluence
 category: Integrations & Connectors
 framework: MCP
-verification: Security Reviewed
+verification: Published
 description: mcp-atlassian is a Model Context Protocol server that connects AI assistants to Atlassian Jira and Confluence. It enables searching and managing Jira issues, reading…
 url: https://agentskillexchange.com/skills/atlassian-mcp-server-jira-confluence/
 
@@ -15151,7 +15151,7 @@ url: https://agentskillexchange.com/skills/typedoc-typescript-api-documentation-
 slug: snyk-agent-scan-mcp-skill-security-scanner
 category: Security & Verification
 framework: MCP
-verification: Security Reviewed
+verification: Published
 description: Snyk Agent Scan automatically discovers and scans AI agent components including MCP servers, agent skills, and agent harnesses for security vulnerabilities like prompt injections,…
 url: https://agentskillexchange.com/skills/snyk-agent-scan-mcp-skill-security-scanner/
 
@@ -15263,7 +15263,7 @@ url: https://agentskillexchange.com/skills/spectral-openapi-asyncapi-linter/
 slug: docker-mcp-server-container-lifecycle-management
 category: Integrations & Connectors
 framework: MCP
-verification: Security Reviewed
+verification: Published
 description: An MCP server that enables AI agents to manage Docker containers, images, volumes, and networks through natural language. Supports local and remote Docker engines…
 url: https://agentskillexchange.com/skills/docker-mcp-server-container-lifecycle-management/
 
