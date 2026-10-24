@@ -27,12 +27,12 @@ Email automation, calendar management, task coordination, and productivity tools
 | [Discord Bot Manager](../../skills/discord-bot-manager/) | ⬇ 564.5k/wk |
 | [Google Workspace CLI (gws)](../../skills/google-workspace-cli-gws/) | ⬇ 38.9k/wk |
 | [Nodemailer Node.js Email Sending Library with SMTP and Transport Support](../../skills/nodemailer-nodejs-email-sending-library/) | ⬇ 15.5M/wk |
+| [nb CLI Note-Taking Bookmarking and Knowledge Base Application](../../skills/nb-cli-note-taking-bookmarking-knowledge-base/) | ⬇ 167/wk |
 | [Automate Lark and Feishu docs, sheets, mail, calendar, meetings, and chat tasks from agents with Lark CLI](../../skills/automate-lark-and-feishu-docs-sheets-mail-calendar-meetings-and-chat-tasks-from-agents-with-lark-cli/) | ⬇ 98.6k/wk |
 | [MailDev SMTP Capture and Email Testing Server](../../skills/maildev-smtp-capture-and-email-testing-server/) | ⬇ 90.4k/wk |
 | [MailDev SMTP Testing Server and Web Interface for Development Email Workflows](../../skills/maildev-smtp-testing-server-and-web-interface-for-development-email-workflows/) | ⬇ 90.4k/wk |
 | [Notion MCP Server](../../skills/notion-mcp-server/) | ⬇ 1.1M/wk |
 | [Notion AI Document Summarizer & Action Item Extractor](../../skills/notion-ai-doc-summarizer/) | ⬇ 1.2M/wk |
-| [Notion AI Workspace](../../skills/notion-ai-workspace/) | ⬇ 1.2M/wk |
 
 ---
 
@@ -71,7 +71,7 @@ Email automation, calendar management, task coordination, and productivity tools
 | [Miniflux Self-Hosted RSS Feed Reader and Automation API](../../skills/miniflux-self-hosted-rss-feed-reader-and-automation-api/) | 9.1k | — |
 | [Mailpit SMTP Testing and Email Capture Workbench](../../skills/mailpit-smtp-testing-email-capture-workbench/) | 9.1k | — |
 | [solidtime Modern Open Source Time Tracking for Freelancers and Agencies](../../skills/solidtime-open-source-time-tracking/) | 8.4k | — |
-| [nb CLI Note-Taking Bookmarking and Knowledge Base Application](../../skills/nb-cli-note-taking-bookmarking-knowledge-base/) | 8.1k | — |
+| [nb CLI Note-Taking Bookmarking and Knowledge Base Application](../../skills/nb-cli-note-taking-bookmarking-knowledge-base/) | 8.1k | 167/wk |
 | [Automate Lark and Feishu docs, sheets, mail, calendar, meetings, and chat tasks from agents with Lark CLI](../../skills/automate-lark-and-feishu-docs-sheets-mail-calendar-meetings-and-chat-tasks-from-agents-with-lark-cli/) | 7.9k | 98.6k/wk |
 | [jrnl Command-Line Journal and Note Capture Tool](../../skills/jrnl-command-line-journal-note-capture/) | 7.2k | — |
 | [MailDev SMTP Capture and Email Testing Server](../../skills/maildev-smtp-capture-and-email-testing-server/) | 5.9k | 90.4k/wk |

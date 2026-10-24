@@ -166,7 +166,7 @@ Parsing, ETL pipelines, format conversion, data wrangling, and transformation ut
 | [Build graph RAG context with Neo4j LLM Graph Builder](../../skills/build-graph-rag-context-with-neo4j-llm-graph-builder/) | 4.7k | — |
 | [Expose Postgres safely to agents with pREST MCP](../../skills/expose-postgres-safely-to-agents-with-prest-mcp/) | 4.6k | — |
 | [ExifTool Metadata Reader and Writer for Images and Files](../../skills/exiftool-metadata-reader-writer-images-files/) | 4.6k | — |
-| [franc Natural Language Detection Library and CLI](../../skills/franc-natural-language-detection/) | 4.4k | — |
+| [franc Natural Language Detection Library and CLI](../../skills/franc-natural-language-detection/) | 4.4k | 332.3k/wk |
 | [Stripe Revenue Analytics Dashboard Builder](../../skills/stripe-revenue-analytics-dashboard/) | 4.4k | 9.3M/wk |
 | [Build managed document parsing pipelines with LlamaCloud Services](../../skills/build-managed-document-parsing-pipelines-with-llamacloud-services/) | 4.2k | 83k/wk |
 | [Generate validated analytics SQL with SQLCoder](../../skills/generate-validated-analytics-sql-with-sqlcoder/) | 4k | — |

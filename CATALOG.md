@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3180 published skills** across **17 categories** · 2,619 security reviewed · Updated 2026-10-24 01:26 UTC
+> **3180 published skills** across **17 categories** · 2,619 security reviewed · Updated 2026-10-24 07:26 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -1220,7 +1220,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Data
 | [Build graph RAG context with Neo4j LLM Graph Builder](skills/build-graph-rag-context-with-neo4j-llm-graph-builder/) | Convert a bounded document set into a Neo4j knowledge graph, inspect extracted nodes and relationships, and use it… | Security Reviewed | 4.7k | — |
 | [Expose Postgres safely to agents with pREST MCP](skills/expose-postgres-safely-to-agents-with-prest-mcp/) | Run pREST in front of existing Postgres databases to provide instant REST APIs and a read-only MCP endpoint with… | Security Reviewed | 4.6k | — |
 | [ExifTool Metadata Reader and Writer for Images and Files](skills/exiftool-metadata-reader-writer-images-files/) | ExifTool by Phil Harvey is a comprehensive Perl-based CLI tool for reading, writing, and editing metadata in over… | Security Reviewed | 4.6k | — |
-| [franc Natural Language Detection Library and CLI](skills/franc-natural-language-detection/) | franc is a JavaScript library and CLI tool for detecting the language of text. It supports up to 419 languages and… | Published | 4.4k | — |
+| [franc Natural Language Detection Library and CLI](skills/franc-natural-language-detection/) | franc is a JavaScript library and CLI tool for detecting the language of text. It supports up to 419 languages and… | Published | 4.4k | 332.3k/wk |
 | [Stripe Revenue Analytics Dashboard Builder](skills/stripe-revenue-analytics-dashboard/) | Pulls MRR, churn, and LTV metrics from the Stripe Data API using the stripe Node.js SDK and transforms the data… | Published | 4.4k | 9.3M/wk |
 | [Build managed document parsing pipelines with LlamaCloud Services](skills/build-managed-document-parsing-pipelines-with-llamacloud-services/) | Use LlamaCloud Services to parse, index, and manage document knowledge pipelines that feed LlamaIndex retrieval and… | Security Reviewed | 4.2k | 83k/wk |
 | [Generate validated analytics SQL with SQLCoder](skills/generate-validated-analytics-sql-with-sqlcoder/) | Use SQLCoder when an analytics agent needs to turn natural-language questions plus schema context into SQL drafts… | Security Reviewed | 4k | — |
@@ -2770,7 +2770,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Cale
 | [Miniflux Self-Hosted RSS Feed Reader and Automation API](skills/miniflux-self-hosted-rss-feed-reader-and-automation-api/) | Use Miniflux to run a minimalist self-hosted feed reader with a clean web UI, webhooks, and API integrations. This… | Security Reviewed | 9.1k | — |
 | [Mailpit SMTP Testing and Email Capture Workbench](skills/mailpit-smtp-testing-email-capture-workbench/) | This skill uses Mailpit as a safe SMTP sink for development, QA, and automated test runs. It helps teams capture,… | Security Reviewed | 9.1k | — |
 | [solidtime Modern Open Source Time Tracking for Freelancers and Agencies](skills/solidtime-open-source-time-tracking/) | solidtime is a modern open-source time tracking application built for freelancers and agencies, featuring project… | Published | 8.4k | — |
-| [nb CLI Note-Taking Bookmarking and Knowledge Base Application](skills/nb-cli-note-taking-bookmarking-knowledge-base/) | nb is a command-line and local web note-taking, bookmarking, archiving, and knowledge base application. It stores… | Security Reviewed | 8.1k | — |
+| [nb CLI Note-Taking Bookmarking and Knowledge Base Application](skills/nb-cli-note-taking-bookmarking-knowledge-base/) | nb is a command-line and local web note-taking, bookmarking, archiving, and knowledge base application. It stores… | Security Reviewed | 8.1k | 167/wk |
 | [Automate Lark and Feishu docs, sheets, mail, calendar, meetings, and chat tasks from agents with Lark CLI](skills/automate-lark-and-feishu-docs-sheets-mail-calendar-meetings-and-chat-tasks-from-agents-with-lark-cli/) | Operate Lark and Feishu work objects from one agent-ready CLI instead of stitching together separate APIs and… | Security Reviewed | 7.9k | 98.6k/wk |
 | [jrnl Command-Line Journal and Note Capture Tool](skills/jrnl-command-line-journal-note-capture/) | jrnl is a command-line journal application that lets you capture thoughts and notes without leaving the terminal. It… | Published | 7.2k | — |
 | [MailDev SMTP Capture and Email Testing Server](skills/maildev-smtp-capture-and-email-testing-server/) | MailDev is a local SMTP server with a web UI and REST API for capturing application email during development. It… | Security Reviewed | 5.9k | 90.4k/wk |

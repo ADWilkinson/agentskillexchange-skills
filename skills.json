@@ -24518,6 +24518,7 @@
       "verification": "security_reviewed",
       "signals": {
         "github_stars": 8088,
+        "npm_weekly_downloads": 167,
         "license": "AGPL-3.0"
       },
       "source_url": "https://github.com/xwmx/nb",
@@ -24792,6 +24793,7 @@
       "verification": "listed",
       "signals": {
         "github_stars": 4386,
+        "npm_weekly_downloads": 332317,
         "license": "MIT"
       },
       "source_url": "https://github.com/wooorm/franc",
